@@ -8,7 +8,7 @@ from transformers import AutoTokenizer
 tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
 
 # Function to split text into chunks based on token count
-def split_text_by_tokens(text, max_tokens=4000):
+def split_text_by_tokens(text, max_tokens=3000):
     words = text.split()
     chunks = []
     current_chunk = []
@@ -67,16 +67,16 @@ def summarize_transcript(file_path, model="llama3.1:8b"):
     print("Generating final summary from chunk summaries...")
 
     combined_summary = "\n\n".join(partial_summaries)
-    final_summary = summarize_chunk(combined_summary, model)
+    # final_summary = summarize_chunk(combined_summary, model)
 
     # Save result
     base_name = os.path.splitext(file_path)[0]
     summary_path_txt = f"{base_name}_summary.txt"
     with open(summary_path_txt, "w", encoding="utf-8") as f:
-        f.write(summary)
+        f.write(combined_summary)
     summary_path_md = f"{base_name}_summary.md"
     with open(summary_path_md, "w", encoding="utf-8") as f:
-        f.write(summary)
+        f.write(combined_summary)
 
     print(f"Final summary saved to: {summary_path_txt} and {summary_path_md}")
 
