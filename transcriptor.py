@@ -1,4 +1,4 @@
-# Import necessary libraries
+# This script transcribes audio files using the Whisper model.
 import whisper
 import os
 import sys
@@ -18,14 +18,19 @@ def transcribe_audio(file_path):
     model = whisper.load_model("turbo")  # You can use "base", "small", "medium", or "large" if needed
 
     print(f"Transcribing: {file_path}")
-    result = model.transcribe(file_path)
+    result = model.transcribe("your_audio_file.mp3", verbose=True)
 
     # Create output file name
     base_name = os.path.splitext(file_path)[0]
     output_path = f"{base_name}.txt"
 
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(result["text"])
+    # Save timestamped + punctuated transcription
+    with open("your_audio_file.txt", "w", encoding="utf-8") as f:
+        for segment in result["segments"]:
+            start = segment["start"]
+            end = segment["end"]
+            text = segment["text"]
+            f.write(f"[{start:.2f} --> {end:.2f}] {text}\n")
 
     print(f"Transcription saved to: {output_path}")
 
