@@ -10,22 +10,26 @@ print("Current CUDA GPU: " + str(torch.cuda.get_device_name(0)))  # Print GPU na
 
 # Transcribe audio files using Whisper model
 def transcribe_audio(file_path):
-    if not os.path.exists(file_path):
-        print(f"File not found: {file_path}")
-        return
+    # Loop through all .mp3 files in file_path directory
+    for file in os.listdir(file_path):
+        if file.endswith(".mp3"):
+            full_path = os.path.join(file_path, file)
+            transcribe(full_path)
 
+# Transcribe a single audio file
+def transcribe(file_path):
     print("Loading model...")
     model = whisper.load_model("turbo")  # You can use "base", "small", "medium", or "large" if needed
 
     print(f"Transcribing: {file_path}")
-    result = model.transcribe("your_audio_file.mp3", verbose=True)
+    result = model.transcribe(file_path, language="en", verbose=True)
 
     # Create output file name
     base_name = os.path.splitext(file_path)[0]
     output_path = f"{base_name}.txt"
 
     # Save timestamped + punctuated transcription
-    with open("your_audio_file.txt", "w", encoding="utf-8") as f:
+    with open(output_path+".txt", "w", encoding="utf-8") as f:
         for segment in result["segments"]:
             start = segment["start"]
             end = segment["end"]
