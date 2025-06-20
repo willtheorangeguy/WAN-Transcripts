@@ -29,7 +29,7 @@ def transcribe(file_path):
     output_path = f"{base_name}.txt"
 
     # Save timestamped + punctuated transcription
-    with open(output_path+".txt", "w", encoding="utf-8") as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         for segment in result["segments"]:
             start = segment["start"]
             end = segment["end"]
