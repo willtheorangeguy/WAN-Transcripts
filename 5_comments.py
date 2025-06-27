@@ -12,7 +12,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 
-API_KEY = 'AIzaSyDmqY9NLnA78xcQWgmn2i_rN7z3LXhxfC4'  # Replace with your API key
+API_KEY = ''  # Replace with your API key
 YOUTUBE = build('youtube', 'v3', developerKey=API_KEY)
 
 def extract_playlist_id(playlist_url):
