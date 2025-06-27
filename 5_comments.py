@@ -141,7 +141,7 @@ def download_comments(playlist_url, year):
             video_index = video_ids.index(video_id)
             video_title = video_titles[video_index]
             # Remove or replace characters not allowed in filenames
-            safe_title = re.sub(r'[\\/*?:"<>|]', "_", video_title)
+            safe_title = re.sub(r'[\\/*?:"<>|]', "", video_title)
             output_file = safe_title + "_LTT_comments"
 
             with open(output_file + ".txt", "w", encoding="utf-8") as f:
@@ -164,7 +164,7 @@ def download_comments(playlist_url, year):
             video_index = video_ids.index(video_id)
             video_title = video_titles[video_index]
             # Remove or replace characters not allowed in filenames
-            safe_title = re.sub(r'[\\/*?:"<>|]', "_", video_title)
+            safe_title = re.sub(r'[\\/*?:"<>|]', "", video_title)
             output_file = safe_title + "_timestamps"
 
             with open(output_file + ".txt", "w", encoding="utf-8") as f:
