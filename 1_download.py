@@ -27,6 +27,10 @@ if __name__ == "__main__":
         playlist_url = "https://www.youtube.com/playlist?list=PLECu8_cZKJeyxrRoOyJC9fQmCffzuzAGK"
         output_path = "2012-2013"
         year = "2012-2013"
+    elif sys.argv[1] == "2012-2013":
+        playlist_url = "https://www.youtube.com/playlist?list=PLECu8_cZKJeyxrRoOyJC9fQmCffzuzAGK"
+        output_path = "2012-2013"
+        year = "2012-2013"
     elif sys.argv[1] == "2013":
         playlist_url = "https://www.youtube.com/playlist?list=PLECu8_cZKJew6gvsF8WLyUPPY7XZomp2s"
         output_path = "2013"
