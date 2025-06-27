@@ -8,12 +8,12 @@ and then fetch the related comments.
 import re
 import os
 import sys
+from constants import YOUTUBE_API_KEY
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 
-API_KEY = ''  # Replace with your API key
-YOUTUBE = build('youtube', 'v3', developerKey=API_KEY)
+YOUTUBE = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)
 
 def extract_playlist_id(playlist_url):
     """Extracts the playlist ID from a YouTube playlist URL.

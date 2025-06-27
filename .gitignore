@@ -34,6 +34,7 @@ env/
 ENV/
 *.egg-info/
 *.egg
+constants.py
 
 # Ignore VS Code settings
 .vscode/
