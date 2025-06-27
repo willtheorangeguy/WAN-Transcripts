@@ -12,8 +12,8 @@ from constants import YOUTUBE_API_KEY
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-
-YOUTUBE = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)
+api_key = YOUTUBE_API_KEY
+YOUTUBE = build('youtube', 'v3', developerKey=api_key)
 
 def extract_playlist_id(playlist_url):
     """Extracts the playlist ID from a YouTube playlist URL.
