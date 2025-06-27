@@ -14,7 +14,7 @@ def clean_text_file(file_path):
     """Cleans text files by correcting grammar and spelling errors using LanguageTool."""
     # Iterate over all .txt files
     for file in os.listdir(file_path):
-        if (file.endswith(".txt") or file.endswith(".md")) and not file.endswith("_LLT_comments.txt") and not file.endswith("_LLT_comments.md") and not file.endswith("_timestamps.txt") and not file.endswith("_timestamps.md") and not file.endswith("_corrected.txt") and not file.endswith("_corrected.md"):
+        if (file.endswith(".txt") or file.endswith(".md")) and not file.endswith("_LTT_comments.txt") and not file.endswith("_LTT_comments.md") and not file.endswith("_timestamps.txt") and not file.endswith("_timestamps.md") and not file.endswith("_corrected.txt") and not file.endswith("_corrected.md"):
             full_path = os.path.join(file_path, file)
             print(f"Processing {full_path}...")
 
