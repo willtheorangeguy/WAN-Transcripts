@@ -18,25 +18,34 @@ def clean_text_file(file_path):
             full_path = os.path.join(file_path, file)
             print(f"Processing {full_path}...")
 
-            # Read the content of the file
-            with open(full_path, "r", encoding="utf-8") as f:
-                content = f.read()
+            try:
+                # Read the content of the file
+                with open(full_path, "r", encoding="utf-8") as f:
+                    content = f.read()
 
-            # Check for errors
-            matches = tool.check(content)
-            if matches:
-                print(f"Correcting {len(matches)} issues in {file}...")
+                # Check for errors
+                matches = tool.check(content)
+                if matches:
+                    print(f"Correcting {len(matches)} issues in {file}...")
 
-                # Correct the content
-                corrected_content = tool.correct(content)
+                    # Correct the content
+                    corrected_content = tool.correct(content)
 
-                # Write the corrected content back to the file
-                corrected_path = full_path.replace(".txt", "_corrected.txt").replace(".md", "_corrected.md")
-                with open(corrected_path, "w", encoding="utf-8") as f:
-                    f.write(corrected_content)
-                print(f"Corrected {file} and saved changes.\n")
-            else:
-                print(f"No issues found in {file}.\n")
+                    # Write the corrected content back to the file
+                    corrected_path = full_path.replace(".txt", "_corrected.txt").replace(".md", "_corrected.md")
+                    with open(corrected_path, "w", encoding="utf-8") as f:
+                        f.write(corrected_content)
+                    print(f"Corrected {file} and saved changes.\n")
+                else:
+                    print(f"No issues found in {file}.\n")
+            except (FileNotFoundError, PermissionError, UnicodeDecodeError, OSError) as e:
+                print(f"Error processing {file}: {e}")
+                print(f"Skipping {file} and continuing to next file.\n")
+                continue
+            except Exception as e:
+                print(f"Unexpected error processing {file}: {e}")
+                print(f"Skipping {file} and continuing to next file.\n")
+                continue
 
 if __name__ == "__main__":
     clean_text_file(sys.argv[1] if len(sys.argv) > 1 else os.getcwd())
