@@ -1,0 +1,3 @@
+[2013-05-14T18:44:14Z] Video: May 10, 2013 Live Stream Afterparty 
+Everyone is welcome to have their own opinion. If you boyfriend loves anime, then I would hope it won't be a problem for him if someone else doesn't like it...
+
