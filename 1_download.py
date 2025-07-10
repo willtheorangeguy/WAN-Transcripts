@@ -11,7 +11,7 @@ def download_playlist(playlist_url, output_path):
     Downloads all videos from a YouTube playlist.
     """
     ydl_opts = {
-        'format': 'best',
+        'format': 'bv+ba',
         'outtmpl': f'{output_path}/%(title)s.%(ext)s',
         'noplaylist': False,
         'ignoreerrors': True,
