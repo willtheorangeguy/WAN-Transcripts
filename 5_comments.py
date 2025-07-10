@@ -133,10 +133,14 @@ def get_comments_with_keyword(video_id, keyword="timestamps"):
             comment = item["snippet"]["topLevelComment"]["snippet"]
             text = comment["textDisplay"]
             comment_id = item["snippet"]["topLevelComment"]["id"]
-            # Only add if keyword is present and at least one digit is in the comment
-            if (keyword.lower() in text.lower() and
-                comment_id not in seen_comment_ids and
-                re.search(r'\d', text)):
+            # Only add if keyword is present, at least one digit is in the comment,
+            # and the comment contains a standalone ':' character (not adjacent to any other character)
+            if (
+                keyword.lower() in text.lower()
+                and comment_id not in seen_comment_ids
+                and re.search(r'\d', text)
+                and re.search(r'(?<!\S):(?!\S)', text)
+            ):
                 seen_comment_ids.add(comment_id)
                 matched_comments.append({
                     "videoId": video_id,
