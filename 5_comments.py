@@ -109,6 +109,48 @@ def get_user_comments(video_id, username):
 
     return user_comments
 
+def get_comments_with_keyword(video_id, keyword="timestamps"):
+    """Fetches all top-level comments on a video that 
+    contain a specific keyword and at least one number."""
+    matched_comments = []
+    next_page_token = None
+    seen_comment_ids = set()
+
+    while True:
+        try:
+            res = YOUTUBE.commentThreads().list(
+                part="snippet",
+                videoId=video_id,
+                maxResults=100,
+                pageToken=next_page_token,
+                textFormat="plainText"
+            ).execute()
+        except HttpError as e:
+            print(f"HTTP error for video {video_id}: {e}\nSkipping to next video.")
+            break
+
+        for item in res["items"]:
+            comment = item["snippet"]["topLevelComment"]["snippet"]
+            text = comment["textDisplay"]
+            comment_id = item["snippet"]["topLevelComment"]["id"]
+            # Only add if keyword is present and at least one digit is in the comment
+            if (keyword.lower() in text.lower() and
+                comment_id not in seen_comment_ids and
+                re.search(r'\d', text)):
+                seen_comment_ids.add(comment_id)
+                matched_comments.append({
+                    "videoId": video_id,
+                    "text": text,
+                    "publishedAt": comment["publishedAt"]
+                })
+
+        next_page_token = res.get("nextPageToken")
+        if not next_page_token:
+            break
+
+    return matched_comments
+
+
 def download_comments(playlist_url, year):
     """Downloads comments made by a specific user from all videos in a playlist."""
     playlist_id = extract_playlist_id(playlist_url)
@@ -152,13 +194,13 @@ def download_comments(playlist_url, year):
                     f.write(f"[{comment['publishedAt']}] Video: {video_title} \n{comment['text']}\n\n")
             print(f"Comments saved to {output_file}.txt and {output_file}.md\n")
 
-        # Write comments from @NoKi1119 to a file
-        noki_comments = get_user_comments(video_id, "@NoKi1119")
-        print(f"\nTotal comments by @NoKi1119: {len(noki_comments)}")
+        # Write timestamp comments to a file
+        timestamp_comments = get_comments_with_keyword(video_id, "timestamps")
+        print(f"\nTotal public comments containing 'timestamps': {len(timestamp_comments)}")
         
         # Skip if no comments found, avoids creating empty files
-        if len(noki_comments) == 0:
-            print(f"No comments found for @NoKi1119 on video ID: {video_id}. Skipping...\n")
+        if len(timestamp_comments) == 0:
+            print(f"No timestamp comments found on video ID: {video_id}. Skipping...\n")
         else:
             # Use the video title as the output file name
             video_index = video_ids.index(video_id)
@@ -168,10 +210,10 @@ def download_comments(playlist_url, year):
             output_file = safe_title + "_timestamps"
 
             with open(output_file + ".txt", "w", encoding="utf-8") as f:
-                for comment in noki_comments:
+                for comment in timestamp_comments:
                     f.write(f"[{comment['publishedAt']}] Video: {video_title} \n{comment['text']}\n\n")
             with open(output_file + ".md", "w", encoding="utf-8") as f:
-                for comment in noki_comments:
+                for comment in timestamp_comments:
                     f.write(f"[{comment['publishedAt']}] Video: {video_title} \n{comment['text']}\n\n")
             print(f"Comments saved to {output_file}.txt and {output_file}.md\n")
 
@@ -179,6 +221,10 @@ def download_comments(playlist_url, year):
 # set the appropriate playlist URL and output path.
 if __name__ == "__main__":
     if sys.argv[1] == "2012":
+        playlist_url = "https://www.youtube.com/playlist?list=PLECu8_cZKJeyxrRoOyJC9fQmCffzuzAGK"
+        output_path = "2012-2013"
+        year = "2012-2013"
+    elif sys.argv[1] == "2012-2013":
         playlist_url = "https://www.youtube.com/playlist?list=PLECu8_cZKJeyxrRoOyJC9fQmCffzuzAGK"
         output_path = "2012-2013"
         year = "2012-2013"
