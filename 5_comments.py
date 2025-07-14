@@ -109,7 +109,7 @@ def get_user_comments(video_id, username):
 
     return user_comments
 
-def get_comments_with_keyword(video_id, keyword="timestamps"):
+def get_comments_with_keyword(video_id, keyword="timestamp"):
     """Fetches all top-level comments on a video that 
     contain a specific keyword and at least one number."""
     matched_comments = []
