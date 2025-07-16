@@ -199,8 +199,8 @@ def download_comments(playlist_url, year):
             print(f"Comments saved to {output_file}.txt and {output_file}.md\n")
 
         # Write timestamp comments to a file
-        timestamp_comments = get_comments_with_keyword(video_id, "timestamps")
-        print(f"\nTotal public comments containing 'timestamps': {len(timestamp_comments)}")
+        timestamp_comments = get_comments_with_keyword(video_id, "timestamp")
+        print(f"\nTotal public comments containing 'timestamp': {len(timestamp_comments)}")
         
         # Skip if no comments found, avoids creating empty files
         if len(timestamp_comments) == 0:
