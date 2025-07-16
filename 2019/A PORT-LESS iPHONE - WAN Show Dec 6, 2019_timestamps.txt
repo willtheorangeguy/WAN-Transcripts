@@ -22,3 +22,11 @@
 0:58:41 : Superchats + Linus apologises for Stream quality and issues
 1:10:30 : WAN Show ends
 
+[2019-12-09T17:35:35Z] Video: A PORT-LESS iPHONE?? - WAN Show Dec 6, 2019 
+to the channel owner: you need to put a space after the timestamp for the link to work
+
+ie: 0:00 : pre-intro topic
+
+[2019-12-07T11:36:31Z] Video: A PORT-LESS iPHONE?? - WAN Show Dec 6, 2019 
+Only 1 timestamp working, not just AMD news that doesn't work this time....
+
