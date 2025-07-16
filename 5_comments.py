@@ -139,7 +139,6 @@ def get_comments_with_keyword(video_id, keyword="timestamp"):
                 keyword.lower() in text.lower()
                 and comment_id not in seen_comment_ids
                 and re.search(r'\d', text)
-                and re.search(r'(?<!\S):(?!\S)', text)
             ):
                 seen_comment_ids.add(comment_id)
                 matched_comments.append({
