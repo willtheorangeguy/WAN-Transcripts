@@ -15,7 +15,7 @@ def download_playlist(playlist_url, output_path):
         'outtmpl': f'{output_path}/%(title)s.%(ext)s',
         'noplaylist': False,
         'ignoreerrors': True,
-        'download_archive': f'{output_path}/downloaded.txt',
+        'download_archive': f'{output_path}/downloaded.log',
         'remote-components': 'ejs:github'
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:

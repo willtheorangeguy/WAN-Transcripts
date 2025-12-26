@@ -1,6 +1,5 @@
 # Ignore log files
 *.log
-processed_files.log
 
 # Ignore media files
 *.mp3

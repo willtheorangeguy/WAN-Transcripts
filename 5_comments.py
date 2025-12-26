@@ -15,6 +15,9 @@ from googleapiclient.errors import HttpError
 api_key = YOUTUBE_API_KEY
 YOUTUBE = build('youtube', 'v3', developerKey=api_key)
 
+# Log file name
+LOG_FILENAME = "comments.log"
+
 def extract_playlist_id(playlist_url):
     """Extracts the playlist ID from a YouTube playlist URL.
     If the URL is already a playlist ID, it returns the ID directly."""
@@ -26,6 +29,7 @@ def get_video_ids_from_playlist(playlist_id):
     video_ids = []
     next_page_token = None
 
+    # Loop to handle pagination
     while True:
         # Response from the YouTube API to get playlist items
         res = YOUTUBE.playlistItems().list(
@@ -50,6 +54,7 @@ def get_video_titles_from_playlist(playlist_id):
     video_titles = []
     next_page_token = None
 
+    # Loop to handle pagination
     while True:
         # Response from the YouTube API to get playlist items
         res = YOUTUBE.playlistItems().list(
@@ -75,6 +80,7 @@ def get_user_comments(video_id, username):
     next_page_token = None
     seen_comment_ids = set()
 
+    # Loop to handle pagination
     while True:
         # Response from the YouTube API to get comments on a video
         try:
@@ -116,7 +122,9 @@ def get_comments_with_keyword(video_id, keyword="timestamp"):
     next_page_token = None
     seen_comment_ids = set()
 
+    # Loop to handle pagination
     while True:
+        # Response from the YouTube API to get comments on a video
         try:
             res = YOUTUBE.commentThreads().list(
                 part="snippet",
@@ -125,10 +133,12 @@ def get_comments_with_keyword(video_id, keyword="timestamp"):
                 pageToken=next_page_token,
                 textFormat="plainText"
             ).execute()
+        # Handle HTTP errors gracefully
         except HttpError as e:
             print(f"HTTP error for video {video_id}: {e}\nSkipping to next video.")
             break
 
+        # Iterate through the comments and filter by keyword
         for item in res["items"]:
             comment = item["snippet"]["topLevelComment"]["snippet"]
             text = comment["textDisplay"]
@@ -155,7 +165,7 @@ def get_comments_with_keyword(video_id, keyword="timestamp"):
 
 
 def download_comments(playlist_url, year):
-    """Downloads comments made by a specific user from all videos in a playlist."""
+    """Downloads comments made by a specific user from all videos in a playlist, with logging."""
     playlist_id = extract_playlist_id(playlist_url)
     print(f"Fetching videos from year: {year}...")
 
@@ -170,55 +180,68 @@ def download_comments(playlist_url, year):
         os.makedirs(year)
     os.chdir(year)
 
-    # Get comments from @LinusTechTips user
-    for video_id in video_ids:
-        print(f"Checking comments on video ID: {video_id}...")
-        
-        # Write comments from @LinusTechTips to a file
-        ltt_comments = get_user_comments(video_id, "@LinusTechTips")
-        print(f"\nTotal comments by @LinusTechTips: {len(ltt_comments)}")
-        
-        # Skip if no comments found, avoids creating empty files
-        if len(ltt_comments) == 0:
-            print(f"No comments found for video ID: {video_id}. Skipping...\n")
-        else:
-            # Use the video title as the output file name
-            video_index = video_ids.index(video_id)
-            video_title = video_titles[video_index]
-            # Remove or replace characters not allowed in filenames
-            safe_title = re.sub(r'[\\/*?:"<>|]', "", video_title)
-            output_file = safe_title + "_LTT_comments"
+    # Path to log file
+    log_path = os.path.join(os.getcwd(), LOG_FILENAME)
+    processed_videos = set()
+    
+    # Load already processed files from log
+    if os.path.exists(log_path):
+        with open(log_path, "r", encoding="utf-8") as log_file:
+            for line in log_file:
+                processed_videos.add(line.strip())
 
-            with open(output_file + ".txt", "w", encoding="utf-8") as f:
-                for comment in ltt_comments:
-                    f.write(f"[{comment['publishedAt']}] Video: {video_title} \n{comment['text']}\n\n")
-            with open(output_file + ".md", "w", encoding="utf-8") as f:
-                for comment in ltt_comments:
-                    f.write(f"[{comment['publishedAt']}] Video: {video_title} \n{comment['text']}\n\n")
-            print(f"Comments saved to {output_file}.txt and {output_file}.md\n")
+    with open(log_path, "a", encoding="utf-8") as log_file:
+        # Loop through each video ID in the playlist
+        for video_id in video_ids:
+            if video_id in processed_videos:
+                print(f"⏭️ Skipping (already processed): {video_id}")
+                continue
+            print(f"Checking comments on video ID: {video_id}...")
 
-        # Write timestamp comments to a file
-        timestamp_comments = get_comments_with_keyword(video_id, "timestamp")
-        print(f"\nTotal public comments containing 'timestamp': {len(timestamp_comments)}")
-        
-        # Skip if no comments found, avoids creating empty files
-        if len(timestamp_comments) == 0:
-            print(f"No timestamp comments found on video ID: {video_id}. Skipping...\n")
-        else:
-            # Use the video title as the output file name
-            video_index = video_ids.index(video_id)
-            video_title = video_titles[video_index]
-            # Remove or replace characters not allowed in filenames
-            safe_title = re.sub(r'[\\/*?:"<>|]', "", video_title)
-            output_file = safe_title + "_timestamps"
+            # Write comments from @LinusTechTips to a file
+            ltt_comments = get_user_comments(video_id, "@LinusTechTips")
+            print(f"\nTotal comments by @LinusTechTips: {len(ltt_comments)}")
 
-            with open(output_file + ".txt", "w", encoding="utf-8") as f:
-                for comment in timestamp_comments:
-                    f.write(f"[{comment['publishedAt']}] Video: {video_title} \n{comment['text']}\n\n")
-            with open(output_file + ".md", "w", encoding="utf-8") as f:
-                for comment in timestamp_comments:
-                    f.write(f"[{comment['publishedAt']}] Video: {video_title} \n{comment['text']}\n\n")
-            print(f"Comments saved to {output_file}.txt and {output_file}.md\n")
+            # Skip if no comments found, avoids creating empty files
+            if len(ltt_comments) == 0:
+                print(f"No comments found for video ID: {video_id}. Skipping...\n")
+            else:
+                video_index = video_ids.index(video_id)
+                video_title = video_titles[video_index]
+                safe_title = re.sub(r'[\\/*?:"<>|]', "", video_title)
+                output_file = safe_title + "_LTT_comments"
+
+                with open(output_file + ".txt", "w", encoding="utf-8") as f:
+                    for comment in ltt_comments:
+                        f.write(f"[{comment['publishedAt']}] Video: {video_title} \n{comment['text']}\n\n")
+                with open(output_file + ".md", "w", encoding="utf-8") as f:
+                    for comment in ltt_comments:
+                        f.write(f"[{comment['publishedAt']}] Video: {video_title} \n{comment['text']}\n\n")
+                print(f"Comments saved to {output_file}.txt and {output_file}.md\n")
+
+            # Write timestamp comments to a file
+            timestamp_comments = get_comments_with_keyword(video_id, "timestamp")
+            print(f"\nTotal public comments containing 'timestamp': {len(timestamp_comments)}")
+
+            if len(timestamp_comments) == 0:
+                print(f"No timestamp comments found on video ID: {video_id}. Skipping...\n")
+            else:
+                video_index = video_ids.index(video_id)
+                video_title = video_titles[video_index]
+                safe_title = re.sub(r'[\\/*?:"<>|]', "", video_title)
+                output_file = safe_title + "_timestamps"
+
+                with open(output_file + ".txt", "w", encoding="utf-8") as f:
+                    for comment in timestamp_comments:
+                        f.write(f"[{comment['publishedAt']}] Video: {video_title} \n{comment['text']}\n\n")
+                with open(output_file + ".md", "w", encoding="utf-8") as f:
+                    for comment in timestamp_comments:
+                        f.write(f"[{comment['publishedAt']}] Video: {video_title} \n{comment['text']}\n\n")
+                print(f"Comments saved to {output_file}.txt and {output_file}.md\n")
+
+            # Log this video as processed
+            log_file.write(video_id + "\n")
+            log_file.flush()
 
 # Depending on the year specified,
 # set the appropriate playlist URL and output path.

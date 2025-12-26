@@ -5,9 +5,12 @@ import shutil
 
 SUFFIX = "_transcript_corrected.txt"
 
-def main(folder):
+def generate_subs(folder):
+    """Copies all transcripts in the specified folder to new .srt files,
+    skipping any that already exist."""
     folder = os.path.abspath(folder)
 
+    # Validate folder
     if not os.path.isdir(folder):
         print(f"Error: '{folder}' is not a valid directory")
         return
@@ -15,10 +18,12 @@ def main(folder):
     pattern = os.path.join(folder, f"*{SUFFIX}")
     files = glob.glob(pattern)
 
+    # Check if any files found
     if not files:
         print(f"No *{SUFFIX} files found.")
         return
 
+    # Copy each file to new .srt file
     for src in files:
         base = os.path.basename(src)
         new_name = base[:-len(SUFFIX)] + ".srt"
@@ -32,8 +37,4 @@ def main(folder):
         print(f"Copied: {base} -> {new_name}")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        print("Usage: python copy_transcripts.py <folder>")
-        sys.exit(1)
-
-    main(sys.argv[1])
+   generate_subs(sys.argv[1] if len(sys.argv) > 1 else os.getcwd())

@@ -8,12 +8,14 @@ import sys
 import ollama
 from transformers import AutoTokenizer
 
+# Log file name
+LOG_FILENAME = "transcribed.log"
+
 # Load tokenizer
 tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
 
 def split_text_by_tokens(text, max_tokens=2000):
-    """Splits the input text into chunks that do not exceed the specified token limit.
-    """
+    """Splits the input text into chunks that do not exceed the specified token limit."""
     words = text.split()
     chunks = []
     current_chunk = []
@@ -34,6 +36,7 @@ def split_text_by_tokens(text, max_tokens=2000):
 
 def summarize_chunk(text, model="llama3.1:8b"):
     """Summarizes a chunk of text using the specified Ollama model."""
+    # Ollama prompt
     prompt = (
         "You are an expert summarizer. Summarize the following transcript into a short list "
         "of the main topics discussed or mentioned. Use only bullet points. "
@@ -41,6 +44,7 @@ def summarize_chunk(text, model="llama3.1:8b"):
         f"{text}"
     )
 
+    # Ollama response handler
     response = ollama.chat(
         model=model,
         messages=[
@@ -56,11 +60,13 @@ def summarize_transcript(full_path, model):
     with open(full_path, "r", encoding="utf-8") as f:
         transcript = f.read()
 
+    # Split transcript into chunks
     print("Splitting transcript into chunks...")
     chunks = split_text_by_tokens(transcript)
 
     print(f"{len(chunks)} chunks created. Summarizing each...")
 
+    # Summarize each chunk
     partial_summaries = []
     for i, chunk in enumerate(chunks):
         print(f"Summarizing chunk {i+1}/{len(chunks)}...")
@@ -69,6 +75,7 @@ def summarize_transcript(full_path, model):
 
     print("Generating final summary from chunk summaries...")
 
+    # Combine partial summaries
     combined_summary = "\n".join(partial_summaries)
 
     # Save result
@@ -88,13 +95,15 @@ def summarize_transcripts(file_path, model="llama3.1:8b"):
     skipping already processed files and summary files."""\
     
     # Create a log file to track processed files
-    log_path = os.path.join(file_path, "processed_files.log")
+    log_path = os.path.join(file_path, LOG_FILENAME)
     processed_files = set()
+
     # Load already processed files from log
     if os.path.exists(log_path):
         with open(log_path, "r", encoding="utf-8") as log_file:
             processed_files = set(line.strip() for line in log_file if line.strip())
 
+    # Loop through all .txt files in the directory
     for file in os.listdir(file_path):
         full_path = os.path.join(file_path, file)
         # Skip summary files and already processed files
@@ -103,6 +112,7 @@ def summarize_transcripts(file_path, model="llama3.1:8b"):
             summarize_transcript(full_path, model)
             with open(log_path, "a", encoding="utf-8") as log_file:
                 log_file.write(file + "\n")
+                log_file.flush()
             
 # When script is run, summarize all transcripts in the current directory
 if __name__ == "__main__":
