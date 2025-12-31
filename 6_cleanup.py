@@ -10,8 +10,76 @@ import language_tool_python
 # Log file name
 LOG_FILENAME = "cleaned.log"
 
+# Chunk size for processing large files
+CHUNK_SIZE = 10000
+
 # Initialize the tool
 tool = language_tool_python.LanguageTool('en-CA')
+
+def split_text_into_chunks(text, chunk_size=CHUNK_SIZE):
+    """Splits text into chunks at natural break points."""
+    chunks = []
+    start = 0
+    text_length = len(text)
+    
+    while start < text_length:
+        # Determine the end of this chunk
+        end = start + chunk_size
+        
+        # If this is the last chunk, just take the rest
+        if end >= text_length:
+            chunks.append(text[start:])
+            break    
+     
+        # Try to break at a single newline
+        newline_break = text.rfind('\n', start, end)
+        if newline_break != -1 and newline_break > start:
+            chunks.append(text[start:newline_break + 1])
+            start = newline_break + 1
+            continue
+        
+        # Try to break at a sentence boundary
+        sentence_break = max(
+            text.rfind('. ', start, end),
+            text.rfind('? ', start, end),
+            text.rfind('! ', start, end)
+        )
+        if sentence_break != -1 and sentence_break > start:
+            chunks.append(text[start:sentence_break + 2])
+            start = sentence_break + 2
+            continue
+        
+        # If no natural break found, just split at chunk_size
+        chunks.append(text[start:end])
+        start = end
+    
+    return chunks
+
+def correct_text_in_chunks(text, chunk_size=CHUNK_SIZE):
+    """
+    Corrects text by processing it in chunks to improve performance.
+    Returns the corrected text and the total number of corrections made.
+    """
+    chunks = split_text_into_chunks(text, chunk_size)
+    corrected_chunks = []
+    total_corrections = 0
+    
+    print(f"  Processing {len(chunks)} chunk(s)...")
+    
+    for i, chunk in enumerate(chunks, 1):
+        print(f"    Chunk {i}/{len(chunks)}...", end='', flush=True)
+        matches = tool.check(chunk)
+        total_corrections += len(matches)
+        
+        if matches:
+            corrected_chunk = tool.correct(chunk)
+            corrected_chunks.append(corrected_chunk)
+            print(f" {len(matches)} corrections")
+        else:
+            corrected_chunks.append(chunk)
+            print(" no corrections needed")
+    
+    return ''.join(corrected_chunks), total_corrections
 
 def clean_text_file(file_path):
     """Cleans text files by correcting grammar and spelling errors using LanguageTool, with logging."""
@@ -48,18 +116,18 @@ def clean_text_file(file_path):
                 try:
                     with open(full_path, "r", encoding="utf-8") as f:
                         content = f.read()
-                    # Check and correct the content
-                    matches = tool.check(content)
-                    if matches:
-                        print(f"Correcting {len(matches)} issues in {file}...")
-                        corrected_content = tool.correct(content)
+                    
+                    # Use chunked processing for better performance
+                    corrected_content, total_corrections = correct_text_in_chunks(content)
+                    
+                    if total_corrections > 0:
+                        print(f"  Total: {total_corrections} correction(s) made in {file}")
                         corrected_path = full_path.replace(".txt", "_corrected.txt").replace(".md", "_corrected.md")
                         with open(corrected_path, "w", encoding="utf-8") as f:
                             f.write(corrected_content)
-                        print(f"Corrected {file} and saved changes.\n")
-                    # If no issues found, just log it
+                        print(f"  Saved corrected version to {os.path.basename(corrected_path)}\n")
                     else:
-                        print(f"No issues found in {file}.\n")
+                        print(f"  No corrections needed for {file}.\n")
                     
                     # Log this file as cleaned
                     log_file.write(file + "\n")

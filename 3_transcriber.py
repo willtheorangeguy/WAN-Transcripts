@@ -13,8 +13,8 @@ LOG_FILENAME = "transcribed.log"
 
 # Check for PyTorch
 import torch
-print("Is CUDA enabled? " + str(torch.cuda.is_available()))
-print("Current CUDA GPU: " + str(torch.cuda.get_device_name(0)))
+# print("Is CUDA enabled? " + str(torch.cuda.is_available()))
+# print("Current CUDA GPU: " + str(torch.cuda.get_device_name(0)))
 
 def transcribe_audio(folder_path):
     """Transcribes only .mp3 files in the specified directory using Whisper."""

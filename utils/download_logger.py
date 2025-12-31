@@ -32,8 +32,8 @@ if __name__ == "__main__":
         playlist_input = input("Enter the YouTube playlist URL: ").strip()
         folder = input("Enter the folder path to save the log file: ").strip()
     else: 
-        folder = sys.argv[1]
-        playlist_input = sys.argv[2]
+        playlist_input = sys.argv[1]
+        folder = sys.argv[2]
 
     ids = get_playlist_video_ids(playlist_input)
 
