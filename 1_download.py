@@ -84,12 +84,16 @@ if __name__ == "__main__":
         playlist_url = "https://www.youtube.com/playlist?list=PLECu8_cZKJeywv4N-s5MsfwRfWfnDfWXx"
         output_path = "2025"
         year = "2025"
+    elif sys.argv[1] == "2026":
+        playlist_url = "https://www.youtube.com/playlist?list=PLECu8_cZKJezN9FU8VvJ7aUHEhlUSLGrp"
+        output_path = "2026"
+        year = "2026"
     elif sys.argv[1] == "all":
-        playlist_url = "https://www.youtube.com/watch?v=JyNRZsnJ1-Y&list=PLECu8_cZKJeyR1Xc7JuBZ1vUMr4dvIIhh"
+        playlist_url = "https://www.youtube.com/playlist?list=PLECu8_cZKJeyR1Xc7JuBZ1vUMr4dvIIhh"
         output_path = "all"
         year = "all"
-    elif sys.argv[1] == "latest": # currently 2025
-        playlist_url = "https://www.youtube.com/playlist?list=PLECu8_cZKJeywv4N-s5MsfwRfWfnDfWXx"
+    elif sys.argv[1] == "latest": # currently 2026
+        playlist_url = "https://www.youtube.com/playlist?list=PLECu8_cZKJezN9FU8VvJ7aUHEhlUSLGrp"
         output_path = "latest"
         year = "latest"
     else:
