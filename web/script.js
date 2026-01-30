@@ -99,18 +99,27 @@ async function loadEpisode(episode) {
         commentsTab.style.display = 'none';
     }
     
+    // Add event listeners to tab buttons
+    document.querySelectorAll('.tab-button').forEach(button => {
+        button.addEventListener('click', function() {
+            const tabType = this.getAttribute('data-tab');
+            switchTab(tabType, this);
+        });
+    });
+    
     // Load the default tab (transcript)
-    switchTab('transcript');
+    const transcriptButton = document.querySelector('.tab-button[data-tab="transcript"]');
+    switchTab('transcript', transcriptButton);
 }
 
 // Switch between tabs
-async function switchTab(type, event) {
+async function switchTab(type, buttonElement) {
     // Update active tab
     document.querySelectorAll('.tab-button').forEach(btn => {
         btn.classList.remove('active');
     });
-    if (event && event.target) {
-        event.target.classList.add('active');
+    if (buttonElement) {
+        buttonElement.classList.add('active');
     }
     
     // Show loading
@@ -121,10 +130,10 @@ async function switchTab(type, event) {
         let filename;
         switch(type) {
             case 'transcript':
-                filename = currentEpisode.files.transcriptCorrected;
+                filename = currentEpisode.files.transcriptCorrected || currentEpisode.files.transcript;
                 break;
             case 'summary':
-                filename = currentEpisode.files.summaryCorrected;
+                filename = currentEpisode.files.summaryCorrected || currentEpisode.files.summary;
                 break;
             case 'timestamps':
                 filename = currentEpisode.files.timestamps;
