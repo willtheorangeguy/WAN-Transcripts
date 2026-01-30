@@ -104,12 +104,14 @@ async function loadEpisode(episode) {
 }
 
 // Switch between tabs
-async function switchTab(type) {
+async function switchTab(type, event) {
     // Update active tab
     document.querySelectorAll('.tab-button').forEach(btn => {
         btn.classList.remove('active');
     });
-    event.target.classList.add('active');
+    if (event && event.target) {
+        event.target.classList.add('active');
+    }
     
     // Show loading
     document.getElementById('loading').style.display = 'block';

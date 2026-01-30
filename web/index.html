@@ -30,10 +30,10 @@
                 <h2 id="episode-title"></h2>
                 
                 <div class="tabs">
-                    <button class="tab-button active" onclick="switchTab('transcript')">Corrected Transcript</button>
-                    <button class="tab-button" onclick="switchTab('summary')">Summary</button>
-                    <button class="tab-button" onclick="switchTab('timestamps')">Timestamps</button>
-                    <button class="tab-button" id="comments-tab" onclick="switchTab('comments')" style="display: none;">LTT Comments</button>
+                    <button class="tab-button active" onclick="(e) => switchTab('transcript', e)">Corrected Transcript</button>
+                    <button class="tab-button" onclick="(e) => switchTab('summary', e)">Summary</button>
+                    <button class="tab-button" onclick="(e) => switchTab('timestamps', e)">Timestamps</button>
+                    <button class="tab-button" id="comments-tab" onclick="(e) => switchTab('comments', e)" style="display: none;">LTT Comments</button>
                 </div>
 
                 <div class="loading" id="loading">Loading...</div>
