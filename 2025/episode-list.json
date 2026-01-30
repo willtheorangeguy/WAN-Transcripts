@@ -1,11 +1,13 @@
 [
   {
-    "title": "I Met THE Linus - WAN Show September 5, 2025",
-    "date": "September 5, 2025",
+    "title": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025",
+    "date": "October 24, 2025",
     "files": {
-      "summaryCorrected": "I Met THE Linus - WAN Show September 5, 2025_summary_corrected.md",
-      "transcriptCorrected": "I Met THE Linus - WAN Show September 5, 2025_transcript_corrected.md",
-      "timestamps": "I Met THE Linus - WAN Show September 5, 2025_timestamps.md"
+      "summary": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025_summary.md",
+      "timestamps": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025_timestamps.md",
+      "transcript": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025_transcript.md",
+      "summaryCorrected": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025_summary_corrected.md",
+      "transcriptCorrected": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025_transcript_corrected.md"
     },
     "hasComments": false
   },
@@ -21,223 +23,43 @@
     "hasComments": false
   },
   {
-    "title": "We Know Why No One's Watching Tech YouTubers - WAN Show September 19, 2025",
-    "date": "September 19, 2025",
+    "title": "Android Has Become Apple - WAN Show August 29, 2025",
+    "date": "August 29, 2025",
     "files": {
-      "transcriptCorrected": "We Know Why No One's Watching Tech YouTubers - WAN Show September 19, 2025_transcript_corrected.md",
-      "timestamps": "We Know Why No One's Watching Tech YouTubers - WAN Show September 19, 2025_timestamps.md",
-      "summary": "We Know Why No One's Watching Tech YouTubers - WAN Show September 19, 2025_summary.md",
-      "summaryCorrected": "We Know Why No One's Watching Tech YouTubers - WAN Show September 19, 2025_summary_corrected.md"
+      "summaryCorrected": "Android Has Become Apple - WAN Show August 29, 2025_summary_corrected.md",
+      "transcript": "Android Has Become Apple - WAN Show August 29, 2025_transcript.md",
+      "timestamps": "Android Has Become Apple - WAN Show August 29, 2025_timestamps.md",
+      "transcriptCorrected": "Android Has Become Apple - WAN Show August 29, 2025_transcript_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "I Ordered My New iPhone - WAN Show September 12, 2025",
-    "date": "September 12, 2025",
+    "title": "Breaking My Silence - WAN Show January 17, 2025",
+    "date": "January 17, 2025",
     "files": {
-      "summary": "I Ordered My New iPhone - WAN Show September 12, 2025_summary.md",
-      "transcriptCorrected": "I Ordered My New iPhone - WAN Show September 12, 2025_transcript_corrected.md",
-      "summaryCorrected": "I Ordered My New iPhone - WAN Show September 12, 2025_summary_corrected.md",
-      "timestamps": "I Ordered My New iPhone - WAN Show September 12, 2025_timestamps.md"
+      "summaryCorrected": "Breaking My Silence - WAN Show January 17, 2025_summary_corrected.md",
+      "comments": "Breaking My Silence - WAN Show January 17, 2025_LTT_comments.md",
+      "timestamps": "Breaking My Silence - WAN Show January 17, 2025_timestamps.md",
+      "transcript": "Breaking My Silence - WAN Show January 17, 2025_transcript.md",
+      "transcriptCorrected": "Breaking My Silence - WAN Show January 17, 2025_transcript_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "Cables Aren’t Supposed To Melt, Right  - WAN Show February 14, 2025",
+    "date": "February 14, 2025",
+    "files": {
+      "summaryCorrected": "Cables Aren’t Supposed To Melt, Right  - WAN Show February 14, 2025_summary_corrected.md",
+      "transcript": "Cables Aren’t Supposed To Melt, Right  - WAN Show February 14, 2025_transcript.md",
+      "transcriptCorrected": "Cables Aren’t Supposed To Melt, Right  - WAN Show February 14, 2025_transcript_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "YouTube Is Making People B̶l̶o̶o̶d̶y Mad - WAN Show October 31, 2025",
-    "date": "October 31, 2025",
+    "title": "Cables Aren’t Supposed To Melt, Right - WAN Show February 14, 2025",
+    "date": "February 14, 2025",
     "files": {
-      "transcriptCorrected": "YouTube Is Making People B̶l̶o̶o̶d̶y Mad - WAN Show October 31, 2025_transcript_corrected.md",
-      "summaryCorrected": "YouTube Is Making People B̶l̶o̶o̶d̶y Mad - WAN Show October 31, 2025_summary_corrected.md",
-      "timestamps": "YouTube Is Making People B̶l̶o̶o̶d̶y Mad - WAN Show October 31, 2025_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "I’m Buying A Tech House - WAN Show October 3, 2025",
-    "date": "October 3, 2025",
-    "files": {
-      "transcript": "I’m Buying A Tech House - WAN Show October 3, 2025_transcript.md",
-      "timestamps": "I’m Buying A Tech House - WAN Show October 3, 2025_timestamps.md",
-      "transcriptCorrected": "I’m Buying A Tech House - WAN Show October 3, 2025_transcript_corrected.md",
-      "summary": "I’m Buying A Tech House - WAN Show October 3, 2025_summary.md",
-      "summaryCorrected": "I’m Buying A Tech House - WAN Show October 3, 2025_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025",
-    "date": "October 24, 2025",
-    "files": {
-      "summary": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025_summary.md",
-      "timestamps": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025_timestamps.md",
-      "transcript": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025_transcript.md",
-      "summaryCorrected": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025_summary_corrected.md",
-      "transcriptCorrected": "Amazon (AWS) Broke The Internet - WAN Show October 24, 2025_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Pixel Phones Finally Blowing Up - WAN Show October 17, 2025",
-    "date": "October 17, 2025",
-    "files": {
-      "summaryCorrected": "Pixel Phones Finally Blowing Up - WAN Show October 17, 2025_summary_corrected.md",
-      "transcriptCorrected": "Pixel Phones Finally Blowing Up - WAN Show October 17, 2025_transcript_corrected.md",
-      "timestamps": "Pixel Phones Finally Blowing Up - WAN Show October 17, 2025_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Piracy Is  Dangerous And Harmful  - WAN Show October 10, 2025",
-    "date": "October 10, 2025",
-    "files": {
-      "summaryCorrected": "Piracy Is  Dangerous And Harmful  - WAN Show October 10, 2025_summary_corrected.md",
-      "transcript": "Piracy Is  Dangerous And Harmful  - WAN Show October 10, 2025_transcript.md",
-      "transcriptCorrected": "Piracy Is  Dangerous And Harmful  - WAN Show October 10, 2025_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Piracy Is Dangerous And Harmful - WAN Show October 10, 2025",
-    "date": "October 10, 2025",
-    "files": {
-      "timestamps": "Piracy Is Dangerous And Harmful - WAN Show October 10, 2025_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "The Louvre Password Was ‘LOUVRE’ - WAN Show November 7, 2025",
-    "date": "November 7, 2025",
-    "files": {
-      "timestamps": "The Louvre Password Was ‘LOUVRE’ - WAN Show November 7, 2025_timestamps.md",
-      "transcriptCorrected": "The Louvre Password Was ‘LOUVRE’ - WAN Show November 7, 2025_transcript_corrected.md",
-      "summary": "The Louvre Password Was ‘LOUVRE’ - WAN Show November 7, 2025_summary.md",
-      "summaryCorrected": "The Louvre Password Was ‘LOUVRE’ - WAN Show November 7, 2025_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025",
-    "date": "November 28, 2025",
-    "files": {
-      "transcript": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025_transcript.md",
-      "summary": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025_summary.md",
-      "timestamps": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025_timestamps.md",
-      "transcriptCorrected": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025_transcript_corrected.md",
-      "summaryCorrected": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "There’s No Reason To Buy An iPhone - WAN Show November 21, 2025",
-    "date": "November 21, 2025",
-    "files": {
-      "transcriptCorrected": "There’s No Reason To Buy An iPhone - WAN Show November 21, 2025_transcript_corrected.md",
-      "timestamps": "There’s No Reason To Buy An iPhone - WAN Show November 21, 2025_timestamps.md",
-      "summary": "There’s No Reason To Buy An iPhone - WAN Show November 21, 2025_summary.md",
-      "summaryCorrected": "There’s No Reason To Buy An iPhone - WAN Show November 21, 2025_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "The Hardest Secrets I’ve Ever Kept - WAN Show November 14, 2025",
-    "date": "November 14, 2025",
-    "files": {
-      "transcriptCorrected": "The Hardest Secrets I’ve Ever Kept - WAN Show November 14, 2025_transcript_corrected.md",
-      "summaryCorrected": "The Hardest Secrets I’ve Ever Kept - WAN Show November 14, 2025_summary_corrected.md",
-      "timestamps": "The Hardest Secrets I’ve Ever Kept - WAN Show November 14, 2025_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Nintendo and Nvidia Compete in Scumbag Competition - WAN Show May 9, 2025",
-    "date": "May 9, 2025",
-    "files": {
-      "summaryCorrected": "Nintendo and Nvidia Compete in Scumbag Competition - WAN Show May 9, 2025_summary_corrected.md",
-      "timestamps": "Nintendo and Nvidia Compete in Scumbag Competition - WAN Show May 9, 2025_timestamps.md",
-      "transcript": "Nintendo and Nvidia Compete in Scumbag Competition - WAN Show May 9, 2025_transcript.md",
-      "transcriptCorrected": "Nintendo and Nvidia Compete in Scumbag Competition - WAN Show May 9, 2025_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Windows Is Cooked For Gaming - WAN Show May 30, 2025",
-    "date": "May 30, 2025",
-    "files": {
-      "timestamps": "Windows Is Cooked For Gaming - WAN Show May 30, 2025_timestamps.md",
-      "transcript": "Windows Is Cooked For Gaming - WAN Show May 30, 2025_transcript.md",
-      "summary": "Windows Is Cooked For Gaming - WAN Show May 30, 2025_summary.md",
-      "transcriptCorrected": "Windows Is Cooked For Gaming - WAN Show May 30, 2025_transcript_corrected.md",
-      "summaryCorrected": "Windows Is Cooked For Gaming - WAN Show May 30, 2025_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "NVIDIA At War With The Media - WAN Show May 23, 2025",
-    "date": "May 23, 2025",
-    "files": {
-      "transcript": "NVIDIA At War With The Media - WAN Show May 23, 2025_transcript.md",
-      "timestamps": "NVIDIA At War With The Media - WAN Show May 23, 2025_timestamps.md",
-      "summary": "NVIDIA At War With The Media - WAN Show May 23, 2025_summary.md",
-      "summaryCorrected": "NVIDIA At War With The Media - WAN Show May 23, 2025_summary_corrected.md",
-      "transcriptCorrected": "NVIDIA At War With The Media - WAN Show May 23, 2025_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Everything Just Got More Expensive - WAN Show May 2, 2025",
-    "date": "May 2, 2025",
-    "files": {
-      "timestamps": "Everything Just Got More Expensive - WAN Show May 2, 2025_timestamps.md",
-      "summaryCorrected": "Everything Just Got More Expensive - WAN Show May 2, 2025_summary_corrected.md",
-      "transcript": "Everything Just Got More Expensive - WAN Show May 2, 2025_transcript.md",
-      "transcriptCorrected": "Everything Just Got More Expensive - WAN Show May 2, 2025_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "We’re The Best In The World At Computer - WAN Show May 16, 2025",
-    "date": "May 16, 2025",
-    "files": {
-      "transcript": "We’re The Best In The World At Computer - WAN Show May 16, 2025_transcript.md",
-      "summary": "We’re The Best In The World At Computer - WAN Show May 16, 2025_summary.md",
-      "timestamps": "We’re The Best In The World At Computer - WAN Show May 16, 2025_timestamps.md",
-      "summaryCorrected": "We’re The Best In The World At Computer - WAN Show May 16, 2025_summary_corrected.md",
-      "transcriptCorrected": "We’re The Best In The World At Computer - WAN Show May 16, 2025_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025",
-    "date": "March 7, 2025",
-    "files": {
-      "timestamps": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025_timestamps.md",
-      "summary": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025_summary.md",
-      "summaryCorrected": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025_summary_corrected.md",
-      "transcript": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025_transcript.md",
-      "transcriptCorrected": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "You Have Burning Questions - WAN Show March 28, 2025",
-    "date": "March 28, 2025",
-    "files": {
-      "summaryCorrected": "You Have Burning Questions - WAN Show March 28, 2025_summary_corrected.md",
-      "transcript": "You Have Burning Questions - WAN Show March 28, 2025_transcript.md",
-      "timestamps": "You Have Burning Questions - WAN Show March 28, 2025_timestamps.md",
-      "transcriptCorrected": "You Have Burning Questions - WAN Show March 28, 2025_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025",
-    "date": "March 21, 2025",
-    "files": {
-      "transcript": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025_transcript.md",
-      "transcriptCorrected": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025_transcript_corrected.md",
-      "summary": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025_summary.md",
-      "summaryCorrected": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025_summary_corrected.md",
-      "timestamps": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025_timestamps.md"
+      "timestamps": "Cables Aren’t Supposed To Melt, Right - WAN Show February 14, 2025_timestamps.md"
     },
     "hasComments": false
   },
@@ -254,57 +76,41 @@
     "hasComments": false
   },
   {
-    "title": "Okay We HAVE To Talk About This - WAN Show June 6, 2025",
-    "date": "June 6, 2025",
+    "title": "Does What We Do Even Matter  - WAN Show January 31, 2025",
+    "date": "January 31, 2025",
     "files": {
-      "transcript": "Okay We HAVE To Talk About This - WAN Show June 6, 2025_transcript.md",
-      "transcriptCorrected": "Okay We HAVE To Talk About This - WAN Show June 6, 2025_transcript_corrected.md",
-      "timestamps": "Okay We HAVE To Talk About This - WAN Show June 6, 2025_timestamps.md",
-      "summaryCorrected": "Okay We HAVE To Talk About This - WAN Show June 6, 2025_summary_corrected.md"
+      "summary": "Does What We Do Even Matter  - WAN Show January 31, 2025_summary.md",
+      "summaryCorrected": "Does What We Do Even Matter  - WAN Show January 31, 2025_summary_corrected.md",
+      "transcriptCorrected": "Does What We Do Even Matter  - WAN Show January 31, 2025_transcript_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "Windows Is Dead To Me - WAN Show June 27, 2025",
-    "date": "June 27, 2025",
+    "title": "Does What We Do Even Matter - WAN Show January 31, 2025",
+    "date": "January 31, 2025",
     "files": {
-      "transcript": "Windows Is Dead To Me - WAN Show June 27, 2025_transcript.md",
-      "timestamps": "Windows Is Dead To Me - WAN Show June 27, 2025_timestamps.md",
-      "summaryCorrected": "Windows Is Dead To Me - WAN Show June 27, 2025_summary_corrected.md",
-      "transcriptCorrected": "Windows Is Dead To Me - WAN Show June 27, 2025_transcript_corrected.md"
+      "timestamps": "Does What We Do Even Matter - WAN Show January 31, 2025_timestamps.md"
     },
     "hasComments": false
   },
   {
-    "title": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025",
-    "date": "June 20, 2025",
+    "title": "Everything Just Got More Expensive - WAN Show May 2, 2025",
+    "date": "May 2, 2025",
     "files": {
-      "summary": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025_summary.md",
-      "transcript": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025_transcript.md",
-      "summaryCorrected": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025_summary_corrected.md",
-      "timestamps": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025_timestamps.md",
-      "transcriptCorrected": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025_transcript_corrected.md"
+      "timestamps": "Everything Just Got More Expensive - WAN Show May 2, 2025_timestamps.md",
+      "summaryCorrected": "Everything Just Got More Expensive - WAN Show May 2, 2025_summary_corrected.md",
+      "transcript": "Everything Just Got More Expensive - WAN Show May 2, 2025_transcript.md",
+      "transcriptCorrected": "Everything Just Got More Expensive - WAN Show May 2, 2025_transcript_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "I’ve Been Reviewed - WAN Show June 13, 2025",
-    "date": "June 13, 2025",
+    "title": "Google Is Promoting Ad Blockers On YouTube - WAN Show April 25, 2025",
+    "date": "April 25, 2025",
     "files": {
-      "transcript": "I’ve Been Reviewed - WAN Show June 13, 2025_transcript.md",
-      "summaryCorrected": "I’ve Been Reviewed - WAN Show June 13, 2025_summary_corrected.md",
-      "transcriptCorrected": "I’ve Been Reviewed - WAN Show June 13, 2025_transcript_corrected.md",
-      "timestamps": "I’ve Been Reviewed - WAN Show June 13, 2025_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "You Should Own Your Games - WAN Show July 4, 2025",
-    "date": "July 4, 2025",
-    "files": {
-      "transcriptCorrected": "You Should Own Your Games - WAN Show July 4, 2025_transcript_corrected.md",
-      "summaryCorrected": "You Should Own Your Games - WAN Show July 4, 2025_summary_corrected.md",
-      "timestamps": "You Should Own Your Games - WAN Show July 4, 2025_timestamps.md"
+      "summaryCorrected": "Google Is Promoting Ad Blockers On YouTube - WAN Show April 25, 2025_summary_corrected.md",
+      "timestamps": "Google Is Promoting Ad Blockers On YouTube - WAN Show April 25, 2025_timestamps.md",
+      "transcriptCorrected": "Google Is Promoting Ad Blockers On YouTube - WAN Show April 25, 2025_transcript_corrected.md"
     },
     "hasComments": false
   },
@@ -320,20 +126,14 @@
     "hasComments": false
   },
   {
-    "title": "Does What We Do Even Matter - WAN Show January 31, 2025",
-    "date": "January 31, 2025",
+    "title": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025",
+    "date": "February 21, 2025",
     "files": {
-      "timestamps": "Does What We Do Even Matter - WAN Show January 31, 2025_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Does What We Do Even Matter  - WAN Show January 31, 2025",
-    "date": "January 31, 2025",
-    "files": {
-      "summary": "Does What We Do Even Matter  - WAN Show January 31, 2025_summary.md",
-      "summaryCorrected": "Does What We Do Even Matter  - WAN Show January 31, 2025_summary_corrected.md",
-      "transcriptCorrected": "Does What We Do Even Matter  - WAN Show January 31, 2025_transcript_corrected.md"
+      "transcript": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025_transcript.md",
+      "transcriptCorrected": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025_transcript_corrected.md",
+      "summary": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025_summary.md",
+      "timestamps": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025_timestamps.md",
+      "summaryCorrected": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025_summary_corrected.md"
     },
     "hasComments": false
   },
@@ -359,24 +159,112 @@
     "hasComments": false
   },
   {
-    "title": "Breaking My Silence - WAN Show January 17, 2025",
-    "date": "January 17, 2025",
+    "title": "I Met THE Linus - WAN Show September 5, 2025",
+    "date": "September 5, 2025",
     "files": {
-      "summaryCorrected": "Breaking My Silence - WAN Show January 17, 2025_summary_corrected.md",
-      "comments": "Breaking My Silence - WAN Show January 17, 2025_LTT_comments.md",
-      "timestamps": "Breaking My Silence - WAN Show January 17, 2025_timestamps.md",
-      "transcript": "Breaking My Silence - WAN Show January 17, 2025_transcript.md",
-      "transcriptCorrected": "Breaking My Silence - WAN Show January 17, 2025_transcript_corrected.md"
+      "summaryCorrected": "I Met THE Linus - WAN Show September 5, 2025_summary_corrected.md",
+      "transcriptCorrected": "I Met THE Linus - WAN Show September 5, 2025_transcript_corrected.md",
+      "timestamps": "I Met THE Linus - WAN Show September 5, 2025_timestamps.md"
     },
-    "hasComments": true
+    "hasComments": false
   },
   {
-    "title": "NVIDIA Fake Frames Scandal - WAN Show January 10, 2025",
-    "date": "January 10, 2025",
+    "title": "I Ordered My New iPhone - WAN Show September 12, 2025",
+    "date": "September 12, 2025",
     "files": {
-      "transcriptCorrected": "NVIDIA Fake Frames Scandal - WAN Show January 10, 2025_transcript_corrected.md",
-      "timestamps": "NVIDIA Fake Frames Scandal - WAN Show January 10, 2025_timestamps.md",
-      "summaryCorrected": "NVIDIA Fake Frames Scandal - WAN Show January 10, 2025_summary_corrected.md"
+      "summary": "I Ordered My New iPhone - WAN Show September 12, 2025_summary.md",
+      "transcriptCorrected": "I Ordered My New iPhone - WAN Show September 12, 2025_transcript_corrected.md",
+      "summaryCorrected": "I Ordered My New iPhone - WAN Show September 12, 2025_summary_corrected.md",
+      "timestamps": "I Ordered My New iPhone - WAN Show September 12, 2025_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025",
+    "date": "March 21, 2025",
+    "files": {
+      "transcript": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025_transcript.md",
+      "transcriptCorrected": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025_transcript_corrected.md",
+      "summary": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025_summary.md",
+      "summaryCorrected": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025_summary_corrected.md",
+      "timestamps": "I Tried To Take A Quiet Vacation - WAN Show March 21, 2025_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025",
+    "date": "June 20, 2025",
+    "files": {
+      "summary": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025_summary.md",
+      "transcript": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025_transcript.md",
+      "summaryCorrected": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025_summary_corrected.md",
+      "timestamps": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025_timestamps.md",
+      "transcriptCorrected": "If Buying Isn’t Ownership Then Piracy Isn’t Theft - WAN Show June 20, 2025_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Intel's CEO Needs to GO....  and I Agree... - WAN Show August 8, 2025",
+    "date": "August 8, 2025",
+    "files": {
+      "transcript": "Intel's CEO Needs to GO....  and I Agree... - WAN Show August 8, 2025_transcript.md",
+      "transcriptCorrected": "Intel's CEO Needs to GO....  and I Agree... - WAN Show August 8, 2025_transcript_corrected.md",
+      "summary": "Intel's CEO Needs to GO....  and I Agree... - WAN Show August 8, 2025_summary.md",
+      "summaryCorrected": "Intel's CEO Needs to GO....  and I Agree... - WAN Show August 8, 2025_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Intel's CEO Needs to GO.... and I Agree... - WAN Show August 8, 2025",
+    "date": "August 8, 2025",
+    "files": {
+      "timestamps": "Intel's CEO Needs to GO.... and I Agree... - WAN Show August 8, 2025_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "I’m Buying A Tech House - WAN Show October 3, 2025",
+    "date": "October 3, 2025",
+    "files": {
+      "transcript": "I’m Buying A Tech House - WAN Show October 3, 2025_transcript.md",
+      "timestamps": "I’m Buying A Tech House - WAN Show October 3, 2025_timestamps.md",
+      "transcriptCorrected": "I’m Buying A Tech House - WAN Show October 3, 2025_transcript_corrected.md",
+      "summary": "I’m Buying A Tech House - WAN Show October 3, 2025_summary.md",
+      "summaryCorrected": "I’m Buying A Tech House - WAN Show October 3, 2025_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "I’ve Been Reviewed - WAN Show June 13, 2025",
+    "date": "June 13, 2025",
+    "files": {
+      "transcript": "I’ve Been Reviewed - WAN Show June 13, 2025_transcript.md",
+      "summaryCorrected": "I’ve Been Reviewed - WAN Show June 13, 2025_summary_corrected.md",
+      "transcriptCorrected": "I’ve Been Reviewed - WAN Show June 13, 2025_transcript_corrected.md",
+      "timestamps": "I’ve Been Reviewed - WAN Show June 13, 2025_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025",
+    "date": "March 7, 2025",
+    "files": {
+      "timestamps": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025_timestamps.md",
+      "summary": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025_summary.md",
+      "summaryCorrected": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025_summary_corrected.md",
+      "transcript": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025_transcript.md",
+      "transcriptCorrected": "Lies, Damned Lies, And Then MSRP - WAN Show March 7, 2025_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Microsoft Admits Everyone Hates Copilot - WAN Show December 19, 2025",
+    "date": "December 19, 2025",
+    "files": {
+      "summary": "Microsoft Admits Everyone Hates Copilot - WAN Show December 19, 2025_summary.md",
+      "timestamps": "Microsoft Admits Everyone Hates Copilot - WAN Show December 19, 2025_timestamps.md",
+      "transcriptCorrected": "Microsoft Admits Everyone Hates Copilot - WAN Show December 19, 2025_transcript_corrected.md",
+      "summaryCorrected": "Microsoft Admits Everyone Hates Copilot - WAN Show December 19, 2025_summary_corrected.md"
     },
     "hasComments": false
   },
@@ -388,6 +276,17 @@
       "summary": "My Business Is In Danger - WAN Show February 7, 2025_summary.md",
       "transcriptCorrected": "My Business Is In Danger - WAN Show February 7, 2025_transcript_corrected.md",
       "summaryCorrected": "My Business Is In Danger - WAN Show February 7, 2025_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "My Favorite Website Is Gone Forever - WAN Show August 22, 2025",
+    "date": "August 22, 2025",
+    "files": {
+      "transcriptCorrected": "My Favorite Website Is Gone Forever - WAN Show August 22, 2025_transcript_corrected.md",
+      "summary": "My Favorite Website Is Gone Forever - WAN Show August 22, 2025_summary.md",
+      "timestamps": "My Favorite Website Is Gone Forever - WAN Show August 22, 2025_timestamps.md",
+      "summaryCorrected": "My Favorite Website Is Gone Forever - WAN Show August 22, 2025_summary_corrected.md"
     },
     "hasComments": false
   },
@@ -404,32 +303,172 @@
     "hasComments": false
   },
   {
-    "title": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025",
-    "date": "February 21, 2025",
+    "title": "NVIDIA At War With The Media - WAN Show May 23, 2025",
+    "date": "May 23, 2025",
     "files": {
-      "transcript": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025_transcript.md",
-      "transcriptCorrected": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025_transcript_corrected.md",
-      "summary": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025_summary.md",
-      "timestamps": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025_timestamps.md",
-      "summaryCorrected": "HP Nerfs Their Tech Support ON PURPOSE - WAN Show February 21, 2025_summary_corrected.md"
+      "transcript": "NVIDIA At War With The Media - WAN Show May 23, 2025_transcript.md",
+      "timestamps": "NVIDIA At War With The Media - WAN Show May 23, 2025_timestamps.md",
+      "summary": "NVIDIA At War With The Media - WAN Show May 23, 2025_summary.md",
+      "summaryCorrected": "NVIDIA At War With The Media - WAN Show May 23, 2025_summary_corrected.md",
+      "transcriptCorrected": "NVIDIA At War With The Media - WAN Show May 23, 2025_transcript_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "Cables Aren’t Supposed To Melt, Right  - WAN Show February 14, 2025",
-    "date": "February 14, 2025",
+    "title": "NVIDIA Fake Frames Scandal - WAN Show January 10, 2025",
+    "date": "January 10, 2025",
     "files": {
-      "summaryCorrected": "Cables Aren’t Supposed To Melt, Right  - WAN Show February 14, 2025_summary_corrected.md",
-      "transcript": "Cables Aren’t Supposed To Melt, Right  - WAN Show February 14, 2025_transcript.md",
-      "transcriptCorrected": "Cables Aren’t Supposed To Melt, Right  - WAN Show February 14, 2025_transcript_corrected.md"
+      "transcriptCorrected": "NVIDIA Fake Frames Scandal - WAN Show January 10, 2025_transcript_corrected.md",
+      "timestamps": "NVIDIA Fake Frames Scandal - WAN Show January 10, 2025_timestamps.md",
+      "summaryCorrected": "NVIDIA Fake Frames Scandal - WAN Show January 10, 2025_summary_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "Cables Aren’t Supposed To Melt, Right - WAN Show February 14, 2025",
-    "date": "February 14, 2025",
+    "title": "Nintendo and Nvidia Compete in Scumbag Competition - WAN Show May 9, 2025",
+    "date": "May 9, 2025",
     "files": {
-      "timestamps": "Cables Aren’t Supposed To Melt, Right - WAN Show February 14, 2025_timestamps.md"
+      "summaryCorrected": "Nintendo and Nvidia Compete in Scumbag Competition - WAN Show May 9, 2025_summary_corrected.md",
+      "timestamps": "Nintendo and Nvidia Compete in Scumbag Competition - WAN Show May 9, 2025_timestamps.md",
+      "transcript": "Nintendo and Nvidia Compete in Scumbag Competition - WAN Show May 9, 2025_transcript.md",
+      "transcriptCorrected": "Nintendo and Nvidia Compete in Scumbag Competition - WAN Show May 9, 2025_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Okay We HAVE To Talk About This - WAN Show June 6, 2025",
+    "date": "June 6, 2025",
+    "files": {
+      "transcript": "Okay We HAVE To Talk About This - WAN Show June 6, 2025_transcript.md",
+      "transcriptCorrected": "Okay We HAVE To Talk About This - WAN Show June 6, 2025_transcript_corrected.md",
+      "timestamps": "Okay We HAVE To Talk About This - WAN Show June 6, 2025_timestamps.md",
+      "summaryCorrected": "Okay We HAVE To Talk About This - WAN Show June 6, 2025_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Our World Record Was Shattered - WAN Show December 12, 2025",
+    "date": "December 12, 2025",
+    "files": {
+      "timestamps": "Our World Record Was Shattered - WAN Show December 12, 2025_timestamps.md",
+      "transcript": "Our World Record Was Shattered - WAN Show December 12, 2025_transcript.md",
+      "transcriptCorrected": "Our World Record Was Shattered - WAN Show December 12, 2025_transcript_corrected.md",
+      "summaryCorrected": "Our World Record Was Shattered - WAN Show December 12, 2025_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Piracy Is  Dangerous And Harmful  - WAN Show October 10, 2025",
+    "date": "October 10, 2025",
+    "files": {
+      "summaryCorrected": "Piracy Is  Dangerous And Harmful  - WAN Show October 10, 2025_summary_corrected.md",
+      "transcript": "Piracy Is  Dangerous And Harmful  - WAN Show October 10, 2025_transcript.md",
+      "transcriptCorrected": "Piracy Is  Dangerous And Harmful  - WAN Show October 10, 2025_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Piracy Is Dangerous And Harmful - WAN Show October 10, 2025",
+    "date": "October 10, 2025",
+    "files": {
+      "timestamps": "Piracy Is Dangerous And Harmful - WAN Show October 10, 2025_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Pixel Phones Finally Blowing Up - WAN Show October 17, 2025",
+    "date": "October 17, 2025",
+    "files": {
+      "summaryCorrected": "Pixel Phones Finally Blowing Up - WAN Show October 17, 2025_summary_corrected.md",
+      "transcriptCorrected": "Pixel Phones Finally Blowing Up - WAN Show October 17, 2025_transcript_corrected.md",
+      "timestamps": "Pixel Phones Finally Blowing Up - WAN Show October 17, 2025_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Sorry America - WAN Show April 11, 2025",
+    "date": "April 11, 2025",
+    "files": {
+      "transcript": "Sorry America - WAN Show April 11, 2025_transcript.md",
+      "summaryCorrected": "Sorry America - WAN Show April 11, 2025_summary_corrected.md",
+      "timestamps": "Sorry America - WAN Show April 11, 2025_timestamps.md",
+      "transcriptCorrected": "Sorry America - WAN Show April 11, 2025_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "That Time I Almost Got Sued - WAN Show April 18, 2025",
+    "date": "April 18, 2025",
+    "files": {
+      "transcriptCorrected": "That Time I Almost Got Sued - WAN Show April 18, 2025_transcript_corrected.md",
+      "timestamps": "That Time I Almost Got Sued - WAN Show April 18, 2025_timestamps.md",
+      "summaryCorrected": "That Time I Almost Got Sued - WAN Show April 18, 2025_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "The Hardest Secrets I’ve Ever Kept - WAN Show November 14, 2025",
+    "date": "November 14, 2025",
+    "files": {
+      "transcriptCorrected": "The Hardest Secrets I’ve Ever Kept - WAN Show November 14, 2025_transcript_corrected.md",
+      "summaryCorrected": "The Hardest Secrets I’ve Ever Kept - WAN Show November 14, 2025_summary_corrected.md",
+      "timestamps": "The Hardest Secrets I’ve Ever Kept - WAN Show November 14, 2025_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025",
+    "date": "November 28, 2025",
+    "files": {
+      "transcript": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025_transcript.md",
+      "summary": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025_summary.md",
+      "timestamps": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025_timestamps.md",
+      "transcriptCorrected": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025_transcript_corrected.md",
+      "summaryCorrected": "The Honey Lawsuit Was Dismissed - WAN Show November 28, 2025_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "The Louvre Password Was ‘LOUVRE’ - WAN Show November 7, 2025",
+    "date": "November 7, 2025",
+    "files": {
+      "timestamps": "The Louvre Password Was ‘LOUVRE’ - WAN Show November 7, 2025_timestamps.md",
+      "transcriptCorrected": "The Louvre Password Was ‘LOUVRE’ - WAN Show November 7, 2025_transcript_corrected.md",
+      "summary": "The Louvre Password Was ‘LOUVRE’ - WAN Show November 7, 2025_summary.md",
+      "summaryCorrected": "The Louvre Password Was ‘LOUVRE’ - WAN Show November 7, 2025_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "There’s No Reason To Buy An iPhone - WAN Show November 21, 2025",
+    "date": "November 21, 2025",
+    "files": {
+      "transcriptCorrected": "There’s No Reason To Buy An iPhone - WAN Show November 21, 2025_transcript_corrected.md",
+      "timestamps": "There’s No Reason To Buy An iPhone - WAN Show November 21, 2025_timestamps.md",
+      "summary": "There’s No Reason To Buy An iPhone - WAN Show November 21, 2025_summary.md",
+      "summaryCorrected": "There’s No Reason To Buy An iPhone - WAN Show November 21, 2025_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "This Is An Emergency - WAN Show April 4, 2025",
+    "date": "April 4, 2025",
+    "files": {
+      "summary": "This Is An Emergency - WAN Show April 4, 2025_summary.md",
+      "transcriptCorrected": "This Is An Emergency - WAN Show April 4, 2025_transcript_corrected.md",
+      "timestamps": "This Is An Emergency - WAN Show April 4, 2025_timestamps.md",
+      "summaryCorrected": "This Is An Emergency - WAN Show April 4, 2025_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "We Know Why No One's Watching Tech YouTubers - WAN Show September 19, 2025",
+    "date": "September 19, 2025",
+    "files": {
+      "transcriptCorrected": "We Know Why No One's Watching Tech YouTubers - WAN Show September 19, 2025_transcript_corrected.md",
+      "timestamps": "We Know Why No One's Watching Tech YouTubers - WAN Show September 19, 2025_timestamps.md",
+      "summary": "We Know Why No One's Watching Tech YouTubers - WAN Show September 19, 2025_summary.md",
+      "summaryCorrected": "We Know Why No One's Watching Tech YouTubers - WAN Show September 19, 2025_summary_corrected.md"
     },
     "hasComments": false
   },
@@ -455,65 +494,14 @@
     "hasComments": false
   },
   {
-    "title": "Microsoft Admits Everyone Hates Copilot - WAN Show December 19, 2025",
-    "date": "December 19, 2025",
+    "title": "We’re The Best In The World At Computer - WAN Show May 16, 2025",
+    "date": "May 16, 2025",
     "files": {
-      "summary": "Microsoft Admits Everyone Hates Copilot - WAN Show December 19, 2025_summary.md",
-      "timestamps": "Microsoft Admits Everyone Hates Copilot - WAN Show December 19, 2025_timestamps.md",
-      "transcriptCorrected": "Microsoft Admits Everyone Hates Copilot - WAN Show December 19, 2025_transcript_corrected.md",
-      "summaryCorrected": "Microsoft Admits Everyone Hates Copilot - WAN Show December 19, 2025_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Our World Record Was Shattered - WAN Show December 12, 2025",
-    "date": "December 12, 2025",
-    "files": {
-      "timestamps": "Our World Record Was Shattered - WAN Show December 12, 2025_timestamps.md",
-      "transcript": "Our World Record Was Shattered - WAN Show December 12, 2025_transcript.md",
-      "transcriptCorrected": "Our World Record Was Shattered - WAN Show December 12, 2025_transcript_corrected.md",
-      "summaryCorrected": "Our World Record Was Shattered - WAN Show December 12, 2025_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Intel's CEO Needs to GO....  and I Agree... - WAN Show August 8, 2025",
-    "date": "August 8, 2025",
-    "files": {
-      "transcript": "Intel's CEO Needs to GO....  and I Agree... - WAN Show August 8, 2025_transcript.md",
-      "transcriptCorrected": "Intel's CEO Needs to GO....  and I Agree... - WAN Show August 8, 2025_transcript_corrected.md",
-      "summary": "Intel's CEO Needs to GO....  and I Agree... - WAN Show August 8, 2025_summary.md",
-      "summaryCorrected": "Intel's CEO Needs to GO....  and I Agree... - WAN Show August 8, 2025_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Intel's CEO Needs to GO.... and I Agree... - WAN Show August 8, 2025",
-    "date": "August 8, 2025",
-    "files": {
-      "timestamps": "Intel's CEO Needs to GO.... and I Agree... - WAN Show August 8, 2025_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Android Has Become Apple - WAN Show August 29, 2025",
-    "date": "August 29, 2025",
-    "files": {
-      "summaryCorrected": "Android Has Become Apple - WAN Show August 29, 2025_summary_corrected.md",
-      "transcript": "Android Has Become Apple - WAN Show August 29, 2025_transcript.md",
-      "timestamps": "Android Has Become Apple - WAN Show August 29, 2025_timestamps.md",
-      "transcriptCorrected": "Android Has Become Apple - WAN Show August 29, 2025_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "My Favorite Website Is Gone Forever - WAN Show August 22, 2025",
-    "date": "August 22, 2025",
-    "files": {
-      "transcriptCorrected": "My Favorite Website Is Gone Forever - WAN Show August 22, 2025_transcript_corrected.md",
-      "summary": "My Favorite Website Is Gone Forever - WAN Show August 22, 2025_summary.md",
-      "timestamps": "My Favorite Website Is Gone Forever - WAN Show August 22, 2025_timestamps.md",
-      "summaryCorrected": "My Favorite Website Is Gone Forever - WAN Show August 22, 2025_summary_corrected.md"
+      "transcript": "We’re The Best In The World At Computer - WAN Show May 16, 2025_transcript.md",
+      "summary": "We’re The Best In The World At Computer - WAN Show May 16, 2025_summary.md",
+      "timestamps": "We’re The Best In The World At Computer - WAN Show May 16, 2025_timestamps.md",
+      "summaryCorrected": "We’re The Best In The World At Computer - WAN Show May 16, 2025_summary_corrected.md",
+      "transcriptCorrected": "We’re The Best In The World At Computer - WAN Show May 16, 2025_transcript_corrected.md"
     },
     "hasComments": false
   },
@@ -536,44 +524,56 @@
     "hasComments": false
   },
   {
-    "title": "This Is An Emergency - WAN Show April 4, 2025",
-    "date": "April 4, 2025",
+    "title": "Windows Is Cooked For Gaming - WAN Show May 30, 2025",
+    "date": "May 30, 2025",
     "files": {
-      "summary": "This Is An Emergency - WAN Show April 4, 2025_summary.md",
-      "transcriptCorrected": "This Is An Emergency - WAN Show April 4, 2025_transcript_corrected.md",
-      "timestamps": "This Is An Emergency - WAN Show April 4, 2025_timestamps.md",
-      "summaryCorrected": "This Is An Emergency - WAN Show April 4, 2025_summary_corrected.md"
+      "timestamps": "Windows Is Cooked For Gaming - WAN Show May 30, 2025_timestamps.md",
+      "transcript": "Windows Is Cooked For Gaming - WAN Show May 30, 2025_transcript.md",
+      "summary": "Windows Is Cooked For Gaming - WAN Show May 30, 2025_summary.md",
+      "transcriptCorrected": "Windows Is Cooked For Gaming - WAN Show May 30, 2025_transcript_corrected.md",
+      "summaryCorrected": "Windows Is Cooked For Gaming - WAN Show May 30, 2025_summary_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "Google Is Promoting Ad Blockers On YouTube - WAN Show April 25, 2025",
-    "date": "April 25, 2025",
+    "title": "Windows Is Dead To Me - WAN Show June 27, 2025",
+    "date": "June 27, 2025",
     "files": {
-      "summaryCorrected": "Google Is Promoting Ad Blockers On YouTube - WAN Show April 25, 2025_summary_corrected.md",
-      "timestamps": "Google Is Promoting Ad Blockers On YouTube - WAN Show April 25, 2025_timestamps.md",
-      "transcriptCorrected": "Google Is Promoting Ad Blockers On YouTube - WAN Show April 25, 2025_transcript_corrected.md"
+      "transcript": "Windows Is Dead To Me - WAN Show June 27, 2025_transcript.md",
+      "timestamps": "Windows Is Dead To Me - WAN Show June 27, 2025_timestamps.md",
+      "summaryCorrected": "Windows Is Dead To Me - WAN Show June 27, 2025_summary_corrected.md",
+      "transcriptCorrected": "Windows Is Dead To Me - WAN Show June 27, 2025_transcript_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "That Time I Almost Got Sued - WAN Show April 18, 2025",
-    "date": "April 18, 2025",
+    "title": "You Have Burning Questions - WAN Show March 28, 2025",
+    "date": "March 28, 2025",
     "files": {
-      "transcriptCorrected": "That Time I Almost Got Sued - WAN Show April 18, 2025_transcript_corrected.md",
-      "timestamps": "That Time I Almost Got Sued - WAN Show April 18, 2025_timestamps.md",
-      "summaryCorrected": "That Time I Almost Got Sued - WAN Show April 18, 2025_summary_corrected.md"
+      "summaryCorrected": "You Have Burning Questions - WAN Show March 28, 2025_summary_corrected.md",
+      "transcript": "You Have Burning Questions - WAN Show March 28, 2025_transcript.md",
+      "timestamps": "You Have Burning Questions - WAN Show March 28, 2025_timestamps.md",
+      "transcriptCorrected": "You Have Burning Questions - WAN Show March 28, 2025_transcript_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "Sorry America - WAN Show April 11, 2025",
-    "date": "April 11, 2025",
+    "title": "You Should Own Your Games - WAN Show July 4, 2025",
+    "date": "July 4, 2025",
     "files": {
-      "transcript": "Sorry America - WAN Show April 11, 2025_transcript.md",
-      "summaryCorrected": "Sorry America - WAN Show April 11, 2025_summary_corrected.md",
-      "timestamps": "Sorry America - WAN Show April 11, 2025_timestamps.md",
-      "transcriptCorrected": "Sorry America - WAN Show April 11, 2025_transcript_corrected.md"
+      "transcriptCorrected": "You Should Own Your Games - WAN Show July 4, 2025_transcript_corrected.md",
+      "summaryCorrected": "You Should Own Your Games - WAN Show July 4, 2025_summary_corrected.md",
+      "timestamps": "You Should Own Your Games - WAN Show July 4, 2025_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "YouTube Is Making People B̶l̶o̶o̶d̶y Mad - WAN Show October 31, 2025",
+    "date": "October 31, 2025",
+    "files": {
+      "transcriptCorrected": "YouTube Is Making People B̶l̶o̶o̶d̶y Mad - WAN Show October 31, 2025_transcript_corrected.md",
+      "summaryCorrected": "YouTube Is Making People B̶l̶o̶o̶d̶y Mad - WAN Show October 31, 2025_summary_corrected.md",
+      "timestamps": "YouTube Is Making People B̶l̶o̶o̶d̶y Mad - WAN Show October 31, 2025_timestamps.md"
     },
     "hasComments": false
   }

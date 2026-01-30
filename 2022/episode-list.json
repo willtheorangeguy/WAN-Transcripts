@@ -1,60 +1,5 @@
 [
   {
-    "title": "The Reviewer Got Reviewed  - WAN Show September 9, 2022",
-    "date": "September 9, 2022",
-    "files": {
-      "transcript": "The Reviewer Got Reviewed  - WAN Show September 9, 2022_transcript.md",
-      "summaryCorrected": "The Reviewer Got Reviewed  - WAN Show September 9, 2022_summary_corrected.md",
-      "transcriptCorrected": "The Reviewer Got Reviewed  - WAN Show September 9, 2022_transcript_corrected.md",
-      "timestamps": "The Reviewer Got Reviewed  - WAN Show September 9, 2022_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "USB Branding Changed Again... - WAN Show September 30, 2022",
-    "date": "September 30, 2022",
-    "files": {
-      "transcript": "USB Branding Changed Again... - WAN Show September 30, 2022_transcript.md",
-      "timestamps": "USB Branding Changed Again... - WAN Show September 30, 2022_timestamps.md",
-      "summaryCorrected": "USB Branding Changed Again... - WAN Show September 30, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "NVIDIA Thinks You're RICH - WAN Show September 23, 2022",
-    "date": "September 23, 2022",
-    "files": {
-      "summary": "NVIDIA Thinks You're RICH - WAN Show September 23, 2022_summary.md",
-      "timestamps": "NVIDIA Thinks You're RICH - WAN Show September 23, 2022_timestamps.md",
-      "transcript": "NVIDIA Thinks You're RICH - WAN Show September 23, 2022_transcript.md",
-      "summaryCorrected": "NVIDIA Thinks You're RICH - WAN Show September 23, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "I've never been so angry...  - WAN Show September 2, 2022",
-    "date": "September 2, 2022",
-    "files": {
-      "timestamps": "I've never been so angry...  - WAN Show September 2, 2022_timestamps.md",
-      "summary": "I've never been so angry...  - WAN Show September 2, 2022_summary.md",
-      "transcriptCorrected": "I've never been so angry...  - WAN Show September 2, 2022_transcript_corrected.md",
-      "summaryCorrected": "I've never been so angry...  - WAN Show September 2, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "The Biggest Tech Divorce - WAN Show September 16, 2022",
-    "date": "September 16, 2022",
-    "files": {
-      "comments": "The Biggest Tech Divorce - WAN Show September 16, 2022_LTT_comments.md",
-      "summary": "The Biggest Tech Divorce - WAN Show September 16, 2022_summary.md",
-      "timestamps": "The Biggest Tech Divorce - WAN Show September 16, 2022_timestamps.md",
-      "transcriptCorrected": "The Biggest Tech Divorce - WAN Show September 16, 2022_transcript_corrected.md",
-      "summaryCorrected": "The Biggest Tech Divorce - WAN Show September 16, 2022_summary_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
     "title": "4K YouTube Is Getting PAYWALLED - WAN Show October 7, 2022",
     "date": "October 7, 2022",
     "files": {
@@ -67,143 +12,14 @@
     "hasComments": false
   },
   {
-    "title": "Gamer's GPUs Are Melting - WAN Show October 28, 2022",
-    "date": "October 28, 2022",
+    "title": "An Update On My Fraud - WAN Show April 15, 2022",
+    "date": "April 15, 2022",
     "files": {
-      "timestamps": "Gamer's GPUs Are Melting - WAN Show October 28, 2022_timestamps.md",
-      "transcript": "Gamer's GPUs Are Melting - WAN Show October 28, 2022_transcript.md",
-      "summary": "Gamer's GPUs Are Melting - WAN Show October 28, 2022_summary.md",
-      "summaryCorrected": "Gamer's GPUs Are Melting - WAN Show October 28, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "YouTube Backstabbed Me - WAN Show October 21, 2022",
-    "date": "October 21, 2022",
-    "files": {
-      "summary": "YouTube Backstabbed Me - WAN Show October 21, 2022_summary.md",
-      "timestamps": "YouTube Backstabbed Me - WAN Show October 21, 2022_timestamps.md",
-      "transcript": "YouTube Backstabbed Me - WAN Show October 21, 2022_transcript.md",
-      "summaryCorrected": "YouTube Backstabbed Me - WAN Show October 21, 2022_summary_corrected.md",
-      "transcriptCorrected": "YouTube Backstabbed Me - WAN Show October 21, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "This Has Never Happened Before - WAN Show October 14, 2022",
-    "date": "October 14, 2022",
-    "files": {
-      "transcriptCorrected": "This Has Never Happened Before - WAN Show October 14, 2022_transcript_corrected.md",
-      "timestamps": "This Has Never Happened Before - WAN Show October 14, 2022_timestamps.md",
-      "summaryCorrected": "This Has Never Happened Before - WAN Show October 14, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "I'm Frankly Disgusted - WAN Show November 4, 2022",
-    "date": "November 4, 2022",
-    "files": {
-      "transcriptCorrected": "I'm Frankly Disgusted - WAN Show November 4, 2022_transcript_corrected.md",
-      "summaryCorrected": "I'm Frankly Disgusted - WAN Show November 4, 2022_summary_corrected.md",
-      "timestamps": "I'm Frankly Disgusted - WAN Show November 4, 2022_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Where Will This End - WAN Show November 25, 2022",
-    "date": "November 25, 2022",
-    "files": {
-      "transcriptCorrected": "Where Will This End - WAN Show November 25, 2022_transcript_corrected.md",
-      "summaryCorrected": "Where Will This End - WAN Show November 25, 2022_summary_corrected.md",
-      "timestamps": "Where Will This End - WAN Show November 25, 2022_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "We've Made Some Big Mistakes - WAN Show November 18, 2022",
-    "date": "November 18, 2022",
-    "files": {
-      "summaryCorrected": "We've Made Some Big Mistakes - WAN Show November 18, 2022_summary_corrected.md",
-      "timestamps": "We've Made Some Big Mistakes - WAN Show November 18, 2022_timestamps.md",
-      "transcriptCorrected": "We've Made Some Big Mistakes - WAN Show November 18, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Verified WAN Show - WAN Show November 11, 2022",
-    "date": "November 11, 2022",
-    "files": {
-      "summary": "Verified WAN Show - WAN Show November 11, 2022_summary.md",
-      "transcriptCorrected": "Verified WAN Show - WAN Show November 11, 2022_transcript_corrected.md",
-      "timestamps": "Verified WAN Show - WAN Show November 11, 2022_timestamps.md",
-      "summaryCorrected": "Verified WAN Show - WAN Show November 11, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Nvidia Is Above The Law - WAN Show May 6, 2022",
-    "date": "May 6, 2022",
-    "files": {
-      "timestamps": "Nvidia Is Above The Law - WAN Show May 6, 2022_timestamps.md",
-      "summary": "Nvidia Is Above The Law - WAN Show May 6, 2022_summary.md",
-      "transcript": "Nvidia Is Above The Law - WAN Show May 6, 2022_transcript.md",
-      "summaryCorrected": "Nvidia Is Above The Law - WAN Show May 6, 2022_summary_corrected.md",
-      "transcriptCorrected": "Nvidia Is Above The Law - WAN Show May 6, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Story Time! - WAN Show May 27, 2022",
-    "date": "May 27, 2022",
-    "files": {
-      "summary": "Story Time! - WAN Show May 27, 2022_summary.md",
-      "summaryCorrected": "Story Time! - WAN Show May 27, 2022_summary_corrected.md",
-      "transcript": "Story Time! - WAN Show May 27, 2022_transcript.md",
-      "timestamps": "Story Time! - WAN Show May 27, 2022_timestamps.md",
-      "transcriptCorrected": "Story Time! - WAN Show May 27, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "My Investment Pays Off - WAN Show May 20, 2022",
-    "date": "May 20, 2022",
-    "files": {
-      "timestamps": "My Investment Pays Off - WAN Show May 20, 2022_timestamps.md",
-      "summary": "My Investment Pays Off - WAN Show May 20, 2022_summary.md",
-      "transcriptCorrected": "My Investment Pays Off - WAN Show May 20, 2022_transcript_corrected.md",
-      "summaryCorrected": "My Investment Pays Off - WAN Show May 20, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "We're Finally Free - WAN Show May 13, 2022",
-    "date": "May 13, 2022",
-    "files": {
-      "transcriptCorrected": "We're Finally Free - WAN Show May 13, 2022_transcript_corrected.md",
-      "summaryCorrected": "We're Finally Free - WAN Show May 13, 2022_summary_corrected.md",
-      "timestamps": "We're Finally Free - WAN Show May 13, 2022_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Never Hate On Your Community - WAN Show March 4, 2022",
-    "date": "March 4, 2022",
-    "files": {
-      "summaryCorrected": "Never Hate On Your Community - WAN Show March 4, 2022_summary_corrected.md",
-      "transcript": "Never Hate On Your Community - WAN Show March 4, 2022_transcript.md",
-      "transcriptCorrected": "Never Hate On Your Community - WAN Show March 4, 2022_transcript_corrected.md",
-      "timestamps": "Never Hate On Your Community - WAN Show March 4, 2022_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "SUCK IT BIG TECH - WAN Show March 25, 2022",
-    "date": "March 25, 2022",
-    "files": {
-      "transcript": "SUCK IT BIG TECH - WAN Show March 25, 2022_transcript.md",
-      "summaryCorrected": "SUCK IT BIG TECH - WAN Show March 25, 2022_summary_corrected.md",
-      "timestamps": "SUCK IT BIG TECH - WAN Show March 25, 2022_timestamps.md",
-      "transcriptCorrected": "SUCK IT BIG TECH - WAN Show March 25, 2022_transcript_corrected.md"
+      "summary": "An Update On My Fraud - WAN Show April 15, 2022_summary.md",
+      "transcript": "An Update On My Fraud - WAN Show April 15, 2022_transcript.md",
+      "timestamps": "An Update On My Fraud - WAN Show April 15, 2022_timestamps.md",
+      "transcriptCorrected": "An Update On My Fraud - WAN Show April 15, 2022_transcript_corrected.md",
+      "summaryCorrected": "An Update On My Fraud - WAN Show April 15, 2022_summary_corrected.md"
     },
     "hasComments": false
   },
@@ -214,235 +30,6 @@
       "transcriptCorrected": "Apple Lied! - WAN Show March 18, 2022_transcript_corrected.md",
       "timestamps": "Apple Lied! - WAN Show March 18, 2022_timestamps.md",
       "summaryCorrected": "Apple Lied! - WAN Show March 18, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Windows On Steam Deck - WAN Show March 11, 2022",
-    "date": "March 11, 2022",
-    "files": {
-      "transcriptCorrected": "Windows On Steam Deck - WAN Show March 11, 2022_transcript_corrected.md",
-      "timestamps": "Windows On Steam Deck - WAN Show March 11, 2022_timestamps.md",
-      "summary": "Windows On Steam Deck - WAN Show March 11, 2022_summary.md",
-      "summaryCorrected": "Windows On Steam Deck - WAN Show March 11, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "The Lab is a Disaster - WAN Show June 3, 2022",
-    "date": "June 3, 2022",
-    "files": {
-      "timestamps": "The Lab is a Disaster - WAN Show June 3, 2022_timestamps.md",
-      "transcriptCorrected": "The Lab is a Disaster - WAN Show June 3, 2022_transcript_corrected.md",
-      "summary": "The Lab is a Disaster - WAN Show June 3, 2022_summary.md",
-      "summaryCorrected": "The Lab is a Disaster - WAN Show June 3, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Intel Messed Up - WAN Show June 24, 2022",
-    "date": "June 24, 2022",
-    "files": {
-      "timestamps": "Intel Messed Up - WAN Show June 24, 2022_timestamps.md",
-      "summary": "Intel Messed Up - WAN Show June 24, 2022_summary.md",
-      "transcript": "Intel Messed Up - WAN Show June 24, 2022_transcript.md",
-      "summaryCorrected": "Intel Messed Up - WAN Show June 24, 2022_summary_corrected.md",
-      "transcriptCorrected": "Intel Messed Up - WAN Show June 24, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "It's Coming For Us... - WAN Show June 17, 2022",
-    "date": "June 17, 2022",
-    "files": {
-      "timestamps": "It's Coming For Us... - WAN Show June 17, 2022_timestamps.md",
-      "transcript": "It's Coming For Us... - WAN Show June 17, 2022_transcript.md",
-      "summaryCorrected": "It's Coming For Us... - WAN Show June 17, 2022_summary_corrected.md",
-      "transcriptCorrected": "It's Coming For Us... - WAN Show June 17, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "I Called It 12 Years Ago - WAN Show June 10, 2022",
-    "date": "June 10, 2022",
-    "files": {
-      "summary": "I Called It 12 Years Ago - WAN Show June 10, 2022_summary.md",
-      "transcriptCorrected": "I Called It 12 Years Ago - WAN Show June 10, 2022_transcript_corrected.md",
-      "summaryCorrected": "I Called It 12 Years Ago - WAN Show June 10, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "The State Of Gaming Is Terrible - WAN Show July 8, 2022",
-    "date": "July 8, 2022",
-    "files": {
-      "summaryCorrected": "The State Of Gaming Is Terrible - WAN Show July 8, 2022_summary_corrected.md",
-      "transcript": "The State Of Gaming Is Terrible - WAN Show July 8, 2022_transcript.md",
-      "transcriptCorrected": "The State Of Gaming Is Terrible - WAN Show July 8, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022",
-    "date": "July 29, 2022",
-    "files": {
-      "summary": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022_summary.md",
-      "summaryCorrected": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022_summary_corrected.md",
-      "timestamps": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022_timestamps.md",
-      "transcript": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022_transcript.md",
-      "transcriptCorrected": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Overpriced Computers! - WAN Show July 22, 2022",
-    "date": "July 22, 2022",
-    "files": {
-      "timestamps": "Overpriced Computers! - WAN Show July 22, 2022_timestamps.md",
-      "transcriptCorrected": "Overpriced Computers! - WAN Show July 22, 2022_transcript_corrected.md",
-      "summary": "Overpriced Computers! - WAN Show July 22, 2022_summary.md",
-      "summaryCorrected": "Overpriced Computers! - WAN Show July 22, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "I Stand Corrected - WAN Show July 15, 2022",
-    "date": "July 15, 2022",
-    "files": {
-      "transcript": "I Stand Corrected - WAN Show July 15, 2022_transcript.md",
-      "summaryCorrected": "I Stand Corrected - WAN Show July 15, 2022_summary_corrected.md",
-      "timestamps": "I Stand Corrected - WAN Show July 15, 2022_timestamps.md",
-      "transcriptCorrected": "I Stand Corrected - WAN Show July 15, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "I've Made a Terrible Mistake - WAN Show July 1, 2022",
-    "date": "July 1, 2022",
-    "files": {
-      "timestamps": "I've Made a Terrible Mistake - WAN Show July 1, 2022_timestamps.md",
-      "transcriptCorrected": "I've Made a Terrible Mistake - WAN Show July 1, 2022_transcript_corrected.md",
-      "summaryCorrected": "I've Made a Terrible Mistake - WAN Show July 1, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Why so shy Nvidia - WAN Show January 7, 2022",
-    "date": "January 7, 2022",
-    "files": {
-      "summaryCorrected": "Why so shy Nvidia - WAN Show January 7, 2022_summary_corrected.md",
-      "transcript": "Why so shy Nvidia - WAN Show January 7, 2022_transcript.md",
-      "timestamps": "Why so shy Nvidia - WAN Show January 7, 2022_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "r⧸PCMasterRace Hates Me... - WAN Show January 28, 2022",
-    "date": "January 28, 2022",
-    "files": {
-      "transcript": "r⧸PCMasterRace Hates Me... - WAN Show January 28, 2022_transcript.md",
-      "summary": "r⧸PCMasterRace Hates Me... - WAN Show January 28, 2022_summary.md",
-      "summaryCorrected": "r⧸PCMasterRace Hates Me... - WAN Show January 28, 2022_summary_corrected.md",
-      "transcriptCorrected": "r⧸PCMasterRace Hates Me... - WAN Show January 28, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "rPCMasterRace Hates Me... - WAN Show January 28, 2022",
-    "date": "January 28, 2022",
-    "files": {
-      "timestamps": "rPCMasterRace Hates Me... - WAN Show January 28, 2022_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "MicrosoftActivision Deal We Can't Agree! - WAN Show January 21, 2022",
-    "date": "January 21, 2022",
-    "files": {
-      "timestamps": "MicrosoftActivision Deal We Can't Agree! - WAN Show January 21, 2022_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Microsoft⧸Activision Deal： We Can't Agree! - WAN Show January 21, 2022",
-    "date": "January 21, 2022",
-    "files": {
-      "summary": "Microsoft⧸Activision Deal： We Can't Agree! - WAN Show January 21, 2022_summary.md",
-      "transcript": "Microsoft⧸Activision Deal： We Can't Agree! - WAN Show January 21, 2022_transcript.md",
-      "transcriptCorrected": "Microsoft⧸Activision Deal： We Can't Agree! - WAN Show January 21, 2022_transcript_corrected.md",
-      "summaryCorrected": "Microsoft⧸Activision Deal： We Can't Agree! - WAN Show January 21, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Razer Got CAUGHT! - WAN Show January 14, 2022",
-    "date": "January 14, 2022",
-    "files": {
-      "transcriptCorrected": "Razer Got CAUGHT! - WAN Show January 14, 2022_transcript_corrected.md",
-      "summaryCorrected": "Razer Got CAUGHT! - WAN Show January 14, 2022_summary_corrected.md",
-      "timestamps": "Razer Got CAUGHT! - WAN Show January 14, 2022_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Steam Deck： What I Didn't Say In My Review - WAN Show February 25, 2022",
-    "date": "February 25, 2022",
-    "files": {
-      "summaryCorrected": "Steam Deck： What I Didn't Say In My Review - WAN Show February 25, 2022_summary_corrected.md",
-      "transcript": "Steam Deck： What I Didn't Say In My Review - WAN Show February 25, 2022_transcript.md",
-      "transcriptCorrected": "Steam Deck： What I Didn't Say In My Review - WAN Show February 25, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Steam Deck What I Didn't Say In My Review - WAN Show February 25, 2022",
-    "date": "February 25, 2022",
-    "files": {
-      "timestamps": "Steam Deck What I Didn't Say In My Review - WAN Show February 25, 2022_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Valve's Making Everyone Else Look Bad - WAN Show February 18, 2022",
-    "date": "February 18, 2022",
-    "files": {
-      "summaryCorrected": "Valve's Making Everyone Else Look Bad - WAN Show February 18, 2022_summary_corrected.md",
-      "transcript": "Valve's Making Everyone Else Look Bad - WAN Show February 18, 2022_transcript.md",
-      "transcriptCorrected": "Valve's Making Everyone Else Look Bad - WAN Show February 18, 2022_transcript_corrected.md",
-      "timestamps": "Valve's Making Everyone Else Look Bad - WAN Show February 18, 2022_timestamps.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Newegg... More Like Rotten Egg! - WAN Show February 11, 2022",
-    "date": "February 11, 2022",
-    "files": {
-      "summary": "Newegg... More Like Rotten Egg! - WAN Show February 11, 2022_summary.md",
-      "summaryCorrected": "Newegg... More Like Rotten Egg! - WAN Show February 11, 2022_summary_corrected.md",
-      "timestamps": "Newegg... More Like Rotten Egg! - WAN Show February 11, 2022_timestamps.md",
-      "transcriptCorrected": "Newegg... More Like Rotten Egg! - WAN Show February 11, 2022_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "They Almost Got Away With It! - WAN Show February 04, 2022",
-    "date": "February 04, 2022",
-    "files": {
-      "transcript": "They Almost Got Away With It! - WAN Show February 04, 2022_transcript.md",
-      "timestamps": "They Almost Got Away With It! - WAN Show February 04, 2022_timestamps.md",
-      "transcriptCorrected": "They Almost Got Away With It! - WAN Show February 04, 2022_transcript_corrected.md",
-      "summaryCorrected": "They Almost Got Away With It! - WAN Show February 04, 2022_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "I Want To Smuggle CPUs - WAN Show December 9, 2022",
-    "date": "December 9, 2022",
-    "files": {
-      "transcriptCorrected": "I Want To Smuggle CPUs - WAN Show December 9, 2022_transcript_corrected.md",
-      "summary": "I Want To Smuggle CPUs - WAN Show December 9, 2022_summary.md",
-      "summaryCorrected": "I Want To Smuggle CPUs - WAN Show December 9, 2022_summary_corrected.md",
-      "timestamps": "I Want To Smuggle CPUs - WAN Show December 9, 2022_timestamps.md"
     },
     "hasComments": false
   },
@@ -459,13 +46,110 @@
     "hasComments": false
   },
   {
-    "title": "Why Do I Keep Getting Called Out - WAN Show December 2, 2022",
-    "date": "December 2, 2022",
+    "title": "End Of The GPU Shortage! - WAN Show April 01, 2022",
+    "date": "April 01, 2022",
     "files": {
-      "summaryCorrected": "Why Do I Keep Getting Called Out - WAN Show December 2, 2022_summary_corrected.md",
-      "transcript": "Why Do I Keep Getting Called Out - WAN Show December 2, 2022_transcript.md",
-      "timestamps": "Why Do I Keep Getting Called Out - WAN Show December 2, 2022_timestamps.md",
-      "transcriptCorrected": "Why Do I Keep Getting Called Out - WAN Show December 2, 2022_transcript_corrected.md"
+      "summary": "End Of The GPU Shortage! - WAN Show April 01, 2022_summary.md",
+      "transcriptCorrected": "End Of The GPU Shortage! - WAN Show April 01, 2022_transcript_corrected.md",
+      "summaryCorrected": "End Of The GPU Shortage! - WAN Show April 01, 2022_summary_corrected.md",
+      "timestamps": "End Of The GPU Shortage! - WAN Show April 01, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Gamer's GPUs Are Melting - WAN Show October 28, 2022",
+    "date": "October 28, 2022",
+    "files": {
+      "timestamps": "Gamer's GPUs Are Melting - WAN Show October 28, 2022_timestamps.md",
+      "transcript": "Gamer's GPUs Are Melting - WAN Show October 28, 2022_transcript.md",
+      "summary": "Gamer's GPUs Are Melting - WAN Show October 28, 2022_summary.md",
+      "summaryCorrected": "Gamer's GPUs Are Melting - WAN Show October 28, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "I Called It 12 Years Ago - WAN Show June 10, 2022",
+    "date": "June 10, 2022",
+    "files": {
+      "summary": "I Called It 12 Years Ago - WAN Show June 10, 2022_summary.md",
+      "transcriptCorrected": "I Called It 12 Years Ago - WAN Show June 10, 2022_transcript_corrected.md",
+      "summaryCorrected": "I Called It 12 Years Ago - WAN Show June 10, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "I Got COVID... - WAN Show April 22, 2022",
+    "date": "April 22, 2022",
+    "files": {
+      "summaryCorrected": "I Got COVID... - WAN Show April 22, 2022_summary_corrected.md",
+      "transcript": "I Got COVID... - WAN Show April 22, 2022_transcript.md",
+      "timestamps": "I Got COVID... - WAN Show April 22, 2022_timestamps.md",
+      "transcriptCorrected": "I Got COVID... - WAN Show April 22, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "I Stand Corrected - WAN Show July 15, 2022",
+    "date": "July 15, 2022",
+    "files": {
+      "transcript": "I Stand Corrected - WAN Show July 15, 2022_transcript.md",
+      "summaryCorrected": "I Stand Corrected - WAN Show July 15, 2022_summary_corrected.md",
+      "timestamps": "I Stand Corrected - WAN Show July 15, 2022_timestamps.md",
+      "transcriptCorrected": "I Stand Corrected - WAN Show July 15, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "I Want To Smuggle CPUs - WAN Show December 9, 2022",
+    "date": "December 9, 2022",
+    "files": {
+      "transcriptCorrected": "I Want To Smuggle CPUs - WAN Show December 9, 2022_transcript_corrected.md",
+      "summary": "I Want To Smuggle CPUs - WAN Show December 9, 2022_summary.md",
+      "summaryCorrected": "I Want To Smuggle CPUs - WAN Show December 9, 2022_summary_corrected.md",
+      "timestamps": "I Want To Smuggle CPUs - WAN Show December 9, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "I'm Frankly Disgusted - WAN Show November 4, 2022",
+    "date": "November 4, 2022",
+    "files": {
+      "transcriptCorrected": "I'm Frankly Disgusted - WAN Show November 4, 2022_transcript_corrected.md",
+      "summaryCorrected": "I'm Frankly Disgusted - WAN Show November 4, 2022_summary_corrected.md",
+      "timestamps": "I'm Frankly Disgusted - WAN Show November 4, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "I've Made a Terrible Mistake - WAN Show July 1, 2022",
+    "date": "July 1, 2022",
+    "files": {
+      "timestamps": "I've Made a Terrible Mistake - WAN Show July 1, 2022_timestamps.md",
+      "transcriptCorrected": "I've Made a Terrible Mistake - WAN Show July 1, 2022_transcript_corrected.md",
+      "summaryCorrected": "I've Made a Terrible Mistake - WAN Show July 1, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "I've never been so angry...  - WAN Show September 2, 2022",
+    "date": "September 2, 2022",
+    "files": {
+      "timestamps": "I've never been so angry...  - WAN Show September 2, 2022_timestamps.md",
+      "summary": "I've never been so angry...  - WAN Show September 2, 2022_summary.md",
+      "transcriptCorrected": "I've never been so angry...  - WAN Show September 2, 2022_transcript_corrected.md",
+      "summaryCorrected": "I've never been so angry...  - WAN Show September 2, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Intel Messed Up - WAN Show June 24, 2022",
+    "date": "June 24, 2022",
+    "files": {
+      "timestamps": "Intel Messed Up - WAN Show June 24, 2022_timestamps.md",
+      "summary": "Intel Messed Up - WAN Show June 24, 2022_summary.md",
+      "transcript": "Intel Messed Up - WAN Show June 24, 2022_transcript.md",
+      "summaryCorrected": "Intel Messed Up - WAN Show June 24, 2022_summary_corrected.md",
+      "transcriptCorrected": "Intel Messed Up - WAN Show June 24, 2022_transcript_corrected.md"
     },
     "hasComments": false
   },
@@ -477,6 +161,29 @@
       "transcriptCorrected": "Intel Takes The L  - WAN Show August 5, 2022_transcript_corrected.md",
       "summary": "Intel Takes The L  - WAN Show August 5, 2022_summary.md",
       "summaryCorrected": "Intel Takes The L  - WAN Show August 5, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022",
+    "date": "July 29, 2022",
+    "files": {
+      "summary": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022_summary.md",
+      "summaryCorrected": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022_summary_corrected.md",
+      "timestamps": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022_timestamps.md",
+      "transcript": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022_transcript.md",
+      "transcriptCorrected": "Is Intel ARC REALLY Cancelled  - WAN Show July 29, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "It's Coming For Us... - WAN Show June 17, 2022",
+    "date": "June 17, 2022",
+    "files": {
+      "timestamps": "It's Coming For Us... - WAN Show June 17, 2022_timestamps.md",
+      "transcript": "It's Coming For Us... - WAN Show June 17, 2022_transcript.md",
+      "summaryCorrected": "It's Coming For Us... - WAN Show June 17, 2022_summary_corrected.md",
+      "transcriptCorrected": "It's Coming For Us... - WAN Show June 17, 2022_transcript_corrected.md"
     },
     "hasComments": false
   },
@@ -504,13 +211,139 @@
     "hasComments": false
   },
   {
-    "title": "Trust Me Bro  - WAN Show August 12, 2022",
-    "date": "August 12, 2022",
+    "title": "MicrosoftActivision Deal We Can't Agree! - WAN Show January 21, 2022",
+    "date": "January 21, 2022",
     "files": {
-      "timestamps": "Trust Me Bro  - WAN Show August 12, 2022_timestamps.md",
-      "summaryCorrected": "Trust Me Bro  - WAN Show August 12, 2022_summary_corrected.md",
-      "transcript": "Trust Me Bro  - WAN Show August 12, 2022_transcript.md",
-      "transcriptCorrected": "Trust Me Bro  - WAN Show August 12, 2022_transcript_corrected.md"
+      "timestamps": "MicrosoftActivision Deal We Can't Agree! - WAN Show January 21, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Microsoft⧸Activision Deal： We Can't Agree! - WAN Show January 21, 2022",
+    "date": "January 21, 2022",
+    "files": {
+      "summary": "Microsoft⧸Activision Deal： We Can't Agree! - WAN Show January 21, 2022_summary.md",
+      "transcript": "Microsoft⧸Activision Deal： We Can't Agree! - WAN Show January 21, 2022_transcript.md",
+      "transcriptCorrected": "Microsoft⧸Activision Deal： We Can't Agree! - WAN Show January 21, 2022_transcript_corrected.md",
+      "summaryCorrected": "Microsoft⧸Activision Deal： We Can't Agree! - WAN Show January 21, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "My Investment Pays Off - WAN Show May 20, 2022",
+    "date": "May 20, 2022",
+    "files": {
+      "timestamps": "My Investment Pays Off - WAN Show May 20, 2022_timestamps.md",
+      "summary": "My Investment Pays Off - WAN Show May 20, 2022_summary.md",
+      "transcriptCorrected": "My Investment Pays Off - WAN Show May 20, 2022_transcript_corrected.md",
+      "summaryCorrected": "My Investment Pays Off - WAN Show May 20, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "NVIDIA Thinks You're RICH - WAN Show September 23, 2022",
+    "date": "September 23, 2022",
+    "files": {
+      "summary": "NVIDIA Thinks You're RICH - WAN Show September 23, 2022_summary.md",
+      "timestamps": "NVIDIA Thinks You're RICH - WAN Show September 23, 2022_timestamps.md",
+      "transcript": "NVIDIA Thinks You're RICH - WAN Show September 23, 2022_transcript.md",
+      "summaryCorrected": "NVIDIA Thinks You're RICH - WAN Show September 23, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Never Hate On Your Community - WAN Show March 4, 2022",
+    "date": "March 4, 2022",
+    "files": {
+      "summaryCorrected": "Never Hate On Your Community - WAN Show March 4, 2022_summary_corrected.md",
+      "transcript": "Never Hate On Your Community - WAN Show March 4, 2022_transcript.md",
+      "transcriptCorrected": "Never Hate On Your Community - WAN Show March 4, 2022_transcript_corrected.md",
+      "timestamps": "Never Hate On Your Community - WAN Show March 4, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Newegg... More Like Rotten Egg! - WAN Show February 11, 2022",
+    "date": "February 11, 2022",
+    "files": {
+      "summary": "Newegg... More Like Rotten Egg! - WAN Show February 11, 2022_summary.md",
+      "summaryCorrected": "Newegg... More Like Rotten Egg! - WAN Show February 11, 2022_summary_corrected.md",
+      "timestamps": "Newegg... More Like Rotten Egg! - WAN Show February 11, 2022_timestamps.md",
+      "transcriptCorrected": "Newegg... More Like Rotten Egg! - WAN Show February 11, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Nvidia Is Above The Law - WAN Show May 6, 2022",
+    "date": "May 6, 2022",
+    "files": {
+      "timestamps": "Nvidia Is Above The Law - WAN Show May 6, 2022_timestamps.md",
+      "summary": "Nvidia Is Above The Law - WAN Show May 6, 2022_summary.md",
+      "transcript": "Nvidia Is Above The Law - WAN Show May 6, 2022_transcript.md",
+      "summaryCorrected": "Nvidia Is Above The Law - WAN Show May 6, 2022_summary_corrected.md",
+      "transcriptCorrected": "Nvidia Is Above The Law - WAN Show May 6, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Overpriced Computers! - WAN Show July 22, 2022",
+    "date": "July 22, 2022",
+    "files": {
+      "timestamps": "Overpriced Computers! - WAN Show July 22, 2022_timestamps.md",
+      "transcriptCorrected": "Overpriced Computers! - WAN Show July 22, 2022_transcript_corrected.md",
+      "summary": "Overpriced Computers! - WAN Show July 22, 2022_summary.md",
+      "summaryCorrected": "Overpriced Computers! - WAN Show July 22, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Razer Got CAUGHT! - WAN Show January 14, 2022",
+    "date": "January 14, 2022",
+    "files": {
+      "transcriptCorrected": "Razer Got CAUGHT! - WAN Show January 14, 2022_transcript_corrected.md",
+      "summaryCorrected": "Razer Got CAUGHT! - WAN Show January 14, 2022_summary_corrected.md",
+      "timestamps": "Razer Got CAUGHT! - WAN Show January 14, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "SUCK IT BIG TECH - WAN Show March 25, 2022",
+    "date": "March 25, 2022",
+    "files": {
+      "transcript": "SUCK IT BIG TECH - WAN Show March 25, 2022_transcript.md",
+      "summaryCorrected": "SUCK IT BIG TECH - WAN Show March 25, 2022_summary_corrected.md",
+      "timestamps": "SUCK IT BIG TECH - WAN Show March 25, 2022_timestamps.md",
+      "transcriptCorrected": "SUCK IT BIG TECH - WAN Show March 25, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Steam Deck What I Didn't Say In My Review - WAN Show February 25, 2022",
+    "date": "February 25, 2022",
+    "files": {
+      "timestamps": "Steam Deck What I Didn't Say In My Review - WAN Show February 25, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Steam Deck： What I Didn't Say In My Review - WAN Show February 25, 2022",
+    "date": "February 25, 2022",
+    "files": {
+      "summaryCorrected": "Steam Deck： What I Didn't Say In My Review - WAN Show February 25, 2022_summary_corrected.md",
+      "transcript": "Steam Deck： What I Didn't Say In My Review - WAN Show February 25, 2022_transcript.md",
+      "transcriptCorrected": "Steam Deck： What I Didn't Say In My Review - WAN Show February 25, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Story Time! - WAN Show May 27, 2022",
+    "date": "May 27, 2022",
+    "files": {
+      "summary": "Story Time! - WAN Show May 27, 2022_summary.md",
+      "summaryCorrected": "Story Time! - WAN Show May 27, 2022_summary_corrected.md",
+      "transcript": "Story Time! - WAN Show May 27, 2022_transcript.md",
+      "timestamps": "Story Time! - WAN Show May 27, 2022_timestamps.md",
+      "transcriptCorrected": "Story Time! - WAN Show May 27, 2022_transcript_corrected.md"
     },
     "hasComments": false
   },
@@ -526,25 +359,110 @@
     "hasComments": false
   },
   {
-    "title": "I Got COVID... - WAN Show April 22, 2022",
-    "date": "April 22, 2022",
+    "title": "The Biggest Tech Divorce - WAN Show September 16, 2022",
+    "date": "September 16, 2022",
     "files": {
-      "summaryCorrected": "I Got COVID... - WAN Show April 22, 2022_summary_corrected.md",
-      "transcript": "I Got COVID... - WAN Show April 22, 2022_transcript.md",
-      "timestamps": "I Got COVID... - WAN Show April 22, 2022_timestamps.md",
-      "transcriptCorrected": "I Got COVID... - WAN Show April 22, 2022_transcript_corrected.md"
+      "comments": "The Biggest Tech Divorce - WAN Show September 16, 2022_LTT_comments.md",
+      "summary": "The Biggest Tech Divorce - WAN Show September 16, 2022_summary.md",
+      "timestamps": "The Biggest Tech Divorce - WAN Show September 16, 2022_timestamps.md",
+      "transcriptCorrected": "The Biggest Tech Divorce - WAN Show September 16, 2022_transcript_corrected.md",
+      "summaryCorrected": "The Biggest Tech Divorce - WAN Show September 16, 2022_summary_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "The Lab is a Disaster - WAN Show June 3, 2022",
+    "date": "June 3, 2022",
+    "files": {
+      "timestamps": "The Lab is a Disaster - WAN Show June 3, 2022_timestamps.md",
+      "transcriptCorrected": "The Lab is a Disaster - WAN Show June 3, 2022_transcript_corrected.md",
+      "summary": "The Lab is a Disaster - WAN Show June 3, 2022_summary.md",
+      "summaryCorrected": "The Lab is a Disaster - WAN Show June 3, 2022_summary_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "An Update On My Fraud - WAN Show April 15, 2022",
-    "date": "April 15, 2022",
+    "title": "The Reviewer Got Reviewed  - WAN Show September 9, 2022",
+    "date": "September 9, 2022",
     "files": {
-      "summary": "An Update On My Fraud - WAN Show April 15, 2022_summary.md",
-      "transcript": "An Update On My Fraud - WAN Show April 15, 2022_transcript.md",
-      "timestamps": "An Update On My Fraud - WAN Show April 15, 2022_timestamps.md",
-      "transcriptCorrected": "An Update On My Fraud - WAN Show April 15, 2022_transcript_corrected.md",
-      "summaryCorrected": "An Update On My Fraud - WAN Show April 15, 2022_summary_corrected.md"
+      "transcript": "The Reviewer Got Reviewed  - WAN Show September 9, 2022_transcript.md",
+      "summaryCorrected": "The Reviewer Got Reviewed  - WAN Show September 9, 2022_summary_corrected.md",
+      "transcriptCorrected": "The Reviewer Got Reviewed  - WAN Show September 9, 2022_transcript_corrected.md",
+      "timestamps": "The Reviewer Got Reviewed  - WAN Show September 9, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "The State Of Gaming Is Terrible - WAN Show July 8, 2022",
+    "date": "July 8, 2022",
+    "files": {
+      "summaryCorrected": "The State Of Gaming Is Terrible - WAN Show July 8, 2022_summary_corrected.md",
+      "transcript": "The State Of Gaming Is Terrible - WAN Show July 8, 2022_transcript.md",
+      "transcriptCorrected": "The State Of Gaming Is Terrible - WAN Show July 8, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "They Almost Got Away With It! - WAN Show February 04, 2022",
+    "date": "February 04, 2022",
+    "files": {
+      "transcript": "They Almost Got Away With It! - WAN Show February 04, 2022_transcript.md",
+      "timestamps": "They Almost Got Away With It! - WAN Show February 04, 2022_timestamps.md",
+      "transcriptCorrected": "They Almost Got Away With It! - WAN Show February 04, 2022_transcript_corrected.md",
+      "summaryCorrected": "They Almost Got Away With It! - WAN Show February 04, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "This Has Never Happened Before - WAN Show October 14, 2022",
+    "date": "October 14, 2022",
+    "files": {
+      "transcriptCorrected": "This Has Never Happened Before - WAN Show October 14, 2022_transcript_corrected.md",
+      "timestamps": "This Has Never Happened Before - WAN Show October 14, 2022_timestamps.md",
+      "summaryCorrected": "This Has Never Happened Before - WAN Show October 14, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Trust Me Bro  - WAN Show August 12, 2022",
+    "date": "August 12, 2022",
+    "files": {
+      "timestamps": "Trust Me Bro  - WAN Show August 12, 2022_timestamps.md",
+      "summaryCorrected": "Trust Me Bro  - WAN Show August 12, 2022_summary_corrected.md",
+      "transcript": "Trust Me Bro  - WAN Show August 12, 2022_transcript.md",
+      "transcriptCorrected": "Trust Me Bro  - WAN Show August 12, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "USB Branding Changed Again... - WAN Show September 30, 2022",
+    "date": "September 30, 2022",
+    "files": {
+      "transcript": "USB Branding Changed Again... - WAN Show September 30, 2022_transcript.md",
+      "timestamps": "USB Branding Changed Again... - WAN Show September 30, 2022_timestamps.md",
+      "summaryCorrected": "USB Branding Changed Again... - WAN Show September 30, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Valve's Making Everyone Else Look Bad - WAN Show February 18, 2022",
+    "date": "February 18, 2022",
+    "files": {
+      "summaryCorrected": "Valve's Making Everyone Else Look Bad - WAN Show February 18, 2022_summary_corrected.md",
+      "transcript": "Valve's Making Everyone Else Look Bad - WAN Show February 18, 2022_transcript.md",
+      "transcriptCorrected": "Valve's Making Everyone Else Look Bad - WAN Show February 18, 2022_transcript_corrected.md",
+      "timestamps": "Valve's Making Everyone Else Look Bad - WAN Show February 18, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Verified WAN Show - WAN Show November 11, 2022",
+    "date": "November 11, 2022",
+    "files": {
+      "summary": "Verified WAN Show - WAN Show November 11, 2022_summary.md",
+      "transcriptCorrected": "Verified WAN Show - WAN Show November 11, 2022_transcript_corrected.md",
+      "timestamps": "Verified WAN Show - WAN Show November 11, 2022_timestamps.md",
+      "summaryCorrected": "Verified WAN Show - WAN Show November 11, 2022_summary_corrected.md"
     },
     "hasComments": false
   },
@@ -561,13 +479,95 @@
     "hasComments": false
   },
   {
-    "title": "End Of The GPU Shortage! - WAN Show April 01, 2022",
-    "date": "April 01, 2022",
+    "title": "We're Finally Free - WAN Show May 13, 2022",
+    "date": "May 13, 2022",
     "files": {
-      "summary": "End Of The GPU Shortage! - WAN Show April 01, 2022_summary.md",
-      "transcriptCorrected": "End Of The GPU Shortage! - WAN Show April 01, 2022_transcript_corrected.md",
-      "summaryCorrected": "End Of The GPU Shortage! - WAN Show April 01, 2022_summary_corrected.md",
-      "timestamps": "End Of The GPU Shortage! - WAN Show April 01, 2022_timestamps.md"
+      "transcriptCorrected": "We're Finally Free - WAN Show May 13, 2022_transcript_corrected.md",
+      "summaryCorrected": "We're Finally Free - WAN Show May 13, 2022_summary_corrected.md",
+      "timestamps": "We're Finally Free - WAN Show May 13, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "We've Made Some Big Mistakes - WAN Show November 18, 2022",
+    "date": "November 18, 2022",
+    "files": {
+      "summaryCorrected": "We've Made Some Big Mistakes - WAN Show November 18, 2022_summary_corrected.md",
+      "timestamps": "We've Made Some Big Mistakes - WAN Show November 18, 2022_timestamps.md",
+      "transcriptCorrected": "We've Made Some Big Mistakes - WAN Show November 18, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Where Will This End - WAN Show November 25, 2022",
+    "date": "November 25, 2022",
+    "files": {
+      "transcriptCorrected": "Where Will This End - WAN Show November 25, 2022_transcript_corrected.md",
+      "summaryCorrected": "Where Will This End - WAN Show November 25, 2022_summary_corrected.md",
+      "timestamps": "Where Will This End - WAN Show November 25, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Why Do I Keep Getting Called Out - WAN Show December 2, 2022",
+    "date": "December 2, 2022",
+    "files": {
+      "summaryCorrected": "Why Do I Keep Getting Called Out - WAN Show December 2, 2022_summary_corrected.md",
+      "transcript": "Why Do I Keep Getting Called Out - WAN Show December 2, 2022_transcript.md",
+      "timestamps": "Why Do I Keep Getting Called Out - WAN Show December 2, 2022_timestamps.md",
+      "transcriptCorrected": "Why Do I Keep Getting Called Out - WAN Show December 2, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Why so shy Nvidia - WAN Show January 7, 2022",
+    "date": "January 7, 2022",
+    "files": {
+      "summaryCorrected": "Why so shy Nvidia - WAN Show January 7, 2022_summary_corrected.md",
+      "transcript": "Why so shy Nvidia - WAN Show January 7, 2022_transcript.md",
+      "timestamps": "Why so shy Nvidia - WAN Show January 7, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Windows On Steam Deck - WAN Show March 11, 2022",
+    "date": "March 11, 2022",
+    "files": {
+      "transcriptCorrected": "Windows On Steam Deck - WAN Show March 11, 2022_transcript_corrected.md",
+      "timestamps": "Windows On Steam Deck - WAN Show March 11, 2022_timestamps.md",
+      "summary": "Windows On Steam Deck - WAN Show March 11, 2022_summary.md",
+      "summaryCorrected": "Windows On Steam Deck - WAN Show March 11, 2022_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "YouTube Backstabbed Me - WAN Show October 21, 2022",
+    "date": "October 21, 2022",
+    "files": {
+      "summary": "YouTube Backstabbed Me - WAN Show October 21, 2022_summary.md",
+      "timestamps": "YouTube Backstabbed Me - WAN Show October 21, 2022_timestamps.md",
+      "transcript": "YouTube Backstabbed Me - WAN Show October 21, 2022_transcript.md",
+      "summaryCorrected": "YouTube Backstabbed Me - WAN Show October 21, 2022_summary_corrected.md",
+      "transcriptCorrected": "YouTube Backstabbed Me - WAN Show October 21, 2022_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "rPCMasterRace Hates Me... - WAN Show January 28, 2022",
+    "date": "January 28, 2022",
+    "files": {
+      "timestamps": "rPCMasterRace Hates Me... - WAN Show January 28, 2022_timestamps.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "r⧸PCMasterRace Hates Me... - WAN Show January 28, 2022",
+    "date": "January 28, 2022",
+    "files": {
+      "transcript": "r⧸PCMasterRace Hates Me... - WAN Show January 28, 2022_transcript.md",
+      "summary": "r⧸PCMasterRace Hates Me... - WAN Show January 28, 2022_summary.md",
+      "summaryCorrected": "r⧸PCMasterRace Hates Me... - WAN Show January 28, 2022_summary_corrected.md",
+      "transcriptCorrected": "r⧸PCMasterRace Hates Me... - WAN Show January 28, 2022_transcript_corrected.md"
     },
     "hasComments": false
   }

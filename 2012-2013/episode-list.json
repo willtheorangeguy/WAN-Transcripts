@@ -1,57 +1,12 @@
 [
   {
-    "title": "Linus Tech Tips Live Show Archive   October 19th, 2012",
+    "title": "August 31 2012 Live Google Hangout Q&A Session Linus Tech Tips",
     "date": "Unknown Date",
     "files": {
-      "summary": "Linus Tech Tips Live Show Archive   October 19th, 2012_summary.md",
-      "transcript": "Linus Tech Tips Live Show Archive   October 19th, 2012_transcript.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive   October 19th, 2012_transcript_corrected.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive   October 19th, 2012_summary_corrected.md"
+      "summaryCorrected": "August 31 2012 Live Google Hangout Q&A Session Linus Tech Tips_summary_corrected.md",
+      "transcriptCorrected": "August 31 2012 Live Google Hangout Q&A Session Linus Tech Tips_transcript_corrected.md"
     },
     "hasComments": false
-  },
-  {
-    "title": "Sept 7 Live Stream Hangout on Air",
-    "date": "Unknown Date",
-    "files": {
-      "transcript": "Sept 7 Live Stream Hangout on Air_transcript.md",
-      "summary": "Sept 7 Live Stream Hangout on Air_summary.md",
-      "summaryCorrected": "Sept 7 Live Stream Hangout on Air_summary_corrected.md",
-      "transcriptCorrected": "Sept 7 Live Stream Hangout on Air_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - October 26th, 2012",
-    "date": "Unknown Date",
-    "files": {
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - October 26th, 2012_summary_corrected.md",
-      "transcript": "Linus Tech Tips Live Show Archive - October 26th, 2012_transcript.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - October 26th, 2012_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - April 19, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - April 19, 2013_summary_corrected.md",
-      "comments": "Linus Tech Tips Live Show Archive - April 19, 2013_LTT_comments.md",
-      "transcript": "Linus Tech Tips Live Show Archive - April 19, 2013_transcript.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - April 19, 2013_transcript_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "May 31, 2013 Live Stream Archive",
-    "date": "Unknown Date",
-    "files": {
-      "summaryCorrected": "May 31, 2013 Live Stream Archive_summary_corrected.md",
-      "comments": "May 31, 2013 Live Stream Archive_LTT_comments.md",
-      "transcript": "May 31, 2013 Live Stream Archive_transcript.md",
-      "transcriptCorrected": "May 31, 2013 Live Stream Archive_transcript_corrected.md"
-    },
-    "hasComments": true
   },
   {
     "title": "August 7 Live Stream Hangout on Air Part 2",
@@ -61,92 +16,6 @@
       "transcript": "August 7 Live Stream Hangout on Air Part 2_transcript.md",
       "summaryCorrected": "August 7 Live Stream Hangout on Air Part 2_summary_corrected.md",
       "transcriptCorrected": "August 7 Live Stream Hangout on Air Part 2_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - September 21th, 2012",
-    "date": "Unknown Date",
-    "files": {
-      "transcript": "Linus Tech Tips Live Show Archive - September 21th, 2012_transcript.md",
-      "comments": "Linus Tech Tips Live Show Archive - September 21th, 2012_LTT_comments.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - September 21th, 2012_summary_corrected.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - September 21th, 2012_transcript_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - February 15, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "transcript": "Linus Tech Tips Live Show Archive - February 15, 2013_transcript.md",
-      "comments": "Linus Tech Tips Live Show Archive - February 15, 2013_LTT_comments.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - February 15, 2013_summary_corrected.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - February 15, 2013_transcript_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - January 19, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "Linus Tech Tips Live Show Archive - January 19, 2013_summary.md",
-      "comments": "Linus Tech Tips Live Show Archive - January 19, 2013_LTT_comments.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - January 19, 2013_transcript_corrected.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - January 19, 2013_summary_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - April 26, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "Linus Tech Tips Live Show Archive - April 26, 2013_summary.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - April 26, 2013_transcript_corrected.md",
-      "comments": "Linus Tech Tips Live Show Archive - April 26, 2013_LTT_comments.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - April 26, 2013_summary_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "May 3 Live Stream Archive",
-    "date": "Unknown Date",
-    "files": {
-      "comments": "May 3 Live Stream Archive_LTT_comments.md",
-      "transcriptCorrected": "May 3 Live Stream Archive_transcript_corrected.md",
-      "summary": "May 3 Live Stream Archive_summary.md",
-      "summaryCorrected": "May 3 Live Stream Archive_summary_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - March 8, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "Linus Tech Tips Live Show Archive - March 8, 2013_summary.md",
-      "transcript": "Linus Tech Tips Live Show Archive - March 8, 2013_transcript.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - March 8, 2013_summary_corrected.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - March 8, 2013_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - March 15, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - March 15, 2013_transcript_corrected.md",
-      "summary": "Linus Tech Tips Live Show Archive - March 15, 2013_summary.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - March 15, 2013_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive   November 16, 2012",
-    "date": "Unknown Date",
-    "files": {
-      "transcript": "Linus Tech Tips Live Show Archive   November 16, 2012_transcript.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive   November 16, 2012_summary_corrected.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive   November 16, 2012_transcript_corrected.md"
     },
     "hasComments": false
   },
@@ -162,13 +31,110 @@
     "hasComments": true
   },
   {
-    "title": "Linus Tech Tips Live Show Archive - February 1, 2013",
+    "title": "July 5th, 2013 Live Stream Archive",
     "date": "Unknown Date",
     "files": {
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - February 1, 2013_transcript_corrected.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - February 1, 2013_summary_corrected.md"
+      "summaryCorrected": "July 5th, 2013 Live Stream Archive_summary_corrected.md",
+      "transcriptCorrected": "July 5th, 2013 Live Stream Archive_transcript_corrected.md",
+      "comments": "July 5th, 2013 Live Stream Archive_LTT_comments.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "June 14th, 2013 Live Stream Archive",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "June 14th, 2013 Live Stream Archive_summary.md",
+      "comments": "June 14th, 2013 Live Stream Archive_LTT_comments.md",
+      "transcriptCorrected": "June 14th, 2013 Live Stream Archive_transcript_corrected.md",
+      "summaryCorrected": "June 14th, 2013 Live Stream Archive_summary_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "June 21st, 2013 Live Stream Archive",
+    "date": "Unknown Date",
+    "files": {
+      "comments": "June 21st, 2013 Live Stream Archive_LTT_comments.md",
+      "transcriptCorrected": "June 21st, 2013 Live Stream Archive_transcript_corrected.md",
+      "summary": "June 21st, 2013 Live Stream Archive_summary.md",
+      "summaryCorrected": "June 21st, 2013 Live Stream Archive_summary_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive   December 7, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "summaryCorrected": "Linus Tech Tips Live Show Archive   December 7, 2012_summary_corrected.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive   December 7, 2012_transcript_corrected.md"
     },
     "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive   November 16, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "transcript": "Linus Tech Tips Live Show Archive   November 16, 2012_transcript.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive   November 16, 2012_summary_corrected.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive   November 16, 2012_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive   October 19th, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "Linus Tech Tips Live Show Archive   October 19th, 2012_summary.md",
+      "transcript": "Linus Tech Tips Live Show Archive   October 19th, 2012_transcript.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive   October 19th, 2012_transcript_corrected.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive   October 19th, 2012_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - April 12, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "transcript": "Linus Tech Tips Live Show Archive - April 12, 2013_transcript.md",
+      "summary": "Linus Tech Tips Live Show Archive - April 12, 2013_summary.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - April 12, 2013_transcript_corrected.md",
+      "comments": "Linus Tech Tips Live Show Archive - April 12, 2013_LTT_comments.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - April 12, 2013_summary_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - April 19, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - April 19, 2013_summary_corrected.md",
+      "comments": "Linus Tech Tips Live Show Archive - April 19, 2013_LTT_comments.md",
+      "transcript": "Linus Tech Tips Live Show Archive - April 19, 2013_transcript.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - April 19, 2013_transcript_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - April 26, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "Linus Tech Tips Live Show Archive - April 26, 2013_summary.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - April 26, 2013_transcript_corrected.md",
+      "comments": "Linus Tech Tips Live Show Archive - April 26, 2013_LTT_comments.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - April 26, 2013_summary_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - April 5, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "comments": "Linus Tech Tips Live Show Archive - April 5, 2013_LTT_comments.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - April 5, 2013_transcript_corrected.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - April 5, 2013_summary_corrected.md"
+    },
+    "hasComments": true
   },
   {
     "title": "Linus Tech Tips Live Show Archive - December 21, 2012",
@@ -181,13 +147,227 @@
     "hasComments": false
   },
   {
-    "title": "May 10, 2013 Live Stream Afterparty",
+    "title": "Linus Tech Tips Live Show Archive - December 28, 2012",
     "date": "Unknown Date",
     "files": {
-      "summaryCorrected": "May 10, 2013 Live Stream Afterparty_summary_corrected.md",
-      "transcript": "May 10, 2013 Live Stream Afterparty_transcript.md",
-      "comments": "May 10, 2013 Live Stream Afterparty_LTT_comments.md",
-      "transcriptCorrected": "May 10, 2013 Live Stream Afterparty_transcript_corrected.md"
+      "summary": "Linus Tech Tips Live Show Archive - December 28, 2012_summary.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - December 28, 2012_transcript_corrected.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - December 28, 2012_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - February 1, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - February 1, 2013_transcript_corrected.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - February 1, 2013_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - February 15, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "transcript": "Linus Tech Tips Live Show Archive - February 15, 2013_transcript.md",
+      "comments": "Linus Tech Tips Live Show Archive - February 15, 2013_LTT_comments.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - February 15, 2013_summary_corrected.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - February 15, 2013_transcript_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - February 22, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - February 22, 2013_summary_corrected.md",
+      "transcript": "Linus Tech Tips Live Show Archive - February 22, 2013_transcript.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - February 8, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - February 8, 2013_transcript_corrected.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - February 8, 2013_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - January 19, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "Linus Tech Tips Live Show Archive - January 19, 2013_summary.md",
+      "comments": "Linus Tech Tips Live Show Archive - January 19, 2013_LTT_comments.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - January 19, 2013_transcript_corrected.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - January 19, 2013_summary_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - January 25, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - January 25, 2013_transcript_corrected.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - January 25, 2013_summary_corrected.md",
+      "comments": "Linus Tech Tips Live Show Archive - January 25, 2013_LTT_comments.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - January 5, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "Linus Tech Tips Live Show Archive - January 5, 2013_summary.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - January 5, 2013_summary_corrected.md",
+      "transcript": "Linus Tech Tips Live Show Archive - January 5, 2013_transcript.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - January 5, 2013_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - March 15, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - March 15, 2013_transcript_corrected.md",
+      "summary": "Linus Tech Tips Live Show Archive - March 15, 2013_summary.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - March 15, 2013_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - March 2, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "Linus Tech Tips Live Show Archive - March 2, 2013_summary.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - March 2, 2013_transcript_corrected.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - March 2, 2013_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - March 22, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - March 22, 2013_summary_corrected.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - March 22, 2013_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - March 29, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - March 29, 2013_transcript_corrected.md",
+      "summary": "Linus Tech Tips Live Show Archive - March 29, 2013_summary.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - March 29, 2013_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - March 8, 2013",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "Linus Tech Tips Live Show Archive - March 8, 2013_summary.md",
+      "transcript": "Linus Tech Tips Live Show Archive - March 8, 2013_transcript.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - March 8, 2013_summary_corrected.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - March 8, 2013_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - November 2, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - November 2, 2012_summary_corrected.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - November 2, 2012_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - November 23, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "Linus Tech Tips Live Show Archive - November 23, 2012_summary.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - November 23, 2012_summary_corrected.md",
+      "comments": "Linus Tech Tips Live Show Archive - November 23, 2012_LTT_comments.md",
+      "transcript": "Linus Tech Tips Live Show Archive - November 23, 2012_transcript.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - November 23, 2012_transcript_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - November 30, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "Linus Tech Tips Live Show Archive - November 30, 2012_summary.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - November 30, 2012_transcript_corrected.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - November 30, 2012_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - November 9, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "Linus Tech Tips Live Show Archive - November 9, 2012_summary.md",
+      "transcript": "Linus Tech Tips Live Show Archive - November 9, 2012_transcript.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - November 9, 2012_summary_corrected.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - November 9, 2012_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - October 12th, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "Linus Tech Tips Live Show Archive - October 12th, 2012_summary.md",
+      "transcript": "Linus Tech Tips Live Show Archive - October 12th, 2012_transcript.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - October 12th, 2012_transcript_corrected.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - October 12th, 2012_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - October 26th, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - October 26th, 2012_summary_corrected.md",
+      "transcript": "Linus Tech Tips Live Show Archive - October 26th, 2012_transcript.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - October 26th, 2012_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - October 5th, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - October 5th, 2012_transcript_corrected.md",
+      "comments": "Linus Tech Tips Live Show Archive - October 5th, 2012_LTT_comments.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - October 5th, 2012_summary_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - September 14th, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "transcript": "Linus Tech Tips Live Show Archive - September 14th, 2012_transcript.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - September 14th, 2012_transcript_corrected.md",
+      "summary": "Linus Tech Tips Live Show Archive - September 14th, 2012_summary.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - September 14th, 2012_summary_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "Linus Tech Tips Live Show Archive - September 21th, 2012",
+    "date": "Unknown Date",
+    "files": {
+      "transcript": "Linus Tech Tips Live Show Archive - September 21th, 2012_transcript.md",
+      "comments": "Linus Tech Tips Live Show Archive - September 21th, 2012_LTT_comments.md",
+      "summaryCorrected": "Linus Tech Tips Live Show Archive - September 21th, 2012_summary_corrected.md",
+      "transcriptCorrected": "Linus Tech Tips Live Show Archive - September 21th, 2012_transcript_corrected.md"
     },
     "hasComments": true
   },
@@ -204,78 +384,6 @@
     "hasComments": true
   },
   {
-    "title": "Linus Tech Tips Live Show Archive - November 2, 2012",
-    "date": "Unknown Date",
-    "files": {
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - November 2, 2012_summary_corrected.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - November 2, 2012_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "May 24, 2013 Live Stream Archive",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "May 24, 2013 Live Stream Archive_summary.md",
-      "summaryCorrected": "May 24, 2013 Live Stream Archive_summary_corrected.md",
-      "transcript": "May 24, 2013 Live Stream Archive_transcript.md",
-      "transcriptCorrected": "May 24, 2013 Live Stream Archive_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "July 5th, 2013 Live Stream Archive",
-    "date": "Unknown Date",
-    "files": {
-      "summaryCorrected": "July 5th, 2013 Live Stream Archive_summary_corrected.md",
-      "transcriptCorrected": "July 5th, 2013 Live Stream Archive_transcript_corrected.md",
-      "comments": "July 5th, 2013 Live Stream Archive_LTT_comments.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - November 23, 2012",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "Linus Tech Tips Live Show Archive - November 23, 2012_summary.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - November 23, 2012_summary_corrected.md",
-      "comments": "Linus Tech Tips Live Show Archive - November 23, 2012_LTT_comments.md",
-      "transcript": "Linus Tech Tips Live Show Archive - November 23, 2012_transcript.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - November 23, 2012_transcript_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "MSI Big Bang Mpower Testing in Progress Hangout On Air",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "MSI Big Bang Mpower Testing in Progress Hangout On Air_summary.md",
-      "summaryCorrected": "MSI Big Bang Mpower Testing in Progress Hangout On Air_summary_corrected.md",
-      "transcriptCorrected": "MSI Big Bang Mpower Testing in Progress Hangout On Air_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - January 5, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "Linus Tech Tips Live Show Archive - January 5, 2013_summary.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - January 5, 2013_summary_corrected.md",
-      "transcript": "Linus Tech Tips Live Show Archive - January 5, 2013_transcript.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - January 5, 2013_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - February 22, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - February 22, 2013_summary_corrected.md",
-      "transcript": "Linus Tech Tips Live Show Archive - February 22, 2013_transcript.md"
-    },
-    "hasComments": false
-  },
-  {
     "title": "Linus Tech Tips Live Stream Archive - June 28th, 2013",
     "date": "Unknown Date",
     "files": {
@@ -285,55 +393,21 @@
     "hasComments": false
   },
   {
-    "title": "May 17, 2013 Live Stream Archive",
+    "title": "Live Show Archive - 06-21-2013 - After Party",
     "date": "Unknown Date",
     "files": {
-      "comments": "May 17, 2013 Live Stream Archive_LTT_comments.md",
-      "transcript": "May 17, 2013 Live Stream Archive_transcript.md",
-      "summary": "May 17, 2013 Live Stream Archive_summary.md",
-      "transcriptCorrected": "May 17, 2013 Live Stream Archive_transcript_corrected.md",
-      "summaryCorrected": "May 17, 2013 Live Stream Archive_summary_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - December 28, 2012",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "Linus Tech Tips Live Show Archive - December 28, 2012_summary.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - December 28, 2012_transcript_corrected.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - December 28, 2012_summary_corrected.md"
+      "summaryCorrected": "Live Show Archive - 06-21-2013 - After Party_summary_corrected.md",
+      "transcriptCorrected": "Live Show Archive - 06-21-2013 - After Party_transcript_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "Linus Tech Tips Live Show Archive - November 9, 2012",
+    "title": "Live Show Archive - 4-26-2013 - After Party",
     "date": "Unknown Date",
     "files": {
-      "summary": "Linus Tech Tips Live Show Archive - November 9, 2012_summary.md",
-      "transcript": "Linus Tech Tips Live Show Archive - November 9, 2012_transcript.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - November 9, 2012_summary_corrected.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - November 9, 2012_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "June 14th, 2013 Live Stream Archive",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "June 14th, 2013 Live Stream Archive_summary.md",
-      "comments": "June 14th, 2013 Live Stream Archive_LTT_comments.md",
-      "transcriptCorrected": "June 14th, 2013 Live Stream Archive_transcript_corrected.md",
-      "summaryCorrected": "June 14th, 2013 Live Stream Archive_summary_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive   December 7, 2012",
-    "date": "Unknown Date",
-    "files": {
-      "summaryCorrected": "Linus Tech Tips Live Show Archive   December 7, 2012_summary_corrected.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive   December 7, 2012_transcript_corrected.md"
+      "summary": "Live Show Archive - 4-26-2013 - After Party_summary.md",
+      "transcriptCorrected": "Live Show Archive - 4-26-2013 - After Party_transcript_corrected.md",
+      "summaryCorrected": "Live Show Archive - 4-26-2013 - After Party_summary_corrected.md"
     },
     "hasComments": false
   },
@@ -358,155 +432,25 @@
     "hasComments": false
   },
   {
-    "title": "Linus Tech Tips Live Show Archive - October 12th, 2012",
+    "title": "MSI Big Bang Mpower Testing in Progress Hangout On Air",
     "date": "Unknown Date",
     "files": {
-      "summary": "Linus Tech Tips Live Show Archive - October 12th, 2012_summary.md",
-      "transcript": "Linus Tech Tips Live Show Archive - October 12th, 2012_transcript.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - October 12th, 2012_transcript_corrected.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - October 12th, 2012_summary_corrected.md"
+      "summary": "MSI Big Bang Mpower Testing in Progress Hangout On Air_summary.md",
+      "summaryCorrected": "MSI Big Bang Mpower Testing in Progress Hangout On Air_summary_corrected.md",
+      "transcriptCorrected": "MSI Big Bang Mpower Testing in Progress Hangout On Air_transcript_corrected.md"
     },
     "hasComments": false
   },
   {
-    "title": "Linus Tech Tips Live Show Archive - September 14th, 2012",
+    "title": "May 10, 2013 Live Stream Afterparty",
     "date": "Unknown Date",
     "files": {
-      "transcript": "Linus Tech Tips Live Show Archive - September 14th, 2012_transcript.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - September 14th, 2012_transcript_corrected.md",
-      "summary": "Linus Tech Tips Live Show Archive - September 14th, 2012_summary.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - September 14th, 2012_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Live Show Archive - 4-26-2013 - After Party",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "Live Show Archive - 4-26-2013 - After Party_summary.md",
-      "transcriptCorrected": "Live Show Archive - 4-26-2013 - After Party_transcript_corrected.md",
-      "summaryCorrected": "Live Show Archive - 4-26-2013 - After Party_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "August 31 2012 Live Google Hangout Q&A Session Linus Tech Tips",
-    "date": "Unknown Date",
-    "files": {
-      "summaryCorrected": "August 31 2012 Live Google Hangout Q&A Session Linus Tech Tips_summary_corrected.md",
-      "transcriptCorrected": "August 31 2012 Live Google Hangout Q&A Session Linus Tech Tips_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - October 5th, 2012",
-    "date": "Unknown Date",
-    "files": {
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - October 5th, 2012_transcript_corrected.md",
-      "comments": "Linus Tech Tips Live Show Archive - October 5th, 2012_LTT_comments.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - October 5th, 2012_summary_corrected.md"
+      "summaryCorrected": "May 10, 2013 Live Stream Afterparty_summary_corrected.md",
+      "transcript": "May 10, 2013 Live Stream Afterparty_transcript.md",
+      "comments": "May 10, 2013 Live Stream Afterparty_LTT_comments.md",
+      "transcriptCorrected": "May 10, 2013 Live Stream Afterparty_transcript_corrected.md"
     },
     "hasComments": true
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - March 29, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - March 29, 2013_transcript_corrected.md",
-      "summary": "Linus Tech Tips Live Show Archive - March 29, 2013_summary.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - March 29, 2013_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "June 21st, 2013 Live Stream Archive",
-    "date": "Unknown Date",
-    "files": {
-      "comments": "June 21st, 2013 Live Stream Archive_LTT_comments.md",
-      "transcriptCorrected": "June 21st, 2013 Live Stream Archive_transcript_corrected.md",
-      "summary": "June 21st, 2013 Live Stream Archive_summary.md",
-      "summaryCorrected": "June 21st, 2013 Live Stream Archive_summary_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - January 25, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - January 25, 2013_transcript_corrected.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - January 25, 2013_summary_corrected.md",
-      "comments": "Linus Tech Tips Live Show Archive - January 25, 2013_LTT_comments.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - November 30, 2012",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "Linus Tech Tips Live Show Archive - November 30, 2012_summary.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - November 30, 2012_transcript_corrected.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - November 30, 2012_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - April 12, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "transcript": "Linus Tech Tips Live Show Archive - April 12, 2013_transcript.md",
-      "summary": "Linus Tech Tips Live Show Archive - April 12, 2013_summary.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - April 12, 2013_transcript_corrected.md",
-      "comments": "Linus Tech Tips Live Show Archive - April 12, 2013_LTT_comments.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - April 12, 2013_summary_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - March 2, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "summary": "Linus Tech Tips Live Show Archive - March 2, 2013_summary.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - March 2, 2013_transcript_corrected.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - March 2, 2013_summary_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - March 22, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - March 22, 2013_summary_corrected.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - March 22, 2013_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - April 5, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "comments": "Linus Tech Tips Live Show Archive - April 5, 2013_LTT_comments.md",
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - April 5, 2013_transcript_corrected.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - April 5, 2013_summary_corrected.md"
-    },
-    "hasComments": true
-  },
-  {
-    "title": "Live Show Archive - 06-21-2013 - After Party",
-    "date": "Unknown Date",
-    "files": {
-      "summaryCorrected": "Live Show Archive - 06-21-2013 - After Party_summary_corrected.md",
-      "transcriptCorrected": "Live Show Archive - 06-21-2013 - After Party_transcript_corrected.md"
-    },
-    "hasComments": false
-  },
-  {
-    "title": "Linus Tech Tips Live Show Archive - February 8, 2013",
-    "date": "Unknown Date",
-    "files": {
-      "transcriptCorrected": "Linus Tech Tips Live Show Archive - February 8, 2013_transcript_corrected.md",
-      "summaryCorrected": "Linus Tech Tips Live Show Archive - February 8, 2013_summary_corrected.md"
-    },
-    "hasComments": false
   },
   {
     "title": "May 10, 2013 Live Stream Archive",
@@ -515,5 +459,61 @@
       "comments": "May 10, 2013 Live Stream Archive_LTT_comments.md"
     },
     "hasComments": true
+  },
+  {
+    "title": "May 17, 2013 Live Stream Archive",
+    "date": "Unknown Date",
+    "files": {
+      "comments": "May 17, 2013 Live Stream Archive_LTT_comments.md",
+      "transcript": "May 17, 2013 Live Stream Archive_transcript.md",
+      "summary": "May 17, 2013 Live Stream Archive_summary.md",
+      "transcriptCorrected": "May 17, 2013 Live Stream Archive_transcript_corrected.md",
+      "summaryCorrected": "May 17, 2013 Live Stream Archive_summary_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "May 24, 2013 Live Stream Archive",
+    "date": "Unknown Date",
+    "files": {
+      "summary": "May 24, 2013 Live Stream Archive_summary.md",
+      "summaryCorrected": "May 24, 2013 Live Stream Archive_summary_corrected.md",
+      "transcript": "May 24, 2013 Live Stream Archive_transcript.md",
+      "transcriptCorrected": "May 24, 2013 Live Stream Archive_transcript_corrected.md"
+    },
+    "hasComments": false
+  },
+  {
+    "title": "May 3 Live Stream Archive",
+    "date": "Unknown Date",
+    "files": {
+      "comments": "May 3 Live Stream Archive_LTT_comments.md",
+      "transcriptCorrected": "May 3 Live Stream Archive_transcript_corrected.md",
+      "summary": "May 3 Live Stream Archive_summary.md",
+      "summaryCorrected": "May 3 Live Stream Archive_summary_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "May 31, 2013 Live Stream Archive",
+    "date": "Unknown Date",
+    "files": {
+      "summaryCorrected": "May 31, 2013 Live Stream Archive_summary_corrected.md",
+      "comments": "May 31, 2013 Live Stream Archive_LTT_comments.md",
+      "transcript": "May 31, 2013 Live Stream Archive_transcript.md",
+      "transcriptCorrected": "May 31, 2013 Live Stream Archive_transcript_corrected.md"
+    },
+    "hasComments": true
+  },
+  {
+    "title": "Sept 7 Live Stream Hangout on Air",
+    "date": "Unknown Date",
+    "files": {
+      "transcript": "Sept 7 Live Stream Hangout on Air_transcript.md",
+      "summary": "Sept 7 Live Stream Hangout on Air_summary.md",
+      "summaryCorrected": "Sept 7 Live Stream Hangout on Air_summary_corrected.md",
+      "transcriptCorrected": "Sept 7 Live Stream Hangout on Air_transcript_corrected.md"
+    },
+    "hasComments": false
   }
 ]

@@ -75,9 +75,9 @@ def scan_year_directory(year):
             episodes[episode_title]['files']['comments'] = filename
             episodes[episode_title]['hasComments'] = True
     
-    # Convert to list and sort by date
+    # Convert to list and sort by title (alphabetically)
     episode_list = list(episodes.values())
-    episode_list.sort(key=lambda x: x['date'], reverse=True)
+    episode_list.sort(key=lambda x: x['title'])
     
     return episode_list
 

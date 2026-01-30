@@ -109,6 +109,22 @@ async function loadEpisode(episode) {
         commentsTab.style.display = 'none';
     }
     
+    // Check if timestamps exist
+    const timestampsTab = document.querySelector('.tab-button[data-tab="timestamps"]');
+    if (episode.files.timestamps) {
+        timestampsTab.style.display = 'inline-block';
+    } else {
+        timestampsTab.style.display = 'none';
+    }
+    
+    // Check if summary exists
+    const summaryTab = document.querySelector('.tab-button[data-tab="summary"]');
+    if (episode.files.summaryCorrected || episode.files.summary) {
+        summaryTab.style.display = 'inline-block';
+    } else {
+        summaryTab.style.display = 'none';
+    }
+    
     // Load the default tab (transcript)
     const transcriptButton = document.querySelector('.tab-button[data-tab="transcript"]');
     switchTab('transcript', transcriptButton);
