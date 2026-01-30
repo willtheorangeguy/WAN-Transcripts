@@ -33,6 +33,7 @@
 
 ## Key Features
 
+- **Browse transcripts online** with the included website viewer (see `web/` directory).
 - Ability to download all pre-created transcripts.
 - Pull all LTT Live Show episodes, and convert them to audio.
 - Pull all WAN Show episodes, and convert them to audio.
@@ -43,7 +44,28 @@
 
 ## How To Use
 
-**To clone and run your own copy of this website**, you'll need [Git](https://git-scm.com/downloads), [Ollama](https://ollama.com/) and a bunch of Python libraries installed on your computer. If you would rather not use Git, you can just download the code from GitHub [above](https://github.com/willtheorangeguy/WAN-Transcripts/archive/refs/heads/main.zip). From your command line:
+### View Transcripts Online
+
+To browse the transcripts using the built-in website:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/willtheorangeguy/WAN-Transcripts.git
+
+# Go into the repository
+$ cd WAN-Transcripts
+
+# Start a local web server
+$ python -m http.server 8000
+
+# Open your browser to http://localhost:8000/web/
+```
+
+See the [`web/README.md`](web/README.md) file for more details on using the website.
+
+### Generate Your Own Transcripts
+
+**To clone and run your own copy of the transcript generator**, you'll need [Git](https://git-scm.com/downloads), [Ollama](https://ollama.com/) and a bunch of Python libraries installed on your computer. If you would rather not use Git, you can just download the code from GitHub [above](https://github.com/willtheorangeguy/WAN-Transcripts/archive/refs/heads/main.zip). From your command line:
 
 ```bash
 # Clone this repository
