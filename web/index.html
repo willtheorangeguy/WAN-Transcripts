@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WAN Show Transcripts</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎙️ WAN Show Transcripts</h1>
+            <p>Browse transcripts, summaries, timestamps, and comments from the WAN Show</p>
+        </header>
+
+        <main>
+            <div id="year-selector">
+                <h2>Select a Year</h2>
+                <div id="year-buttons" class="year-grid"></div>
+            </div>
+
+            <div id="episode-list" class="hidden">
+                <button class="back-button" onclick="showYearSelector()">← Back to Years</button>
+                <h2 id="year-title"></h2>
+                <div id="episodes" class="episode-grid"></div>
+            </div>
+
+            <div id="episode-viewer" class="hidden">
+                <button class="back-button" onclick="showEpisodeList()">← Back to Episodes</button>
+                <h2 id="episode-title"></h2>
+                
+                <div class="tabs">
+                    <button class="tab-button active" onclick="switchTab('transcript')">Corrected Transcript</button>
+                    <button class="tab-button" onclick="switchTab('summary')">Summary</button>
+                    <button class="tab-button" onclick="switchTab('timestamps')">Timestamps</button>
+                    <button class="tab-button" id="comments-tab" onclick="switchTab('comments')" style="display: none;">LTT Comments</button>
+                </div>
+
+                <div class="loading" id="loading">Loading...</div>
+                <div class="content-view" id="content"></div>
+            </div>
+        </main>
+
+        <footer>
+            <p>WAN Show Transcripts - <a href="https://github.com/willtheorangeguy/WAN-Transcripts" target="_blank">GitHub Repository</a></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
