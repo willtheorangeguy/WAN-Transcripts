@@ -9,6 +9,16 @@ let episodes = {};
 // Initialize the app
 document.addEventListener('DOMContentLoaded', () => {
     loadYears();
+    
+    // Add event delegation for tab buttons
+    document.addEventListener('click', (e) => {
+        if (e.target.classList.contains('tab-button')) {
+            const tabType = e.target.getAttribute('data-tab');
+            if (tabType) {
+                switchTab(tabType, e.target);
+            }
+        }
+    });
 });
 
 // Load year buttons
@@ -98,14 +108,6 @@ async function loadEpisode(episode) {
     } else {
         commentsTab.style.display = 'none';
     }
-    
-    // Add event listeners to tab buttons
-    document.querySelectorAll('.tab-button').forEach(button => {
-        button.addEventListener('click', function() {
-            const tabType = this.getAttribute('data-tab');
-            switchTab(tabType, this);
-        });
-    });
     
     // Load the default tab (transcript)
     const transcriptButton = document.querySelector('.tab-button[data-tab="transcript"]');
