@@ -14,140 +14,144 @@
 [63.78 --> 68.82]  yeah we know why because Twitter is supposed to be about stream of
 [68.82 --> 73.08]  consciousness so like what I'm doing right now whereas I don't do that I
 [73.08 --> 78.36]  don't really do that whenever I think you're like terrible jokes they go on
-[78.36 --> 90.12]  Twitter and whatever I'm like complaining about something like my favorite Twitter
-[90.12 --> 96.00]  posts that I do are the ones where I'm having where I'm having like some random
-[96.00 --> 101.16]  conversation with Yvonne and she burns me or I burn her like those are those are
-[101.16 --> 105.96]  my favorites by far because it's just like yeah that happens yes I'm that
-[105.96 --> 114.54]  awful and yes she's that awful and that's our life together we don't have
-[114.54 --> 120.10]  to do it anymore okay did they just kill it or what I essentially okay that's
-[120.10 --> 125.04]  fine so I think I'm not allowed to go shirtless on twitch so hopefully this nip
-[125.04 --> 129.54]  slip here is not a big deal if I'm using it to change into a twitch shirt I think it's
-[129.54 --> 132.66]  can I get away with it I think it technically is a big deal because
-[132.66 --> 136.30]  they're going with the like yeah I know guys can't do it either thing right
-[136.30 --> 143.10]  which is probably fair party bought which doesn't exist okay now hold on a second
-[143.10 --> 149.78]  because I saw a lot of I saw a lot of discussion about guys streaming shirtless
-[149.78 --> 155.22]  and girls streaming with like just cleavage hanging out all over the place
-[155.22 --> 163.10]  what if a guy streamed with cleavage hanging out all over the place so a v-neck yeah like a super
-[163.10 --> 171.62]  low-cut v-neck on a dude is that considered erotic to anyone I don't know to women like if there are
-[171.62 --> 178.86]  any women watching I'm sure it's erotic to someone it might be yeah I need to know like if the dudes fit
-[178.86 --> 184.54]  I'm sure it's erotic yeah but like what if it's a fairly tight fitting shirt and the dudes fit maybe
-[184.54 --> 190.18]  it looks okay well tell me this like does it have to you know does it have to be in because is it okay
-[190.18 --> 195.14]  is it an intention thing or what you're actually doing like if your intention is to be kind of gross
-[195.14 --> 201.92]  hard to like if you put on a chest toupee like 70s style chest toupee and wear a v-neck the chest hair
-[201.92 --> 206.78]  yeah like is that is that still considered attractive I don't know are you obviously
-[206.78 --> 211.16]  just trying to be gross and I don't think it's a matter of what's attractive it's a matter of what
-[211.16 --> 217.62]  they consider decent yeah I've got people saying that v-neck looks stupid I know it's not the point
-[217.62 --> 223.98]  the conversation we're having um like I think certain v-necks are fine I don't like the like
-[223.98 --> 231.28]  super low ones I actually prefer the shirts where it's a very shallow v-neck just because I like that
-[231.28 --> 236.60]  next one more all right brookla says anything is going to be erotic to someone and this is a very
-[236.60 --> 246.76]  good point um mcdude says or mike dude says uh why are people such prudes well because someone else
-[246.76 --> 254.36]  who complains really loudly is an even bigger prude and the prudes because the internet is like
-[254.36 --> 260.66]  mainstream now yeah I mean and I you know what I kind of get it like if you're trying to maintain a
-[260.66 --> 266.02]  somewhat professional website you don't want like shirtless dudes yeah you don't want cleavage and
-[266.02 --> 271.72]  shirtless dudes everywhere because that's not professional and that's not you can call it prude or
-[271.72 --> 276.44]  you can call it whatever you want but it what it isn't is professional you know it's the classic no
-[276.44 --> 282.70]  shirt no shoes no service that's the way the world works and what about no pants yeah like there are
-[282.70 --> 290.20]  plenty of websites that are not twitch where you can go to look at boobs in streams so yeah
-[290.20 --> 296.86]  live streams either or or or presumably having not looked into this I wouldn't be an expert on it
-[296.86 --> 304.26]  presumably not boobs in streams so apparently Linus and Luke should do a WAN show in latex
-[304.26 --> 309.66]  I will be doing a uh a body paint upper body episode soon that shipped by the way
-[309.66 --> 314.72]  so okay yeah so it's not here yet have we figured out my costume for the girls thing
-[314.72 --> 323.10]  is it showing up yeah if you don't get the things to then just go to uh let's go to the shop there
-[323.10 --> 326.98]  that's what I was gonna do to get the things yeah yeah just don't want to wait two weeks for damn
-[326.98 --> 333.16]  Amazon yeah well it's Christmas season who knows if it'll even show up until after Christmas we're
-[333.16 --> 339.00]  already in December yeah we're gonna have to get it locally apparently people are saying yet twitch
-[339.00 --> 345.94]  has insta-partnered with known porn stars okay you could but twitch would probably insta-partner with
-[345.94 --> 351.40]  any highly recognizable person as long as they're using the site within the guidelines yeah who cares if
-[351.40 --> 356.52]  they're a porn star yeah I don't see why that matters not really relevant yeah pretty much
+[78.36 --> 83.58]  Twitter and never like complaining about something they go on like that has a
+[83.58 --> 89.34]  use on Twitter not like the oh my god look at what I had for lunch today like my
+[89.34 --> 94.60]  favorite Twitter posts that I do are the ones where I'm having where I'm
+[94.60 --> 99.66]  having like some random conversation with Yvonne and she burns me or I burn her
+[99.66 --> 104.28]  like those are those are my favorites by far because it's just like yeah that
+[104.28 --> 108.84]  happens yes I'm that awful and yes she's that awful and that's our life
+[108.84 --> 110.88]  together
+[110.88 --> 114.18]  by the way that thing that we were gonna have to do after we don't have to do it
+[114.18 --> 116.88]  we don't have to do it anymore okay did they just kill it or what
+[116.88 --> 122.88]  essentially okay that's fine so I think I'm not allowed to go shirtless on
+[122.88 --> 127.32]  twitch so hopefully this nip slip here is not a big deal if I'm using it to
+[127.32 --> 131.04]  change into a twitch shirt I think it can I get away with I think it
+[131.04 --> 134.08]  technically is a big deal because they're going with the like yeah I know
+[134.08 --> 140.10]  guys can't do it either thing right which is probably fair party bought which
+[140.10 --> 146.64]  doesn't exist okay now hold on a second because I saw a lot of I saw a lot of
+[146.64 --> 153.24]  discussion about guys streaming shirtless and girls streaming with like just
+[153.24 --> 158.24]  cleavage hanging out all over the place what if a guy streamed with cleavage
+[158.24 --> 165.24]  hanging out all over the place so a v-neck yeah like a super low-cut v-neck on a
+[165.24 --> 171.86]  dude is that considered erotic to anyone I don't know to women like if there are any
+[171.86 --> 177.32]  women watching I'm sure it's erotic to someone it might be yeah I need to know
+[177.32 --> 182.60]  like if the dudes fit I'm sure it's erotic yeah but like what if it's a fairly
+[182.60 --> 185.96]  tight-fitting shirt and the dudes fit maybe it looks okay well tell me this
+[185.96 --> 190.94]  like does it have to you know does it have to be in tech is it okay is it an
+[190.94 --> 194.86]  intention thing or what you're actually doing like if your intention is very
+[194.86 --> 200.86]  hard to like if you put on a chest to pay like 70s style chest to pay and we're not like the chest hair
+[200.86 --> 205.98]  the chest hair yeah like is that is that still considered attractive I don't know
+[205.98 --> 209.84]  are you obviously just trying to be gross and I don't think it's a matter of what's
+[209.84 --> 213.66]  attractive it's a matter of what they consider decent yeah I've got people
+[213.66 --> 218.52]  saying that v-neck looks stupid I know it's not the point of the conversation
+[218.52 --> 224.34]  we're having um like I think certain v-necks are fine I don't like the like super
+[224.34 --> 230.74]  low I actually prefer the shirts where it's a very shallow v-neck just because I
+[230.74 --> 235.86]  like that next all right brookla says anything is going to be erotic to someone
+[235.86 --> 243.16]  and this is a very good point mcdude says or mike dude says why are people such prudes
+[243.16 --> 249.86]  well because someone else who complains really loudly is an even bigger prude
+[249.86 --> 257.86]  and the prudes because the internet is like mainstream now yeah I mean and I you know what
+[257.86 --> 263.36]  I kind of get it like if you're trying to maintain a somewhat professional website you don't want like
+[263.36 --> 267.98]  shirtless dudes yeah you don't want cleavage and shirtless dudes everywhere because that's not
+[267.98 --> 272.90]  professional and that's not good you can call it prude or you can call it whatever you want but it
+[272.90 --> 279.02]  what it isn't is professional you know it's the classic no shirt no shoes no service that's the way
+[279.02 --> 285.44]  the world works and no pants yeah like there are plenty of websites that are not twitch where you can
+[285.44 --> 295.88]  go to look at boobs in streams so yeah live streams or or or presumably having not looked into this I
+[295.88 --> 303.14]  wouldn't be an expert on it presumably not boobs in streams so apparently linus and luke should do a
+[303.14 --> 309.66]  wanshow in latex I will be doing a uh a body paint upper body episode soon that shipped by the way
+[309.66 --> 316.12]  yeah so it's not here yet have we figured out my costume for the girls thing is it showing up
+[316.12 --> 322.86]  things yeah I just need it if you don't get the things to then just go to uh let's go to the shop
+[322.86 --> 326.98]  there that's what I was gonna do to get the things yeah yeah just don't want to wait two weeks for damn
+[326.98 --> 333.16]  amazon yeah well it's christmas season who knows if it'll even show up until after christmas we're
+[333.16 --> 339.24]  already in december yeah we're gonna have to get it locally apparently people are saying yet twitch has
+[339.24 --> 345.66]  insta partnered with known porn stars okay you could but twitch would probably insta partner
+[345.66 --> 350.92]  with any highly recognizable person as long as they're using the site within the guidelines yeah
+[350.92 --> 356.52]  who cares if they're a porn star i don't see why that matters not really relevant yeah pretty much
 [356.52 --> 362.56]  um twitch states that they want to keep the website about the games and not what people are or are not
-[362.56 --> 370.90]  wearing and yeah I totally get that twitch doesn't need to be you know live cams rs central I mean yes
-[370.90 --> 377.06]  they're live and there are cameras involved I think you know what I meant yes let's keep it gaming
-[377.06 --> 383.16]  focused right guys apparently I shouldn't get glossy body paint it's worse to remove thank you for the
-[383.16 --> 389.84]  pro tip I already bought it I have no idea what kind it is I'm not a body paint expert no body
-[389.84 --> 394.98]  chocolate on the other hand I could probably tell you guys a thing or two industrial fondues
-[394.98 --> 404.20]  yeah fondues body chocolate fondues for cucumbers would chocolate cucumber be good probably not
-[404.20 --> 409.02]  probably not no chocolate doesn't go with everything what are we even talking about
-[409.02 --> 415.98]  yeah it's like water and water yeah chocolate rain
-[415.98 --> 421.94]  we're saying I should bust when you're talking about me singing or whatever they're like
-[421.94 --> 426.34]  nick bust into the room i was like chocolate rain i was hoping you were gonna do something like it
-[426.34 --> 431.54]  doesn't matter but that's why i yelled your name oh oh you yelled my name yeah i didn't say that
-[431.54 --> 435.72]  loud because i didn't want it to peak the mic i was like half listening for the sponsor spots
-[435.72 --> 439.14]  yeah yeah apparently it would be watery yeah it would be watery
-[439.14 --> 447.78]  this was a heck of a week so we released oil cool part three we released curved surround part two
-[447.78 --> 454.04]  the final the final one of that for something and tomorrow actually the number of people who were
-[454.04 --> 462.72]  butthurt at you about saying maybe we're gonna have so many oh man yeah that is a butthurt fist
-[462.72 --> 477.58]  um i almost shortened it but i was like no yeah okay so anyway he was just teasing just teasing
-[477.58 --> 484.00]  and not just teasing like teasing upcoming content just teasing it is coming out tomorrow night so
-[484.00 --> 491.22]  tomorrow night whole room water cooling part one will be up and i cannot hype this video enough i think
-[491.22 --> 494.62]  i've heard him say offline behind camera that he thinks it might be one of the best things we've
-[494.62 --> 498.82]  ever made i think it might be the best thing we've ever made ed still says don't hype it up too much
-[498.82 --> 504.00]  yeah ed says not to hype it but he's done a great job of it and i thought we're a hype machine
-[504.00 --> 509.54]  yeah i thought it was great hopefully we don't ubisoft this hopefully it's actually great yeah it
-[509.54 --> 514.12]  better be it is great you haven't seen it yet right no oh yeah it's it's done it's done it's
-[514.12 --> 519.28]  uploaded it would have been awesome if he had ubisoft it and like she's coming in just like eyes and mouth
-[519.28 --> 522.52]  bring air on minus his face for like one frame
-[522.52 --> 530.34]  that would actually be pretty funny so i can't promise how quickly the additional episodes are
-[530.34 --> 536.06]  coming but we have all the footage we need for episodes two and three they're just extremely
-[536.06 --> 541.62]  time consuming to make and we still need vo for two and we still need voiceovers uh for some of them
-[541.62 --> 549.64]  and then it's not strictly speaking done because not only did we never finish some things like the
-[549.64 --> 554.18]  vinyl decals on the wall stuff didn't we or something happened no no no no no um but we've
-[554.18 --> 558.54]  had we had some challenges with putting quick disconnect fittings on all the systems so we have
-[558.54 --> 564.64]  to finish off all the systems so they can actually be disconnected from the whole room loop um and then
-[564.64 --> 569.24]  we still have to put some vinyl decals on the wall and the power supply for the fans for the roof
-[569.24 --> 575.42]  mounted radiator died after like a couple days because it was just some cheapo like it doesn't
-[575.42 --> 581.04]  matter made in china like yeah but the cool thing about it and maybe we'll cover this in more depth
-[581.04 --> 586.78]  in the video is it's working without fans yeah yeah yeah one thing okay i didn't realize that there was
-[586.78 --> 592.52]  like cool decals and stuff inside the box of the loot crate thing and the outside is like super plain
-[592.52 --> 600.12]  and the inside's like cool stuff anyways oh can you like did he you did oh that's really look how tightly packed
+[362.56 --> 370.90]  wearing and yeah i totally get that twitch doesn't need to be you know live cams rs central i mean yes
+[370.90 --> 377.54]  they're live and there are cameras involved i think you know what i meant yes let's keep it gaming focused
+[377.54 --> 383.60]  right guys apparently i shouldn't get glossy body paint it's worse to remove thank you for the pro tip
+[383.60 --> 390.60]  i already bought it i have no idea what kind it is i'm not a body paint expert no body chocolate on the
+[390.60 --> 398.44]  other hand i could probably tell you guys a thing or two industrial fondues yeah fondues body chocolate
+[398.44 --> 405.82]  fondues for cucumbers would chocolate cucumber be good probably not probably not no chocolate doesn't
+[405.82 --> 412.86]  go with everything what are we even talking about yeah it's like water and water yeah
+[412.86 --> 416.40]  chocolate chocolate rain chocolate rain
+[416.40 --> 423.76]  when you were talking about me singing or whatever they were like nick bust into the room i was doing
+[423.76 --> 427.58]  chocolate rain i was hoping you were gonna do something like it doesn't matter but that's why
+[427.58 --> 432.38]  i yelled your name oh oh you yelled my name yeah i didn't say that loud because i didn't want it to
+[432.38 --> 438.04]  pick the mic i was like half listening for the sponsor spots yeah yeah apparently it would be watery
+[438.04 --> 446.52]  yeah it would be watery this was a heck of a week so we released oil cool part three we released curved
+[446.52 --> 454.04]  surround part two the final the final one of that and tomorrow actually the number of people who were
+[454.04 --> 463.04]  butthurt at you about saying maybe we're gonna have so many oh man yeah that is a butthurt fist pound
+[463.04 --> 473.26]  moment right there yeah but oh wow butthurt fist um i almost shortened it but i was like no yeah okay so
+[473.26 --> 480.92]  anyway he was just teasing just teasing and not just teasing like teasing upcoming content just teasing
+[480.92 --> 487.38]  it is coming out tomorrow night so tomorrow night whole room water cooling part one will be up
+[487.38 --> 493.58]  and i cannot hype this video enough i think i have heard him say offline behind camera that he thinks
+[493.58 --> 496.96]  it might be one of the best things we've ever made i think it might be the best thing we've ever made
+[496.96 --> 504.00]  yeah ed says not to hype it but he's done a great job of it and i thought we're a hype machine
+[504.00 --> 509.30]  yeah i thought it was great hopefully we don't ubisoft this hopefully it's actually great yeah
+[509.30 --> 514.14]  it better be it is great you haven't seen it yet right no oh yeah it's it's done it's done it's
+[514.14 --> 519.28]  uploaded it would have been awesome if he had ubisoft it and like just coming in just like eyes and mouth
+[519.28 --> 532.38]  so i can't promise how quickly the additional episodes are coming but we have all the footage
+[532.38 --> 537.84]  we need for episodes two and three they're just extremely time consuming to make and we still
+[537.84 --> 544.42]  need vo for two and we still need voiceovers uh for some of them and then it's not strictly speaking
+[544.42 --> 551.20]  done because not only did we never finish some things like the vinyl decals on the walls stuff
+[551.20 --> 556.30]  didn't we or something happened no no no no um but we've had we had some challenges with putting quick
+[556.30 --> 561.26]  disconnect fittings on all the systems so we have to finish off all the systems so they can actually be
+[561.26 --> 565.90]  disconnected from the whole room whole room loop um and then we still have to put some vinyl decals
+[565.90 --> 572.00]  on the wall and the power supply for the fans for the roof mounted radiator died after like a couple
+[572.00 --> 579.26]  days because it was just some cheapo like it doesn't matter made in china like yeah but the cool thing
+[579.26 --> 584.10]  about it and maybe we'll cover this in more depth in the video is it's working without fans yeah yeah
+[584.10 --> 589.96]  yeah one thing okay i didn't realize that there was like cool decals and stuff inside the box of the
+[589.96 --> 594.60]  loot crate thing and the outside is like super plain and the inside's like cool stuff anyways
+[594.60 --> 600.12]  oh can you show that off though did he you did oh that's cool because you were like look how tightly packed
 [600.12 --> 603.88]  everything is and i was like does it unfold and become something that's what i was wondering because
-[603.88 --> 609.64]  you can see inside the fold oh it totally does yeah there's a cut line here oh what what does it do
-[610.60 --> 617.88]  share document enjoy i don't know because there's stuff under these folds in there you can see yeah here we
-[617.88 --> 623.32]  should we should discover it while i'm talking but um like you're talking about putting the extra
-[623.32 --> 628.76]  vinyls and stuff on the wall like aren't we moving soon i've got people asking for please no please more
-[628.76 --> 634.52]  nips please more nips yeah not not today but i won't promise it'll never happen which is gonna ban us
-[634.52 --> 640.92]  yeah twitch is gonna i'll get banned while i rep my twitch shirt oh my god i think there's other stuff in
-[640.92 --> 647.80]  here did we not even notice all the stuff way to go lou hey man you were looking at it too are you a
-[647.80 --> 652.60]  pirate or a ninja what does this say this month's theme is battle oh it has like a whole little
-[652.60 --> 658.44]  like thing that goes along with it and there's like there's like little mega man and like ryu like
-[658.44 --> 665.56]  pop out dudes that you can stand up and oh and maybe it's something to do is oh my goodness i get it
-[665.56 --> 672.84]  i get it oh that's so sick it's a fight background oh nice so you put your little like dudes and they
-[672.84 --> 677.96]  like stand on it oh i totally get it that's awesome i can't believe we missed this we're going to pay a
-[677.96 --> 685.16]  lot more attention to that kind of stuff yeah and they screwed up the first one spot there's a freaking
-[685.16 --> 692.60]  street fighter arcade edition full game oh there's a game code oh i don't want to show that there's a game
-[692.60 --> 702.44]  code in here i'll show it like this there's a game code free game download street fighter 4 arcade
-[702.44 --> 708.28]  this like folds out like way bigger than i originally showed it so fair this was supposed
+[603.88 --> 609.64]  you can see inside the full oh it totally does yeah there's a cut line here oh what what does it do
+[609.64 --> 617.48]  share document enjoy i don't know because there's stuff under these folds in there you can see yeah
+[617.48 --> 623.00]  here we should okay i'll have to do it while i'm talking but um like you're talking about putting the
+[623.00 --> 628.28]  extra vinyls and stuff on the wall like are we moving soon i've got people asking for please no
+[628.28 --> 633.80]  please more nips please more nips yeah not not today but i won't promise it'll never happen which is
+[633.80 --> 639.96]  gonna ban us yeah twitch is gonna i'll get banned while i rep my twitch shirt oh my god i think
+[639.96 --> 646.68]  there's other stuff in here did we not even notice all the stuff way to go lu hey man you were looking
+[646.68 --> 652.12]  at it too are you a pirate or a ninja what does this say this month's theme is battle oh it has like a
+[652.12 --> 658.04]  whole little like thing that goes along with it and there's like there's like mega man and like ryu
+[658.04 --> 665.08]  like pop out dudes that you can stand up and oh and maybe it's something to do is oh my goodness i get it
+[665.56 --> 673.08]  i get it oh that's so sick it's a fight background oh nice so you put your little like dudes and they like
+[673.08 --> 678.28]  stand on it oh i totally get it that's awesome i can't believe we missed this we're gonna have to pay a lot more
+[678.28 --> 685.08]  attention to that kind of stuff in the future yeah and they screwed up the first one spot there's a freaking
+[685.08 --> 692.36]  street fighter arcade edition full game oh there's a game code oh i don't want to show that there's a
+[692.36 --> 702.36]  game code in here i'll show it like this there's a game code free game download street fighter 4 arc
+[702.36 --> 708.28]  and this like folds out like way bigger than i originally showed it so to be fair this was supposed
 [708.28 --> 713.48]  to be an unboxing spot so i don't think they expected you to like get it perfect all of these
 [713.48 --> 718.68]  things well they probably expected us to find the stuff that was in the box when i saw the paper stuff
 [718.68 --> 726.04]  i was like oh it's just ads and it's none of its ads yeah literally none of it is ads uh 50 off lichdom
-[726.04 --> 733.64]  that's a pretty big discount i wouldn't consider that an ad that's cool huh so i wonder how much
-[733.64 --> 739.00]  street and we suck is on steam it's probably like i don't think it's that expensive is it 20 bucks
-[739.00 --> 745.16]  20 dollars shut up 20 value free game download so you pay 1337 you get all that cool stuff and you
-[745.16 --> 751.32]  get a 20 dollar game yeah that's pretty insane yeah but you're a sales guy so we can't listen to you
-[751.32 --> 760.60]  yeah eeeew ew business yeah all right i thought you were checking on steam i want to see if it's
-[760.60 --> 764.04]  actually 20 dollars because like it it might have been 20 dollars when they printed those and it might
-[764.04 --> 770.92]  be like two dollars now we'll see steam i'm i would check but i'm waiting for my uh my text to input
-[770.92 --> 777.08]  really yeah i was it's it's loaded now i'm gonna find it before your wi-fi is so much better than
-[777.08 --> 784.28]  mega rex what hot spot it's 30 dollars it's 30 bucks oh my god it's 29.99 we're in canada so maybe
-[784.28 --> 790.60]  it's like maybe it's 1999 in the us interesting um i already got an email from our rep back just being
-[790.60 --> 796.20]  like my team told me we're seeing a lot of awesome traffic to the site okay cool so apparently i screw
-[796.20 --> 800.84]  everything up and i still succeed well seriously when i saw the papers in the bottom i was like
-[800.84 --> 805.96]  oh here's junk and then it's like all awesome everyone who's still in the stream go over and
-[805.96 --> 811.88]  check it out non-arcade edition i think is 20 bucks so they screwed up they screwed up and they put it
-[811.88 --> 821.64]  to 20 value but it's the arcade edition oh this is this is ultra sorry wait what ultra oh is this ultra
-[822.84 --> 829.08]  that's the arcade edition can buy this oh i get it i'm looking at ultra i might be looking at the wrong
-[829.08 --> 834.20]  thing oh yeah yeah i think arcade edition is like the version before ultra it is you don't have one
-[834.20 --> 840.04]  of the expansions or whatever yeah okay okay so where's our key edition i don't know if you can buy
-[840.04 --> 847.16]  it i don't know it's still street fighter 4. there's like 18 versions of street yeah i just figured that
-[847.16 --> 852.76]  out that's super weird ultra mega wait we can't use mega that's mega man and there's also mega man swag
-[852.76 --> 860.44]  ultra super super mega man helmet man that thing's cool like i'm a huge mega man man so mega buster yeah
-[860.44 --> 866.44]  and it's like not not super cheap and crappy either oh it's not in the box like it's fairly
-[866.44 --> 872.44]  well constructed oh that's cool wow yeah that's actually has some weight to it yeah here's the stand
-[872.44 --> 879.72]  okay well i'm gonna go home and eat yay it's been a really long day do you want to go get food
-[882.52 --> 888.84]  do you want to go get food maybe let me check with the fam yeah should we go to the place yeah
-[889.64 --> 894.04]  do the stuff and then i'll stream after i'm streaming tonight for anyone who's wondering should we should
-[894.04 --> 899.88]  we stream lowbie instances i don't know someone asks when will linus read the comments
-[899.88 --> 907.40]  i love those questions i love those like you never answer any of my tweets that's my favorite
-[907.40 --> 912.44]  tweet to ever see um it's like well i'm answering this one not sure what you wanted to know
+[726.68 --> 732.04]  that's a pretty big discount i wouldn't consider that an ad that's cool huh
+[732.04 --> 737.64]  so i wonder how much street fighter 4 arcade is on steam it's probably like i don't think it's
+[737.64 --> 744.36]  that expensive is it 20 bucks 20 dollars shut up 20 value free game download so you pay 1337 you get
+[744.36 --> 749.96]  all that cool stuff and you get a 20 game yeah that's pretty insane yeah but you're a sales guy so
+[749.96 --> 754.04]  we can't listen to you yeah eww
+[754.04 --> 761.32]  business yeah all right i thought you were checking on steam i want to see if it's actually 20 dollars
+[761.32 --> 764.92]  because like it it might have been 20 dollars when they printed those and it might be like two dollars
+[764.92 --> 773.16]  now we'll see steam i'm i would check but i'm waiting for my uh my text to input really yeah i was it's
+[773.16 --> 778.84]  it's loaded now i'm gonna find it before your wi-fi is so much better than mega wreck what hot spot on my
+[778.84 --> 786.04]  30 dollars it's 30 bucks oh my god it's 29.99 we're in canada so maybe it's like maybe it's 1999 in
+[786.04 --> 791.64]  the u.s interesting um i already got an email from our rep back just being like my team told me we're
+[791.64 --> 797.40]  seeing a lot of awesome traffic to the site okay cool so apparently i screw everything up and i still
+[797.40 --> 803.08]  succeed well seriously when i saw the papers in the bottom i was like oh here's junk and then it's like
+[803.08 --> 808.36]  all awesome everyone who's still in the stream go over and check it out non-arcade edition i think
+[808.36 --> 814.84]  is 20 bucks so they screwed up they screwed up and they put it to 20 value but it's the arcade
+[814.84 --> 823.24]  edition oh this is this is ultra sorry okay wait what ultra oh is this ultra wait what that's the
+[823.24 --> 830.12]  arcade edition can buy this oh i get it i'm looking at ultra i might be looking at the wrong thing oh yeah
+[830.12 --> 835.08]  yeah i think arcade edition is like the version before ultra it is you don't have one of the expansions or
+[835.08 --> 842.20]  whatever yeah okay okay so where's our key edition i don't know if you can buy it i don't know it's
+[842.20 --> 847.96]  still street fighter 4. there's like 18 versions of street yeah i just figured that out that's super
+[847.96 --> 853.56]  weird ultra mega wait we can't use mega that's mega man and there's also mega man swag ultra super
+[853.56 --> 865.56]  mega buster yeah and it's like not not super cheap and crappy no it's not in the box like it's
+[865.56 --> 872.44]  fairly well constructed oh that's cool wow yeah that's actually has some weight to it yeah here's the stand
+[872.44 --> 879.56]  okay well i'm gonna go home and eat yay it's been a really long day do you want to go get food
+[879.56 --> 888.84]  food do you want to go get food maybe let me check with the fam yeah should we go to the place yeah
+[889.40 --> 893.48]  and do the stuff and then i'll stream after i'm streaming tonight for anyone who's wondering should
+[893.48 --> 899.88]  we should we stream lowbie instances i don't know someone asks when will linus read the comments
+[899.88 --> 907.64]  i love those questions i love those like you never answer any of my tweets that's my favorite tweet
+[907.64 --> 912.44]  to ever see um it's like well i'm answering this one not sure what you wanted to know
 [913.96 --> 923.00]  this is the one i happened to see people are asking for vlogs no man no dude no bro i do vlogs
 [923.00 --> 928.76]  vlogs of what i do vlogs whenever i do something that i think is particularly interesting vlogs of what
 [928.76 --> 933.88]  probably have like moving vlogs and like yeah we'll probably do moving vlogs yeah well i think
@@ -186,8 +190,8 @@
 [1120.76 --> 1125.32]  of you are going to be interested in it it's a video about a thousand dollar wireless access point
 [1125.96 --> 1134.76]  um and basically my my original plan i had this like amazing plan to like he just got through some
 [1134.76 --> 1141.24]  glitch in someone's system evidently um uh meraki access point it wasn't the glitch i know it wasn't
-[1141.24 --> 1146.28]  a glitch but i'm sure they didn't intend for you to have one so whatever you want to call it he got
-[1146.28 --> 1153.96]  maybe not but it wasn't the glitch he got like a 700 meraki like enterprise grade cloud managed access
+[1141.24 --> 1146.20]  a glitch but i'm sure they didn't intend for you to have one so whatever you want to call it he got
+[1146.20 --> 1153.96]  maybe not but it wasn't the glitch he got like a 700 meraki like enterprise grade cloud managed access
 [1153.96 --> 1159.00]  point i recently got this thousand dollar ruckus one and then i was going to take some high-end consumer
 [1159.00 --> 1166.04]  grade stuff and i was going to like go full-on wi-fi testing and like i had so many issues with
 [1166.04 --> 1172.28]  it that wi-fi testing is redonk you i already knew that but i learned it's more i did learn a lot
@@ -198,96 +202,97 @@
 [1195.40 --> 1203.00]  and so for me to actually get the most out of a three spatial stream ac wireless access point i need
 [1203.00 --> 1209.64]  a client that i can move around easily to different locations to do range and obstacle testing so instead
 [1209.64 --> 1214.44]  i had to use a phone so i used the droid turbo because that's the one that holds the record for me
-[1214.44 --> 1222.04]  for at my house i have 100 megabit down uh internet and on n wireless that's the one that does the
-[1222.04 --> 1228.44]  best throughput with um with the thousand dollar ap so that's the one that i decided to use for my testing
+[1214.44 --> 1222.04]  for at my house i have 100 megabit down uh internet and on n wireless that's the one that does the best
+[1222.04 --> 1228.44]  the best throughput with um with the thousand dollar ap so that's the one that i decided to use for my testing
 [1228.44 --> 1235.40]  i learned a lot about using iperf in the best possible way but there's still a lot more that needs to be done
 [1235.40 --> 1240.84]  like the problem with iperf and the problem i was running into with my testing is i had to basically wait for a run
 [1240.84 --> 1247.24]  where i was kind of getting consistent results because like a car would go by yeah um where's
 [1247.24 --> 1253.56]  the way speed test works like speedtest.net is it throws away the outliers at the top and the bottom
 [1253.56 --> 1259.32]  in order to give you that number of this is your typical speed whereas iperf unless you've got uh like
 [1259.32 --> 1264.28]  something like and i haven't tried jperf yet but i will just as part of the learning process next time i
-[1264.28 --> 1269.24]  tackle this if i do the problem with iperf is it just gives you a raw average of however long you
-[1269.24 --> 1275.00]  run the test and i to my knowledge there isn't an easy way to export it at least from the the phone
-[1275.00 --> 1282.28]  version that i'm using yeah so i need a better client hardware i need a better client software layer
-[1282.28 --> 1286.52]  so that i can draw more meaningful results from it but i was able to get something that
-[1286.52 --> 1293.08]  is somewhat meaningful especially in my load testing so wireless access points are not just about max
-[1293.08 --> 1297.08]  speed from the access point to one client because that's not how anybody uses them nope and they're
-[1297.08 --> 1302.76]  not about maximum range either because it's it's relevant but it's not necessarily how most people
-[1302.76 --> 1310.28]  use them so i did a load test so like a stress test where i i think i ended up with six or seven clients
-[1310.92 --> 1319.64]  all of which were streaming video or some other kind of super intensive content use um and then i basically
-[1319.64 --> 1326.68]  tried to bring um the enterprise grade one and then a consumer grade one um to their knees and see
-[1326.68 --> 1331.88]  how they held up and the enterprise one is just if it costs three times as much as the consumer grade one
-[1331.88 --> 1337.24]  it more than justifies its price in that use case scenario but what they said a lot of people won't have
-[1337.24 --> 1343.88]  it in that use case scenario yes so if you had a um like if you had an extremely busy household where lots
-[1343.88 --> 1349.00]  of people are running off wireless it could make a lot of sense or it could completely not because you
+[1264.28 --> 1269.32]  tackle this if i do the problem with iperf is it just gives you a raw average of however long you run
+[1269.32 --> 1275.32]  the test and i to my knowledge there isn't an easy way to export it at least from the the phone version
+[1275.32 --> 1283.08]  that i'm using yeah so i need a better client hardware i need a better client software layer so that i can
+[1283.08 --> 1288.28]  draw more meaningful results from it but i was able to get something that is somewhat meaningful especially
+[1288.28 --> 1294.52]  in my load testing so wireless access points are not just about max speed from the access point to
+[1294.52 --> 1299.32]  one client because that's not how anybody uses them nope and they're not about maximum range either
+[1299.32 --> 1304.60]  because it's it's relevant but it's not necessarily how most people use them so i did a load test
+[1305.16 --> 1312.68]  so like a stress test where i i think i ended up with six or seven clients all of which were streaming
+[1312.68 --> 1320.44]  video or some other kind of super intensive content use um and then i basically tried to bring
+[1321.56 --> 1327.48]  the enterprise grade one and then a consumer grade one um to their knees and see how they held up and
+[1327.48 --> 1332.36]  the enterprise one is just if it costs three times as much as the consumer grade one it more than
+[1332.36 --> 1337.56]  justifies its price in that use case scenario but what they said a lot of people won't have it in that
+[1337.56 --> 1343.96]  use case scenario yes so if you had a um like if you had an extremely busy household where lots of
+[1343.96 --> 1349.00]  people are running off wireless it could make a lot of sense or it could completely not because you
 [1349.00 --> 1354.04]  might be better off getting a lot of more inexpensive consumer grade access points and then positioning
-[1354.04 --> 1361.16]  them all over the place so if you want like a blanket of wireless over the entire building that can handle
-[1361.16 --> 1367.40]  seemingly unlimited load like this thing is awesome then enterprise grade well the the are we calling it
-[1367.40 --> 1374.68]  what what ap we're talking about yeah it's the r700 yeah okay so that exact model ap is what um a mutual
-[1374.68 --> 1380.76]  friend of nick and i uses he's an it manager at a school i'm trying to be as vague as possible he uses
-[1380.76 --> 1386.84]  r700s all over the place and for the entire school with all these kids hammering it all day they're fine
-[1387.40 --> 1392.36]  yeah so like i knew before you started doing this testing i was like the r700 is gonna smash what was it
-[1392.36 --> 1398.44]  you were you were you were you were hoping i was i was hoping that the cisco meraki would do better
-[1398.44 --> 1407.64]  than the r700 so that i could trade and then because somehow i wasn't going to figure out that the r700
-[1407.64 --> 1412.92]  is better than the meraki well i was like if he goes through his raw testing and it like wins in
-[1412.92 --> 1418.76]  whatever scenarios he's doing then then wouldn't you be happy with it why did you want the ruckus
-[1418.76 --> 1425.80]  is there something you know that i don't about it uh it's a little bit i i like the localized
-[1425.80 --> 1431.72]  manageability i don't i don't like the cloud stuff that cisco meraki is doing uh i find it more simple
-[1431.72 --> 1438.60]  because i find the cisco meraki interface is designed around someone in a use case more like our mutual
-[1438.60 --> 1444.44]  friends where they're running a whole bunch of these ap's i want one all the main menus are like here's your
-[1444.44 --> 1448.28]  google map style map plot all the points where your ap's are i'm like i don't have
-[1448.28 --> 1455.40]  a campus i have one small basement suite like i don't need this i just want to manage it and like
-[1455.40 --> 1460.36]  if you're having some problem or if i'm offline for whatever reason i still want to be able to access
-[1460.36 --> 1467.88]  my ap and there was that funny thing where um some of my clients didn't support forcing 2.4 gigahertz
-[1467.88 --> 1473.24]  and while every other access point that i was originally going to include in my test one from ubiquity
-[1473.24 --> 1480.52]  um a couple from linksys anyway every other one supported splitting out the ss splitting out 2.4
-[1480.52 --> 1485.48]  gigahertz and 5 gigahertz into separate ssids so i could manually connect to them separately
-[1485.48 --> 1492.44]  the meraki doesn't didn't even support forcing 2.4 gigahertz on an ssid until luke called them
-[1492.44 --> 1497.24]  honestly the dude on the phone was like super nice yeah and they were really fast they returned the call
-[1497.24 --> 1501.88]  really fast yeah they picked up really quickly they solved the problem really quickly and they're
-[1501.88 --> 1510.12]  really nice no not once i don't think so real real dude and like fixed it right away but he had to add
-[1510.12 --> 1515.88]  a button to luke's cloud management interface to force 2.4 gigahertz why is this button not in here
-[1515.88 --> 1521.32]  already yeah it's cool they're able to add it yeah but i shouldn't have to call support for a basic
-[1521.32 --> 1526.76]  feature like that i think part of the reason is that uh that ap that you have isn't like isn't
-[1526.76 --> 1532.12]  actually their highest end ap so it's kind of like bridging between enterprise and consumer so i
-[1532.12 --> 1536.04]  think they're trying to help people like more like i wouldn't say consumer but like small business yeah
-[1536.04 --> 1540.44]  yeah yeah so i think they're trying to help people not screw up considering that option exists i'm sure
-[1540.44 --> 1544.52]  on the even higher version it's probably there because they're expecting more of an ip administration
-[1545.32 --> 1551.24]  yeah so i don't know if they should lose too many points for that but well a more fair comparison
-[1551.32 --> 1556.28]  and where i might be better prepared to uh to do more of this testing like now that i know what
-[1556.28 --> 1563.08]  i'm doing i i burned like probably 16 hours of the time i spent prepping that video figuring out a way
-[1563.08 --> 1568.60]  to get repeatable results so once i have a bet i have better gear once i have better software once i've
-[1568.60 --> 1574.20]  had some more time to tinker with it i might tackle this again and then that would probably be a good time
-[1574.20 --> 1580.60]  for when um because we talked to ruckus about their x claim product line yeah so not the r series product
-[1580.60 --> 1587.88]  line but that would be probably more comparable to your maraki anyway um where these ones are
-[1587.88 --> 1597.08]  managed these are app managed uh wow that is that's a new fan art from jack sack jack sack did more fan
-[1597.08 --> 1604.52]  art hold on we gotta show this that's so good that was so fast how does he do it so fast dude it's
-[1604.52 --> 1610.36]  awesome i love his art style a wizard i love how you just magically have super long hair
-[1612.04 --> 1615.64]  well i think it was supposed to be like a modification of the pc master race guy
-[1616.44 --> 1621.64]  i don't think so no i think it's just like the beauty hair thing yeah i think it's just majestic yeah
-[1621.64 --> 1631.56]  that's awesome oh this is legitimately pretty cool i know i was like kind of playing around with it
-[1632.44 --> 1637.00]  like he's like it's not bad he's very posable yeah fully pose and he actually manages to hold the gun
-[1637.72 --> 1642.60]  which is a better than most action figures i got as a kid i don't think this is like these don't get
-[1642.60 --> 1646.92]  archived or anything right no yeah okay so this isn't getting archived we're not this isn't a sponsor
-[1646.92 --> 1650.84]  spot anymore that was honestly i was not really sold on the creek before and that was actually
+[1354.04 --> 1360.60]  them all over the place so if you want like a blanket of wireless over the entire building that can
+[1360.60 --> 1367.00]  handle seemingly unlimited load like this thing is awesome then enterprise grade well the the are we
+[1367.00 --> 1373.08]  calling out what what ap we're talking about yeah it's the r700 yeah okay so that exact model ap is
+[1373.08 --> 1379.64]  what um a mutual friend of nick and i uses he's an it manager at a school i'm trying to be as vague as
+[1379.64 --> 1385.88]  possible he uses r700s all over the place and for the entire school with all these kids hammering it
+[1385.88 --> 1391.32]  all day they're fine yeah so like i i knew before you started doing this testing i was like the r700's
+[1391.32 --> 1396.84]  gonna smash what was it you were you were you were you were hoping you were hoping i was i was hoping that the
+[1396.84 --> 1402.28]  cisco meraki would do better than the r700 so that i could trade and then
+[1404.60 --> 1408.92]  because somehow i wasn't going to figure out that the r700 is better than the meraki
+[1409.88 --> 1414.60]  well it's like if he goes through his raw testing and it like wins in whatever scenarios he's doing
+[1414.60 --> 1420.44]  then then wouldn't you be happy with it why did you want the ruckus i'm curious is there something
+[1420.44 --> 1427.32]  you know that i don't about it uh it's a little bit i i like the localized manageability i don't i
+[1427.32 --> 1433.48]  don't like the cloud stuff that's doing uh i find it more simple because i find the cisco meraki
+[1433.48 --> 1439.80]  interface is designed around someone in a use case more like our mutual friends where they're running a
+[1439.80 --> 1446.28]  whole bunch of these ap's i want one all the main menus are like here's your google map style map plot all
+[1446.28 --> 1452.84]  the points where your ap's are i'm like i don't have a campus i have one small basement suite like
+[1452.84 --> 1458.36]  i don't need this i just want to manage it and like if you're having some problem or if i'm offline
+[1458.36 --> 1464.20]  for whatever reason i still want to be able to access my ap and there was that funny thing where um some of
+[1464.20 --> 1471.16]  my clients didn't support forcing 2.4 gigahertz and while every other access point that i was originally
+[1471.16 --> 1478.20]  going to include in my test one from ubiquity um a couple from linksys anyway every other one supported
+[1478.20 --> 1483.72]  splitting out the ss splitting out 2.4 gigahertz and 5 gigahertz into separate ssids so i could
+[1483.72 --> 1489.32]  manually connect to them separately the meraki doesn't didn't even support forcing 2.4 gigahertz
+[1489.32 --> 1495.88]  on an ssid until luke called them honestly the dude on the phone was like super nice yeah and they were
+[1495.88 --> 1501.00]  really fast they returned the call really fast yeah they picked up really quickly they solved the problem
+[1501.00 --> 1506.68]  really quickly and they're really nice you have to talk to a robot nope not once i don't think so
+[1506.68 --> 1512.60]  real real dude and like fixed it right away but he had to add a button to luke's cloud management
+[1512.60 --> 1517.96]  interface to force 2.4 gigahertz why is this button not in here already yeah it's cool they're able to
+[1517.96 --> 1522.68]  add it yeah but i shouldn't have to call support for a basic feature like that i think part of the
+[1522.68 --> 1529.00]  reason is that that ap that you have isn't like isn't actually their highest end ap so it's kind of like
+[1529.72 --> 1533.72]  bridging between enterprise and consumer so i think they're trying to help people not like more
+[1533.72 --> 1537.24]  like i wouldn't say consumer but like small business yeah yeah yeah so i think they're trying
+[1537.24 --> 1541.72]  to help people not screw up considering that option exists i'm sure on the even higher version
+[1541.72 --> 1546.52]  it's probably there because they're expecting more of an it administration yeah so i don't know if they
+[1546.52 --> 1553.08]  should lose too many points for that but well a more fair comparison and where i might be better
+[1553.08 --> 1558.20]  prepared to uh to do more of this testing like now that i know what i'm doing i i burned like
+[1558.20 --> 1564.76]  probably 16 hours of the time i spent prepping that video figuring out a way to get repeatable results
+[1564.76 --> 1569.24]  so once i have a bet i have better gear once i have better software once i've had some more time to
+[1569.24 --> 1575.80]  tinker with it i might tackle this again and then that would probably be a good time for when um because
+[1575.80 --> 1581.32]  we talked to ruckus about their x claim product line yeah so not the r series product line but
+[1581.32 --> 1588.52]  that would be probably more comparable to your maraki anyway um where these ones are managed these
+[1588.52 --> 1597.64]  are app managed uh wow that is that's a new fan art from jack sack jack sack did more fan art hold on
+[1597.64 --> 1605.40]  we gotta show this that's so good that was so fast how does he do it so fast dude it's awesome i love
+[1605.40 --> 1612.52]  his art style a monster a wizard i love how you just magically have super long hair well i think it
+[1612.52 --> 1618.20]  was supposed to be like a modification of the pc master race guy i don't think so no i think it's just
+[1618.20 --> 1624.12]  like the beauty hair thing yeah i think it's just majestic yeah that's awesome
+[1624.12 --> 1631.56]  oh this is legitimately pretty cool i know i was like kind of playing around with it
+[1632.44 --> 1636.76]  like he's like it's not bad he's very posable yeah fully posable and he actually manages to hold the
+[1636.76 --> 1642.52]  gun which is a better than most action figures i got as a kid i don't think this is like these don't
+[1642.52 --> 1646.60]  get archived or anything right no yeah okay so this isn't getting archived we're not this isn't a
+[1646.60 --> 1650.84]  sponsored spot anymore that was honestly i was not really sold on late creep before that was actually
 [1650.84 --> 1657.08]  pretty cool you get a lot of stuff for 14 bucks a shirt is about what you normally get yeah it's a
-[1657.08 --> 1660.84]  pretty cool shirt unless you're luke in which case every one of your shirts is free all my shirts are free
+[1657.08 --> 1661.32]  pretty cool shirt unless you're luke in which case every one of your shirts all my shirts are free um
 [1662.52 --> 1668.36]  and like i'm not super into the little action figure thing but the bandana was cool yeah um the coin if
-[1668.36 --> 1675.64]  that game was good was cool yeah um the uh sorry i already said the bandana the free game that's i like
-[1675.64 --> 1680.68]  that they have like a variety of stuff yes so they hit like it's kind of like and like there's
-[1680.68 --> 1686.04]  enough value there's enough value in each type of variety that it was probably worth it even if
-[1686.04 --> 1689.80]  there's a whole bunch of stuff you don't care i don't know how they do it so cheaply just to be
-[1689.80 --> 1695.48]  perfectly honest mass yeah mass ordering yeah even even then like things like t-shirts only go down to
-[1695.48 --> 1700.52]  a certain cost like well there's like six dollar t-shirts.com and stuff yeah but that's you just have to
-[1700.52 --> 1705.48]  produce enough so that's six dollars so like yeah they only have thirteen dollars but no they sell
-[1705.48 --> 1710.28]  it for six dollars i know but it's cheaper so maybe it's four dollars or three dollars but that's
-[1710.28 --> 1715.72]  still using up a significant chunk of your budget yeah and it's probably like they do this every month
-[1716.04 --> 1723.16]  you can move his forms um they do this every month so they probably just have like some super
-[1723.16 --> 1727.00]  crazy contract where it's like yeah we're ordering like 10 000 shirts a month from you so we get blah blah
-[1727.00 --> 1731.24]  a lot yeah possibly a lot more than 10 000. i mean i have no idea how much business they do
+[1668.36 --> 1673.80]  that game was good was cool yeah um the uh sorry i already said the bandana the free game
+[1673.80 --> 1680.36]  that's i like that they have like a variety of stuff yes so they hit like it's kind of like and
+[1680.36 --> 1685.80]  like there's enough value there's enough value in each type of variety that it was probably worth it
+[1685.80 --> 1689.64]  even if there's a whole bunch of stuff you don't care i don't know how they do it so cheaply just to
+[1689.64 --> 1695.32]  be perfectly honest mass yeah mass ordering yeah even even then like things like t-shirts only go down
+[1695.32 --> 1700.20]  to a certain cost like well there's like six dollar t-shirts.com and stuff yeah but that's
+[1700.20 --> 1705.24]  just have to produce enough so that's six dollars so like yeah they only have 13 dollars but no they
+[1705.24 --> 1709.96]  sell it for six dollars i know but it's cheaper so maybe it's four dollars or three dollars but
+[1709.96 --> 1715.48]  that's still using up a significant chunk of your budget yeah and it's probably like they do this every
+[1715.48 --> 1723.16]  month you can move his forms um they do this every month so they probably just have like some super
+[1723.16 --> 1727.08]  crazy contractor it's like yeah we're ordering like 10 000 shirts a month from you so we get blah blah
+[1727.08 --> 1731.24]  a lot yeah possibly a lot more than 10 000. i mean i have no idea how much business they do
 [1731.24 --> 1737.96]  either i'm pretty sure it's huge though it's significant yeah yeah because i'm sure i'm not
 [1737.96 --> 1744.60]  the first person who's been like oh it could be a good idea if i order this myself and then sift through
-[1744.60 --> 1748.68]  the stuff and give it to someone else's presence like i'm sure i'm not the first person that's done
+[1744.60 --> 1748.68]  the stuff and give it to someone else's presents like i'm sure i'm not the first person that's done
 [1748.68 --> 1753.08]  that there's got to be some mom that subscribed to it and then uses everything in there as stocking
 [1753.08 --> 1757.48]  stuffers for christmas for example yeah people even like get this stuff to like decorate their
 [1757.48 --> 1763.48]  offices like when we went to the hyper x office yeah that one person had like so many pop vinyls
@@ -314,7 +319,7 @@
 [1887.08 --> 1891.40]  like this is good for this system even if the performance is identical to everything else yeah
 [1891.40 --> 1896.52]  yeah yeah yeah it's like if you need ram on either side of your cpu socket this might be important
 [1896.52 --> 1901.56]  yeah stuff like that and like the only things that i could see as an advantage of like those
-[1902.20 --> 1908.60]  rajentech or whatever ones that are coming out is like they look cooler yeah and good good looking air
+[1902.20 --> 1908.60]  rajintec or whatever ones that are coming out is like they look cooler yeah and good good looking air
 [1908.60 --> 1914.28]  coolers i'm i'm totally into yeah but like to do an ai liquid cooler review and be like the only thing
 [1914.28 --> 1919.24]  that's different is that it looks cool it's just like this is like awesome stuff this guy's like
 [1919.24 --> 1924.60]  yeah i got all this stuff from loot crate oh i guess i could just screen share derp in uh in a year
