@@ -1,3 +1,8 @@
+param(
+    [Parameter(Mandatory=$true, HelpMessage="The podcast folder name to process.")]
+    [string]$PodcastFolder
+)
+
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Continue"
 
@@ -19,6 +24,13 @@ function Write-ColoredOutput {
     Write-Host $Message -ForegroundColor $Color
 }
 
+# Validate that the podcast folder exists
+$PodcastPath = Join-Path -Path (Get-Location) -ChildPath $PodcastFolder
+if (-not (Test-Path -Path $PodcastPath -PathType Container)) {
+    Write-ColoredOutput "ERROR: Podcast folder '$PodcastFolder' not found at '$PodcastPath'" -Color $ErrorColor
+    exit 1
+}
+
 # Get the current directory path properly (remove provider prefix)
 $CurrentPath = (Get-Location).Path
 if ($CurrentPath -match '^\w+::\\') {
@@ -30,12 +42,14 @@ Write-ColoredOutput "TRANSCRIPT ARCHIVE SCRIPT" -Color $SuccessColor
 Write-ColoredOutput "========================================`n" -Color $SuccessColor
 
 Write-ColoredOutput "Current working directory: $CurrentPath" -Color $InfoColor
+Write-ColoredOutput "Podcast folder: $PodcastFolder" -Color $InfoColor
+Write-ColoredOutput "Podcast path: $PodcastPath" -Color $InfoColor
 Write-ColoredOutput "Current year (will skip): $CurrentYear`n" -Color $InfoColor
 
 # Get all year folders
-Write-ColoredOutput "Scanning year folders..." -Color $InfoColor
+Write-ColoredOutput "Scanning year folders in '$PodcastFolder'..." -Color $InfoColor
 $YearFolders = @()
-Get-ChildItem -Directory | ForEach-Object {
+Get-ChildItem -Path $PodcastPath -Directory | ForEach-Object {
     if ($_.Name -match '^\d{4}(-\d{4})?$') {
         # Extract the first year number from the folder name
         $yearMatch = [regex]::Match($_.Name, '^\d{4}')
@@ -64,7 +78,7 @@ $SkippedCount = 0
 
 foreach ($YearFolder in $YearFolders) {
     # Use the full path directly from the filesystem
-    $YearPath = (Get-Item $YearFolder).FullName
+    $YearPath = Join-Path -Path $PodcastPath -ChildPath $YearFolder
     
     # Extract the first year for the zip filename
     $yearMatch = [regex]::Match($YearFolder, '^\d{4}')
